@@ -1,0 +1,65 @@
+entidad_res,estado,sexo,ncasos,edad
+01,Aguascalientes,MUJER,1219,37
+01,Aguascalientes,HOMBRE,1086,35
+02,"Baja California",MUJER,3312,41
+02,"Baja California",HOMBRE,3069,41
+03,"Baja California Sur",MUJER,875,38
+03,"Baja California Sur",HOMBRE,854,38
+04,Campeche,MUJER,411,42
+04,Campeche,HOMBRE,520,43
+05,Coahuila,MUJER,2372,37
+05,Coahuila,HOMBRE,2177,36
+06,Colima,MUJER,409,36
+06,Colima,HOMBRE,375,36
+07,Chiapas,MUJER,996,40
+07,Chiapas,HOMBRE,1094,43
+08,Chihuahua,MUJER,1115,40
+08,Chihuahua,HOMBRE,1105,39
+09,"Ciudad de México",MUJER,11237,42
+09,"Ciudad de México",HOMBRE,11501,43
+10,Durango,MUJER,805,40
+10,Durango,HOMBRE,683,39
+11,Guanajuato,MUJER,3227,36
+11,Guanajuato,HOMBRE,3104,37
+12,Guerrero,MUJER,1237,44
+12,Guerrero,HOMBRE,1378,46
+13,Hidalgo,MUJER,1206,40
+13,Hidalgo,HOMBRE,1293,41
+14,Jalisco,MUJER,4309,38
+14,Jalisco,HOMBRE,3848,37
+15,"Estado de México",MUJER,7949,42
+15,"Estado de México",HOMBRE,8765,44
+16,Michoacán,MUJER,1491,40
+16,Michoacán,HOMBRE,1627,42
+17,Morelos,MUJER,875,41
+17,Morelos,HOMBRE,874,45
+18,Nayarit,MUJER,790,40
+18,Nayarit,HOMBRE,673,42
+19,"Nuevo León",MUJER,3859,35
+19,"Nuevo León",HOMBRE,3861,34
+20,Oaxaca,MUJER,1254,42
+20,Oaxaca,HOMBRE,1435,43
+21,Puebla,MUJER,2416,43
+21,Puebla,HOMBRE,2701,44
+22,Querétaro,MUJER,1368,37
+22,Querétaro,HOMBRE,1266,36
+23,"Quintana Roo",MUJER,1082,38
+23,"Quintana Roo",HOMBRE,1302,40
+24,"San Luis Potosí",MUJER,1817,37
+24,"San Luis Potosí",HOMBRE,1579,36
+25,Sinaloa,MUJER,2310,44
+25,Sinaloa,HOMBRE,2094,45
+26,Sonora,MUJER,2805,41
+26,Sonora,HOMBRE,2476,43
+27,Tabasco,MUJER,2144,43
+27,Tabasco,HOMBRE,2411,44
+28,Tamaulipas,MUJER,1501,41
+28,Tamaulipas,HOMBRE,1797,41
+29,Tlaxcala,MUJER,764,40
+29,Tlaxcala,HOMBRE,827,40
+30,Veracruz,MUJER,2913,42
+30,Veracruz,HOMBRE,3034,43
+31,Yucatán,MUJER,1095,39
+31,Yucatán,HOMBRE,1277,41
+32,Zacatecas,MUJER,636,36
+32,Zacatecas,HOMBRE,630,37
