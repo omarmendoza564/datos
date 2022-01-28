@@ -182,7 +182,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 203,339,miércoles,SUDOESTE,PHOENIX,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,180.0,Promedio,Neutral,Neutral
 204,2938,viernes,TURKISH AIRLINES,ESTAMBUL,Medio Oriente,Hub,Gates 91-102,2018-12-31,135.0,Promedio,Neutral,Neutral
 205,1396,martes,UNITED INTL,SHANGHAI,Asia,Hub,Gates 91-102,2018-12-31,295.0,Algo limpio,Muy seguro,Neutral
-206,1843,miércoles,SUDOESTE,SAN DIEGO,oeste de EE. UU.,Medium,Gates 20-39,2018-12-31,55.00000000000011,Medio,Algo seguro,Algo satisfecho
+206,1843,miércoles,SUDOESTE,SAN DIEGO,oeste de EE. UU.,Medium,Gates 20-39,2018-12-31,,Medio,Algo seguro,Algo satisfecho
 207,3038,martes,UNITED,PORTLAND,oeste de EE. UU.,Medium,Gates 70-90,2018-12-31,362.0,Algo limpio,Algo seguro,Algo satisfecho
 208,1482,miércoles,FRONTIER,DENVER,oeste de EE. UU.,  Hub ,Gates 20-39,2018-01-01,179.0,Algo limpio,Muy seguro,Algo satisfecho
 209,2670,martes,SUDOESTE,DENVER,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,260.0,Promedio,Muy seguro,Algo satisfecho
@@ -239,7 +239,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 270,2132,miércoles,FRONTIER,DENVER,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,183.0,Promedio,Muy seguro,Algo satisfecho
 271,2395,miércoles,UNITED INTL,BEIJING,Asia,Hub,Gates 91-102,2018-12-31,180.0,Algo limpio,Algo seguro,Muy satisfecho
 272,2126,lunes,UNITED INTL,CIUDAD DE MÉXICO,Canadá / México,Hub,Gates 91-102,2018-12-31,190.0,Limpio,Muy seguro,Algo satisfecho
-273,325,jueves,UNITED,BURBANK,West US,   Small,Gates 70-90,2018-12-31,55.00000000000011,Algo limpio,Muy seguro,Algo satisfecho
+273,325,jueves,UNITED,BURBANK,West US,   Small,Gates 70-90,2018-12-31,,Algo limpio,Muy seguro,Algo satisfecho
 274,2531,sábado,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,130.0,Algo limpio,Muy seguro,Muy satisfecho
 275,3210,jueves,AMERICAN,LOS ANGELES,oeste de EE. UU.,  Hub ,Gates 50-59,2018-12-31,160.0,Algo limpio,Muy seguro,Muy satisfecho
 276,1816,lunes,UNITED INTL,LONDON HEATHROW,Europa,Hub,Gates 91-102,2018-12-31,215.0,Promedio,Algo seguro,Algo satisfecho
@@ -255,7 +255,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 290,1769,jueves,AMERICAN,CHICAGO-O'HARE,Midwest US,Hub,Gates 50-59,2018-12-31,95.0,Algo limpio,Muy seguro,Algo satisfecho
 291,2122,jueves,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-12-31,125.0,Promedio,Neutral,Neutral
 292,2921,viernes,TURKISH AIRLINES,ESTAMBUL,Medio Oriente,Hub,Gates 91-102,2018-12-31,235.0,Limpio,Muy seguro,Muy satisfecho
-293,1180,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,55.00000000000011,Limpio,Muy seguro,Algo satisfecho
+293,1180,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,,Limpio,Muy seguro,Algo satisfecho
 294,836,domingo,ALASKA,SEATTLE,oeste de EE. UU.,  Hub ,Gates 50-59,2018-12-31,155.0,Algo limpio,Algo seguro,Algo satisfecho
 295,2899,jueves,DELTA,SALT LAKE CITY,oeste de EE. UU.,Medium,Gates 40-48,2018-12-31,105.0,Limpio,Muy seguro,Muy satisfecho
 296,659,jueves,UNITED,NEWARK,EAST US,Hub,Gates 70-90,2018-12-31,135.0,Algo limpio,Muy seguro,Neutral
@@ -672,7 +672,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 762,2640,martes,JETBLUE,NUEVA YORK-JFK,ESTE de EE. UU.,Hub,Gates 1-12,2018-12-31,113.0,Promedio,Algo seguro,Muy insatisfecho
 763,395,viernes,ALASKA,LOS ÁNGELES,oeste de EE. UU.,  Hub ,Gates 50-59,2018-12-31,205.0,Algo limpio,Muy seguro,Algo satisfecho
 764,728,miércoles,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-12-31,185.0,Limpio,Muy seguro,Muy satisfecho
-765,1215,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,55.00000000000011,Limpio,Algo seguro,Algo satisfecho
+765,1215,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,,Limpio,Algo seguro,Algo satisfecho
 766,2314,martes,UNITED,SAN ANTONIO,Midwest US,Medium,Gates 70-90,2018-12-31,150.0,Limpio,Algo seguro,Algo satisfecho
 767,1718,domingo,AIR FRANCE / KLM,PARIS-DE GAULLE,eur,Hub,Gates 1-12,2018-12-31,210.0,Promedio,Algo seguro,Neutral
 768,2383,miércoles,UNITED INTL,SYDNEY,Australia / Nueva Zelanda,Hub,Gates 91-102,2018-12-31,215.0,Limpio,Muy seguro,Algo satisfecho
@@ -1035,7 +1035,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 1173,2259,miércoles,UNITED,LOS ÁNGELES,Oeste de EE. UU.,Hub,Gates 60-69,2018-12-31,155.0,Limpio,Muy seguro,Muy satisfecho
 1174,1413,miércoles,UNITED,LAS VEGAS,West US,Hub,Gates 60-69,2018-12-31,112.0,Promedio,Algo seguro,Algo satisfecho
 1175,3058,martes,AMERICAN,MIAMI,EAST US,Hub,Gates 50-59,2018-12-31,125.0,Limpio,Muy seguro,Muy satisfecho
-1176,847,martes,AMERICAN,DALLAS-FT. VALOR,Medio Oeste de EE. UU.,Hub,Gates 50-59,2018-12-31,55.00000000000011,Limpio,Algo seguro,Algo satisfecho
+1176,847,martes,AMERICAN,DALLAS-FT. VALOR,Medio Oeste de EE. UU.,Hub,Gates 50-59,2018-12-31,,Limpio,Algo seguro,Algo satisfecho
 1177,2311,miércoles,QANTAS,SYDNEY,Australia / Nueva Zelanda,Hub,Gates 1-12,2018-12-31,225.0,Algo limpio,Muy seguro,Algo satisfecho
 1178,2340,miércoles,UNITED,AUSTIN,Medio Oeste de EE. UU.,Medium,Gates 70-90,2018-12-31,285.0,Algo limpio,Muy seguro,Algo satisfecho
 1179,2096,viernes,JETBLUE,LONG BEACH,oeste de EE. UU.,Small,Gates 1-12,2018-12-31,139.0,Algo limpio,Muy seguro,Muy satisfecho
@@ -2226,7 +2226,7 @@ nrow,id,dia,aerolinea,destino,region,dest_size,area_abordaje,fecha_salida,espera
 2535,2513,sábado,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,150.0,Limpio,Muy seguro,Muy satisfecho
 2536,2002,viernes,AIR FRANCE / KLM,PARIS-DE GAULLE,eur,Hub,Gates 1-12,2018-12-31,185.0,Algo limpio,Muy seguro,Muy satisfecho
 2537,3274,martes,UNITED,LAS VEGAS,West US,Hub,Gates 70-90,2018-12-31,130.0,Algo limpio,Algo seguro,Muy satisfecho
-2538,1224,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,55.00000000000011,Promedio,Algo seguro,Neutral
+2538,1224,martes,SUDOESTE,LAS VEGAS,oeste de EE. UU.,  Hub ,Gates 20-39,2018-12-31,,Promedio,Algo seguro,Neutral
 2539,924,viernes,AIR CANADA,TORONTO,Canadá / México,Hub,Gates 91-102,2018-12-31,180.0,Limpio,Muy seguro,Neutral
 2541,3197,domingo,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-01-01,180.0,Limpio,Muy seguro,Algo satisfecho
 2543,1781,sábado,UNITED,RALEIGH-DURHAM,Este de EE. UU.,Medium,Gates 70-90,2018-12-31,150.0,Limpio,Muy seguro,Muy satisfecho
