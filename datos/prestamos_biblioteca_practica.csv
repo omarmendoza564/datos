@@ -1,0 +1,671 @@
+﻿prestamo_id,fecha_prestamo,carrera,facultad,libro,autor,editorial,categoria,dias_prestamo,estatus,biblioteca,ciudad,observaciones,capturista
+PB-00217,2026-05-04,DERECHO, ciudad universitaria ,Cálculo I,Witten,Alfaomega, ciencias sociales ,25,En préstamo,biblioteca central ,nezahualcóyotl ,libro dañado,temporal
+PB-00154,2026-05-28,Derecho,FES ARAGON,Python para Todos,Stewart,UNAM,COMPUTACION,5,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,sin observación,admin
+PB-00522,2026-05-25,INGENIERIA EN COMPUTACION, ciudad universitaria ,Álgebra Lineal,Mendenhall,Pearson,Ciencias Sociales,5,VENCIDO, fes aragón ,CDMX,revisar,admin
+PB-00255,2026-03-05,INGENIERIA EN COMPUTACION,FES ARAGON,Álgebra Lineal,Tanenbaum,PEARSON,Computación,7,en préstamo ,BIBLIOTECA CENTRAL,Ciudad de México,libro dañado,temporal
+PB-00380,2026-06-01,Derecho, fes aragón ,Cálculo I,Date,,Ciencias Sociales,3,VENCIDO, fes aragón ,Ciudad de México,renovación,cap02
+PB-00543,2026-04-07,derecho ,Ciudad Universitaria,Minería de Datos,Guido,Mcgraw-Hill,Ciencias Sociales,30,En préstamo, fes aragón ,Nezahualcóyotl,libro dañado,cap01
+PB-00048,2026-03-12,comunicación ,Ciudad Universitaria,Cálculo I,Tanenbaum, pearson ,Ciencias Sociales,30,EN PRESTAMO,FES ARAGON,CDMX,libro dañado,temporal
+PB-00070,2026-05-13,Derecho,FES ARAGON,Minería de Datos,Guido, pearson ,Ciencias Sociales,30,VENCIDO,biblioteca central ,NEZAHUALCOYOTL,sin observación,admin
+PB-00113,2026-05-29,INGENIERIA EN COMPUTACION,FES Aragón,Minería de Datos,Grossman,McGraw Hill, ciencias sociales ,20,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,cap01
+PB-00559,2026-03-30, ing. computacion ,CU,Python para Todos,Tanenbaum, pearson ,COMPUTACION,20,Vencido,FES Aragón,NEZAHUALCOYOTL,,cap01
+PB-00142,2026-03-16, ing. computacion ,FES Aragón,Python para Todos,Tanenbaum,McGraw Hill, computación ,,en préstamo ,BIBLIOTECA CENTRAL,CDMX,renovación,temporal
+PB-00497,2026-05-29, ing. computacion ,CU,Cálculo I,Grossman,,Computación,15,Devuelto,Biblioteca Central,Ciudad de México,renovación,admin
+PB-00543,2026-04-07,derecho ,Ciudad Universitaria,Minería de Datos,Guido,Mcgraw-Hill,Ciencias Sociales,30,En préstamo, fes aragón ,Nezahualcóyotl,libro dañado,cap01
+PB-00585,2026-02-09,comunicación ,Ciudad Universitaria,Álgebra Lineal,Grossman,Alfaomega,MATEMATICAS,25,Vencido,biblioteca central ,Nezahualcóyotl,libro dañado,temporal
+PB-00472,2026-05-14,comunicación , fes aragón ,Cálculo I,Mendenhall,,COMPUTACION,25,VENCIDO,Biblioteca Central,Nezahualcóyotl,sin observación,admin
+PB-00449,2026-03-13, ing. computacion ,FES Aragón,Bases de Datos,Grossman,Pearson,MATEMATICAS,30,en préstamo ,FES Aragón,NEZAHUALCOYOTL,sin observación,cap02
+PB-00025,2026-03-28,Ingeniería en Computación,Ciudad Universitaria,Álgebra Lineal,Stewart,,MATEMATICAS,30,en préstamo ,FES Aragón,ciudad de mexico ,renovación,cap02
+PB-00020,2026-02-22, ing. computacion ,CU,Cálculo I,Guido,McGraw Hill,Computación,,Devuelto,FES ARAGON,ciudad de mexico ,renovación,temporal
+PB-00622,2026-04-02,Ing. en Computación, ciudad universitaria ,Cálculo I,Date, pearson ,Matemáticas,20,devuelto ,biblioteca central ,Nezahualcóyotl,sin observación,admin
+PB-00442,2026-02-25,Matemáticas, fes aragón ,Bases de Datos,Guido,McGraw Hill,MATEMATICAS,15,En préstamo,FES Aragón,NEZAHUALCOYOTL,,admin
+PB-00633,2026-02-25, matematicas , ciudad universitaria ,Cálculo I,Mendenhall,Mcgraw-Hill,MATEMATICAS,3,Vencido, fes aragón ,CDMX,renovación,cap02
+PB-00310,2026-04-18,MATEMATICAS, ciudad universitaria ,Álgebra Lineal,Date,McGraw Hill,Computación,,En préstamo,FES Aragón,Ciudad de México,libro dañado,cap02
+PB-00175,2026-04-20,Ingeniería en Computación,FES ARAGON,Álgebra Lineal,Grossman,, computación ,7,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,libro dañado,cap01
+PB-00240,2026-03-01,DERECHO,FES Aragón,Redes de Computadoras,Grossman,PEARSON,Ciencias Sociales,7,VENCIDO,BIBLIOTECA CENTRAL,nezahualcóyotl ,libro dañado,temporal
+PB-00417,2026-02-02,Comunicación y Periodismo,FES Aragón,Redes de Computadoras,Mendenhall,,Computación,20,devuelto , fes aragón ,CDMX,libro dañado,cap02
+PB-00353,2026-03-24, ing. computacion ,Ciudad Universitaria,Python para Todos,Mendenhall,Pearson, computación ,15,VENCIDO,FES Aragón,NEZAHUALCOYOTL,libro dañado,temporal
+PB-00316,2026-02-27,DERECHO,Ciudad Universitaria,Estadística Básica,Date,UNAM,COMPUTACION,30,VENCIDO,Biblioteca Central,ciudad de mexico ,revisar,admin
+PB-00457,2026-05-21,Comunicación y Periodismo, fes aragón ,Minería de Datos,Tanenbaum,,Ciencias Sociales,10,EN PRESTAMO, fes aragón ,Nezahualcóyotl,revisar,temporal
+PB-00244,2026-03-25,Matemáticas, ciudad universitaria ,Minería de Datos,Guido,, computación ,7,Devuelto,BIBLIOTECA CENTRAL,CDMX,libro dañado,cap02
+PB-00236,2026-03-28,Ingeniería en Computación, ciudad universitaria ,Python para Todos,Stewart,Alfaomega,Computación,30,devuelto ,Biblioteca Central,nezahualcóyotl ,sin observación,cap02
+PB-00129,2026-03-25,comunicación , ciudad universitaria ,Cálculo I,Guido,UNAM, computación ,5,En préstamo, fes aragón ,ciudad de mexico ,sin observación,cap01
+PB-00410,2026-05-22,derecho , ciudad universitaria ,Minería de Datos,Mendenhall,McGraw Hill,Ciencias Sociales,7,devuelto ,FES ARAGON,nezahualcóyotl ,revisar,temporal
+PB-00416,,Ingeniería en Computación, fes aragón ,Bases de Datos,Date,Pearson,Computación,20,en préstamo ,Biblioteca Central,Ciudad de México,libro dañado,cap01
+PB-00395,2026-05-25,Ing. en Computación,FES ARAGON,Bases de Datos,Witten,McGraw Hill,COMPUTACION,,en préstamo ,FES Aragón,Nezahualcóyotl,renovación,cap01
+PB-00345,2026-04-11,COMUNICACION Y PERIODISMO,FES Aragón,Cálculo I,Grossman,Pearson,COMPUTACION,25,Vencido,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,renovación,admin
+PB-00178,,Ingeniería en Computación,FES Aragón,Bases de Datos,Date,McGraw Hill, computación ,3,VENCIDO, fes aragón ,nezahualcóyotl ,,cap02
+PB-00580,2026-04-07, matematicas , fes aragón ,Minería de Datos,Grossman, pearson , computación ,7,en préstamo ,FES ARAGON,NEZAHUALCOYOTL,renovación,cap01
+PB-00056,2026-05-22,Matemáticas,FES Aragón,Álgebra Lineal,Grossman,PEARSON, ciencias sociales ,5,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,cap01
+PB-00374,2026-04-17,Comunicación y Periodismo,FES Aragón,Bases de Datos,Tanenbaum,,Ciencias Sociales,25,en préstamo ,FES Aragón,ciudad de mexico ,libro dañado,admin
+PB-00157,2026-05-02,derecho ,FES ARAGON,Álgebra Lineal,Date,, ciencias sociales ,10,en préstamo , fes aragón ,ciudad de mexico ,sin observación,cap01
+PB-00340,,DERECHO,CU,Minería de Datos,Tanenbaum,PEARSON, ciencias sociales ,30,en préstamo ,Biblioteca Central,Ciudad de México,,cap01
+PB-00547,2026-03-16,Comunicación y Periodismo, fes aragón ,Estadística Básica,Guido, pearson , computación ,10,devuelto ,FES Aragón,NEZAHUALCOYOTL,,cap02
+PB-00425,2026-04-14,Ingeniería en Computación,Ciudad Universitaria,Bases de Datos,Mendenhall,McGraw Hill,COMPUTACION,7,Devuelto,Biblioteca Central,Ciudad de México,revisar,temporal
+PB-00159,2026-06-01,Comunicación y Periodismo, fes aragón ,Álgebra Lineal,Mendenhall,,Matemáticas,,devuelto ,FES ARAGON,Ciudad de México,sin observación,cap01
+PB-00120,2026-03-28, matematicas , fes aragón ,Cálculo I,Stewart,Mcgraw-Hill,Matemáticas,5,Vencido,FES ARAGON,ciudad de mexico ,libro dañado,admin
+PB-00551,2026-03-13,INGENIERIA EN COMPUTACION,FES ARAGON,Python para Todos,Tanenbaum,Pearson,COMPUTACION,,En préstamo,Biblioteca Central,nezahualcóyotl ,renovación,cap01
+PB-00494,2026-04-14,Matemáticas,FES ARAGON,Álgebra Lineal,Tanenbaum, pearson ,Matemáticas,5,EN PRESTAMO,FES ARAGON,Nezahualcóyotl,renovación,cap01
+PB-00021,2026-05-24,Ing. en Computación, fes aragón ,Cálculo I,Date,Mcgraw-Hill,Matemáticas,25,,Biblioteca Central,Nezahualcóyotl,libro dañado,admin
+PB-00611,2026-02-06,Matemáticas,FES ARAGON,Python para Todos,Guido,PEARSON, computación ,7,en préstamo ,FES ARAGON,ciudad de mexico ,,cap01
+PB-00187,2026-04-13,comunicación ,FES Aragón,Estadística Básica,Date, pearson ,COMPUTACION,,EN PRESTAMO,FES ARAGON,NEZAHUALCOYOTL,revisar,admin
+PB-00538,2026-03-05,DERECHO, ciudad universitaria ,Python para Todos,Tanenbaum,UNAM,Computación,20,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,temporal
+PB-00341,2026-02-28,derecho ,Ciudad Universitaria,Python para Todos,Grossman,McGraw Hill,Matemáticas,15,devuelto ,FES ARAGON,nezahualcóyotl ,,cap02
+PB-00461,2026-02-13, ing. computacion , ciudad universitaria ,Estadística Básica,Date,UNAM,MATEMATICAS,5,EN PRESTAMO,FES Aragón,NEZAHUALCOYOTL,,temporal
+PB-00088,2026-03-12,derecho ,CU,Minería de Datos,Witten,,Computación,,Vencido,biblioteca central ,CDMX,libro dañado,cap02
+PB-00339,2026-03-16,DERECHO, ciudad universitaria ,Estadística Básica,Guido,,Matemáticas,30,EN PRESTAMO,FES Aragón,NEZAHUALCOYOTL,revisar,cap02
+PB-00610,2026-03-07,DERECHO,FES Aragón,Bases de Datos,Mendenhall,Pearson,Computación,,Vencido,biblioteca central ,NEZAHUALCOYOTL,sin observación,admin
+PB-00635,2026-05-17,derecho ,FES ARAGON,Redes de Computadoras,Grossman,PEARSON,Computación,,Vencido,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,temporal
+PB-00629,2026-03-23,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Python para Todos,Grossman,Pearson,Ciencias Sociales,5,devuelto ,Biblioteca Central,Ciudad de México,,admin
+PB-00097,2026-04-11,derecho , fes aragón ,Estadística Básica,Mendenhall,Mcgraw-Hill,Computación,7,En préstamo,Biblioteca Central,Nezahualcóyotl,libro dañado,cap02
+PB-00376,2026-02-01,derecho ,Ciudad Universitaria,Estadística Básica,Witten,Mcgraw-Hill,COMPUTACION,3,Devuelto,BIBLIOTECA CENTRAL,ciudad de mexico ,libro dañado,cap01
+PB-00549,2026-03-30,COMUNICACION Y PERIODISMO, fes aragón ,Estadística Básica,Stewart,McGraw Hill,COMPUTACION,7,VENCIDO,Biblioteca Central,nezahualcóyotl ,libro dañado,cap01
+PB-00428,2026-05-15,Comunicación y Periodismo, fes aragón ,Bases de Datos,Mendenhall,Alfaomega,Ciencias Sociales,25,en préstamo ,biblioteca central ,Ciudad de México,revisar,cap01
+PB-00340,,DERECHO,CU,Minería de Datos,Tanenbaum,PEARSON, ciencias sociales ,30,en préstamo ,Biblioteca Central,Ciudad de México,,cap01
+PB-00305,2026-04-25,Matemáticas,CU,Estadística Básica,Stewart,PEARSON,COMPUTACION,25,VENCIDO,biblioteca central ,NEZAHUALCOYOTL,renovación,temporal
+PB-00133,2026-02-07,Matemáticas,CU,Minería de Datos,Date,Mcgraw-Hill,Computación,10,VENCIDO,FES ARAGON,nezahualcóyotl ,,temporal
+PB-00356,2026-04-17,COMUNICACION Y PERIODISMO,CU,Álgebra Lineal,Date,McGraw Hill, computación ,30,en préstamo , fes aragón ,Ciudad de México,sin observación,admin
+PB-00398,2026-02-21,Derecho, fes aragón ,Python para Todos,Mendenhall,Alfaomega,Matemáticas,15,devuelto ,biblioteca central ,Ciudad de México,,cap01
+PB-00230,2026-03-15,Ing. en Computación, ciudad universitaria ,Minería de Datos,Date,Alfaomega,COMPUTACION,20,devuelto ,biblioteca central ,CDMX,sin observación,cap01
+PB-00293,2026-02-24,Ing. en Computación,Ciudad Universitaria,Redes de Computadoras,Tanenbaum, pearson ,COMPUTACION,30,devuelto ,biblioteca central ,CDMX,revisar,cap01
+PB-00004,2026-02-03,Matemáticas,CU,Python para Todos,Stewart, pearson ,Matemáticas,5,EN PRESTAMO,FES Aragón,Ciudad de México,sin observación,cap01
+PB-00466,2026-02-27,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Bases de Datos,Stewart,Mcgraw-Hill, ciencias sociales ,7,EN PRESTAMO,biblioteca central ,nezahualcóyotl ,revisar,cap02
+PB-00405,2026-05-26,comunicación , fes aragón ,Python para Todos,Mendenhall,PEARSON, computación ,15,EN PRESTAMO,Biblioteca Central,nezahualcóyotl ,renovación,admin
+PB-00498,2026-05-22,Matemáticas, fes aragón ,Redes de Computadoras,Mendenhall,Mcgraw-Hill,Ciencias Sociales,20,Vencido,BIBLIOTECA CENTRAL,CDMX,,admin
+PB-00492,2026-06-11, matematicas ,FES Aragón,Redes de Computadoras,Stewart,,Ciencias Sociales,3,Vencido,Biblioteca Central,NEZAHUALCOYOTL,sin observación,admin
+PB-00504,2026-05-13, ing. computacion , ciudad universitaria ,Cálculo I,Mendenhall,PEARSON,Ciencias Sociales,3,Devuelto,FES ARAGON,NEZAHUALCOYOTL,,cap01
+PB-00080,2026-05-08,comunicación ,CU,Cálculo I,Mendenhall,UNAM,Computación,20,En préstamo, fes aragón ,Nezahualcóyotl,sin observación,cap02
+PB-00071,2026-03-16, matematicas ,FES Aragón,Bases de Datos,Grossman,,MATEMATICAS,,devuelto ,FES ARAGON,NEZAHUALCOYOTL,libro dañado,cap02
+PB-00528,,DERECHO,FES ARAGON,Python para Todos,Tanenbaum,,MATEMATICAS,3,Devuelto,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,admin
+PB-00304,2026-02-19,comunicación ,FES ARAGON,Álgebra Lineal,Witten,,Ciencias Sociales,20,En préstamo,FES ARAGON,ciudad de mexico ,sin observación,cap01
+PB-00084,2026-05-03, matematicas ,FES Aragón,Estadística Básica,Mendenhall,UNAM, ciencias sociales ,25,Devuelto,FES Aragón,ciudad de mexico ,renovación,temporal
+PB-00272,2026-04-01,Matemáticas,FES Aragón,Cálculo I,Tanenbaum,McGraw Hill,COMPUTACION,5,,BIBLIOTECA CENTRAL,CDMX,sin observación,admin
+PB-00235,2026-05-17,DERECHO, fes aragón ,Python para Todos,Date,, computación ,15,devuelto ,FES Aragón,ciudad de mexico ,libro dañado,admin
+PB-00196,2026-03-25,Comunicación y Periodismo,CU,Bases de Datos,Tanenbaum,Mcgraw-Hill,COMPUTACION,10,devuelto ,FES Aragón,Nezahualcóyotl,revisar,temporal
+PB-00225,2026-03-12,Comunicación y Periodismo, ciudad universitaria ,Estadística Básica,Tanenbaum,Pearson,Ciencias Sociales,15,Devuelto,Biblioteca Central,ciudad de mexico ,sin observación,temporal
+PB-00534,2026-05-24,Matemáticas,FES ARAGON,Python para Todos,Witten,Mcgraw-Hill,Matemáticas,25,Devuelto,biblioteca central ,ciudad de mexico ,libro dañado,cap02
+PB-00009,2026-05-31,Ing. en Computación,FES ARAGON,Redes de Computadoras,Witten,Pearson, computación ,5,EN PRESTAMO,FES Aragón,Ciudad de México,sin observación,admin
+PB-00432,2026-02-24,MATEMATICAS,Ciudad Universitaria,Bases de Datos,Guido,UNAM,COMPUTACION,10,EN PRESTAMO, fes aragón ,CDMX,sin observación,admin
+PB-00627,2026-02-22, ing. computacion , fes aragón ,Álgebra Lineal,Date,UNAM,COMPUTACION,10,Devuelto,FES Aragón,CDMX,libro dañado,temporal
+PB-00090,2026-03-20,comunicación ,Ciudad Universitaria,Redes de Computadoras,Witten,PEARSON, computación ,,Vencido,Biblioteca Central,CDMX,,temporal
+PB-00323,2026-03-25, matematicas , ciudad universitaria ,Estadística Básica,Witten,PEARSON, computación ,3,EN PRESTAMO, fes aragón ,CDMX,sin observación,cap01
+PB-00483,2026-02-03,comunicación ,CU,Estadística Básica,Guido,PEARSON, computación ,7,devuelto , fes aragón ,NEZAHUALCOYOTL,,cap01
+PB-00253,2026-04-01,Derecho,Ciudad Universitaria,Minería de Datos,Tanenbaum,UNAM,Matemáticas,25,VENCIDO,FES ARAGON,nezahualcóyotl ,,admin
+PB-00540,2026-03-16, matematicas ,FES Aragón,Cálculo I,Tanenbaum,UNAM, ciencias sociales ,30,VENCIDO,Biblioteca Central,CDMX,,admin
+PB-00044,2026-05-28,MATEMATICAS, ciudad universitaria ,Python para Todos,Guido,PEARSON, computación ,10,VENCIDO,BIBLIOTECA CENTRAL,Ciudad de México,sin observación,admin
+PB-00439,,derecho , ciudad universitaria ,Estadística Básica,Stewart,,COMPUTACION,20,devuelto ,Biblioteca Central,Ciudad de México,renovación,admin
+PB-00535,2026-03-25,Derecho,Ciudad Universitaria,Minería de Datos,Stewart,PEARSON,Ciencias Sociales,7,Vencido,Biblioteca Central,Nezahualcóyotl,libro dañado,cap01
+PB-00501,2026-04-23,Ing. en Computación,CU,Bases de Datos,Guido,McGraw Hill, computación ,30,Vencido,biblioteca central ,CDMX,renovación,cap01
+PB-00172,2026-03-11,DERECHO,Ciudad Universitaria,Python para Todos,Date,, computación ,30,En préstamo,FES ARAGON,Ciudad de México,,temporal
+PB-00087,2026-03-06,Ingeniería en Computación,FES ARAGON,Python para Todos,Grossman,Mcgraw-Hill, ciencias sociales ,10,VENCIDO,Biblioteca Central,Ciudad de México,revisar,cap02
+PB-00526,2026-03-17,derecho , ciudad universitaria ,Minería de Datos,Guido,UNAM,MATEMATICAS,15,en préstamo ,Biblioteca Central,Ciudad de México,,cap01
+PB-00093,2026-03-17,DERECHO,FES ARAGON,Cálculo I,Stewart,, computación ,5,En préstamo,Biblioteca Central,CDMX,renovación,cap01
+PB-00008,2026-06-07,MATEMATICAS,CU,Estadística Básica,Stewart,Alfaomega, ciencias sociales ,,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,,admin
+PB-00487,2026-04-25, matematicas , fes aragón ,Álgebra Lineal,Stewart,,Matemáticas,30,VENCIDO, fes aragón ,CDMX,,cap01
+PB-00548,2026-02-06,MATEMATICAS,FES ARAGON,Minería de Datos,Date,Alfaomega,Computación,10,Vencido,FES ARAGON,CDMX,libro dañado,cap01
+PB-00211,2026-03-24,DERECHO,CU,Python para Todos,Stewart, pearson ,Ciencias Sociales,5,VENCIDO,Biblioteca Central,nezahualcóyotl ,revisar,temporal
+PB-00526,2026-03-17,derecho , ciudad universitaria ,Minería de Datos,Guido,UNAM,MATEMATICAS,15,en préstamo ,Biblioteca Central,Ciudad de México,,cap01
+PB-00143,2026-02-03,Matemáticas,CU,Bases de Datos,Date,, ciencias sociales ,,,BIBLIOTECA CENTRAL,CDMX,renovación,cap02
+PB-00141,2026-02-07,Ingeniería en Computación, ciudad universitaria ,Estadística Básica,Witten, pearson ,Computación,3,devuelto ,FES Aragón,NEZAHUALCOYOTL,libro dañado,admin
+PB-00073,2026-05-18,DERECHO,CU,Python para Todos,Witten,Mcgraw-Hill,Matemáticas,10,VENCIDO,Biblioteca Central,ciudad de mexico ,libro dañado,admin
+PB-00290,2026-02-13,Comunicación y Periodismo,FES Aragón,Bases de Datos,Guido,, ciencias sociales ,20,devuelto ,Biblioteca Central,nezahualcóyotl ,sin observación,temporal
+PB-00213,2026-02-07,Comunicación y Periodismo,FES ARAGON,Bases de Datos,Grossman,Alfaomega,COMPUTACION,30,Devuelto, fes aragón ,CDMX,revisar,cap01
+PB-00490,2026-04-13,derecho , fes aragón ,Estadística Básica,Witten,Pearson,COMPUTACION,,Devuelto,BIBLIOTECA CENTRAL,Ciudad de México,,admin
+PB-00582,,comunicación ,CU,Python para Todos,Stewart,PEARSON,Computación,15,En préstamo,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,sin observación,admin
+PB-00521,,Comunicación y Periodismo,Ciudad Universitaria,Minería de Datos,Guido,McGraw Hill,Ciencias Sociales,30,en préstamo ,FES ARAGON,nezahualcóyotl ,sin observación,cap02
+PB-00153,2026-05-18,DERECHO, fes aragón ,Bases de Datos,Guido,McGraw Hill, computación ,10,VENCIDO,biblioteca central ,Nezahualcóyotl,renovación,temporal
+PB-00546,2026-05-16,COMUNICACION Y PERIODISMO,FES ARAGON,Álgebra Lineal,Grossman,Alfaomega,Ciencias Sociales,20,devuelto , fes aragón ,nezahualcóyotl ,revisar,temporal
+PB-00605,2026-05-21,Ingeniería en Computación, fes aragón ,Python para Todos,Mendenhall,Pearson, computación ,10,Vencido,FES ARAGON,CDMX,,admin
+PB-00300,2026-02-10,Ing. en Computación, fes aragón ,Python para Todos,Tanenbaum,Alfaomega,Ciencias Sociales,15,VENCIDO,biblioteca central ,Nezahualcóyotl,sin observación,cap01
+PB-00027,2026-06-05,Ingeniería en Computación,FES ARAGON,Cálculo I,Stewart,UNAM,MATEMATICAS,3,en préstamo ,FES Aragón,Ciudad de México,,cap01
+PB-00431,2026-03-17, ing. computacion ,FES Aragón,Álgebra Lineal,Mendenhall,Pearson, computación ,10,devuelto ,Biblioteca Central,ciudad de mexico ,sin observación,cap01
+PB-00335,2026-02-13,derecho ,FES ARAGON,Redes de Computadoras,Date,PEARSON, computación ,30,VENCIDO,FES ARAGON,NEZAHUALCOYOTL,revisar,temporal
+PB-00057,2026-02-11,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Bases de Datos,Grossman,, computación ,20,Vencido,biblioteca central ,CDMX,renovación,cap01
+PB-00227,2026-05-14,Ingeniería en Computación,FES ARAGON,Álgebra Lineal,Guido,PEARSON, computación ,20,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,sin observación,cap01
+PB-00059,2026-04-16, matematicas ,FES Aragón,Minería de Datos,Guido,PEARSON,Ciencias Sociales,25,VENCIDO,Biblioteca Central,Nezahualcóyotl,sin observación,cap02
+PB-00010,2026-02-23, ing. computacion ,FES Aragón,Estadística Básica,Guido,UNAM,COMPUTACION,,en préstamo ,Biblioteca Central,NEZAHUALCOYOTL,revisar,temporal
+PB-00612,2026-03-19, matematicas ,FES ARAGON,Álgebra Lineal,Mendenhall,,Computación,20,en préstamo ,biblioteca central ,CDMX,,admin
+PB-00415,2026-05-03,INGENIERIA EN COMPUTACION,CU,Cálculo I,Tanenbaum,UNAM,Computación,7,devuelto ,Biblioteca Central,ciudad de mexico ,renovación,admin
+PB-00236,2026-03-28,Ingeniería en Computación, ciudad universitaria ,Python para Todos,Stewart,Alfaomega,Computación,30,devuelto ,Biblioteca Central,nezahualcóyotl ,sin observación,cap02
+PB-00381,2026-05-12,Ing. en Computación,FES ARAGON,Python para Todos,Witten,Alfaomega,Computación,10,VENCIDO,BIBLIOTECA CENTRAL,ciudad de mexico ,revisar,cap01
+PB-00123,2026-03-03,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Álgebra Lineal,Stewart,Pearson, computación ,10,Vencido,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,libro dañado,admin
+PB-00506,2026-03-01,INGENIERIA EN COMPUTACION,FES ARAGON,Álgebra Lineal,Guido,McGraw Hill,MATEMATICAS,30,VENCIDO,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,temporal
+PB-00590,2026-06-06, matematicas , ciudad universitaria ,Minería de Datos,Tanenbaum,Alfaomega,MATEMATICAS,7,Devuelto, fes aragón ,NEZAHUALCOYOTL,sin observación,cap02
+PB-00344,2026-03-30,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Bases de Datos,Grossman,McGraw Hill,COMPUTACION,,Vencido,FES Aragón,Nezahualcóyotl,libro dañado,temporal
+PB-00066,2026-03-07,INGENIERIA EN COMPUTACION,FES ARAGON,Bases de Datos,Guido,Alfaomega,Matemáticas,25,Vencido,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,cap01
+PB-00599,2026-02-23,DERECHO,Ciudad Universitaria,Estadística Básica,Stewart,, ciencias sociales ,10,devuelto ,FES Aragón,Ciudad de México,sin observación,cap02
+PB-00482,2026-02-22,derecho , fes aragón ,Álgebra Lineal,Grossman,PEARSON, ciencias sociales ,25,Devuelto,FES ARAGON,NEZAHUALCOYOTL,libro dañado,cap01
+PB-00199,2026-06-04,Ingeniería en Computación,CU,Álgebra Lineal,Witten,Alfaomega,Matemáticas,,En préstamo,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,admin
+PB-00284,2026-06-10, matematicas , fes aragón ,Estadística Básica,Guido, pearson ,Matemáticas,25,devuelto ,BIBLIOTECA CENTRAL,nezahualcóyotl ,sin observación,temporal
+PB-00532,2026-02-15,Ingeniería en Computación,FES ARAGON,Álgebra Lineal,Mendenhall,,Matemáticas,3,EN PRESTAMO,biblioteca central ,ciudad de mexico ,revisar,cap01
+PB-00377,2026-05-28,COMUNICACION Y PERIODISMO, ciudad universitaria ,Redes de Computadoras,Tanenbaum,Pearson, computación ,15,VENCIDO,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,admin
+PB-00130,2026-02-04,Ing. en Computación,CU,Minería de Datos,Date,,MATEMATICAS,7,devuelto , fes aragón ,NEZAHUALCOYOTL,,admin
+PB-00388,2026-02-19,INGENIERIA EN COMPUTACION, fes aragón ,Python para Todos,Tanenbaum,,Ciencias Sociales,10,devuelto , fes aragón ,NEZAHUALCOYOTL,renovación,cap02
+PB-00484,2026-04-11,Derecho,CU,Redes de Computadoras,Guido, pearson , ciencias sociales ,10,Devuelto, fes aragón ,Nezahualcóyotl,sin observación,cap01
+PB-00500,2026-04-25, matematicas ,CU,Redes de Computadoras,Date,PEARSON, ciencias sociales ,10,Vencido,FES Aragón,Ciudad de México,renovación,cap02
+PB-00437,2026-05-12,derecho , ciudad universitaria ,Cálculo I,Grossman,PEARSON,MATEMATICAS,,Vencido,FES Aragón,nezahualcóyotl ,,cap01
+PB-00539,2026-03-13, ing. computacion ,FES ARAGON,Bases de Datos,Witten, pearson ,MATEMATICAS,7,devuelto ,biblioteca central ,nezahualcóyotl ,renovación,cap01
+PB-00250,2026-02-15, ing. computacion ,CU,Bases de Datos,Mendenhall, pearson ,Computación,3,En préstamo,Biblioteca Central,CDMX,revisar,cap01
+PB-00169,2026-02-26,Ing. en Computación,FES ARAGON,Minería de Datos,Tanenbaum, pearson ,MATEMATICAS,25,EN PRESTAMO,FES Aragón,CDMX,revisar,cap02
+PB-00055,2026-06-03,Derecho, fes aragón ,Álgebra Lineal,Witten, pearson ,Ciencias Sociales,25,Vencido, fes aragón ,Nezahualcóyotl,sin observación,cap02
+PB-00270,2026-03-31,Ing. en Computación,FES ARAGON,Álgebra Lineal,Grossman,McGraw Hill,Ciencias Sociales,3,Devuelto,BIBLIOTECA CENTRAL,ciudad de mexico ,revisar,admin
+PB-00502,,COMUNICACION Y PERIODISMO, fes aragón ,Álgebra Lineal,Mendenhall,,Matemáticas,3,devuelto ,biblioteca central ,nezahualcóyotl ,libro dañado,cap01
+PB-00131,2026-04-28,Ing. en Computación,FES Aragón,Estadística Básica,Witten,Alfaomega,MATEMATICAS,3,EN PRESTAMO,FES ARAGON,CDMX,libro dañado,cap01
+PB-00047,2026-03-25,COMUNICACION Y PERIODISMO, fes aragón ,Python para Todos,Date,PEARSON, ciencias sociales ,,Vencido,Biblioteca Central,Nezahualcóyotl,libro dañado,cap02
+PB-00601,2026-06-08,INGENIERIA EN COMPUTACION,FES Aragón,Estadística Básica,Stewart,McGraw Hill, computación ,5,devuelto ,biblioteca central ,ciudad de mexico ,sin observación,temporal
+PB-00121,2026-03-11,Ing. en Computación,FES Aragón,Cálculo I,Stewart,McGraw Hill,Ciencias Sociales,5,Vencido,biblioteca central ,Ciudad de México,,cap02
+PB-00576,2026-05-22,Derecho, ciudad universitaria ,Estadística Básica,Stewart,Pearson, computación ,,EN PRESTAMO,Biblioteca Central,Nezahualcóyotl,,admin
+PB-00550,2026-04-24,MATEMATICAS, fes aragón ,Minería de Datos,Witten,Pearson,Computación,7,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,,admin
+PB-00259,2026-03-06,COMUNICACION Y PERIODISMO,FES ARAGON,Minería de Datos,Stewart,Pearson, ciencias sociales ,25,devuelto ,biblioteca central ,ciudad de mexico ,libro dañado,cap02
+PB-00220,2026-05-01,Derecho, fes aragón ,Álgebra Lineal,Witten,UNAM, computación ,20,En préstamo,biblioteca central ,NEZAHUALCOYOTL,revisar,cap02
+PB-00347,2026-02-25,DERECHO,Ciudad Universitaria,Minería de Datos,Tanenbaum,Alfaomega,COMPUTACION,20,en préstamo , fes aragón ,nezahualcóyotl ,renovación,cap01
+PB-00124,2026-03-03,comunicación , fes aragón ,Redes de Computadoras,Witten,Pearson, ciencias sociales ,3,en préstamo ,Biblioteca Central,ciudad de mexico ,sin observación,cap02
+PB-00480,2026-02-14,COMUNICACION Y PERIODISMO, fes aragón ,Álgebra Lineal,Guido,, ciencias sociales ,7,VENCIDO, fes aragón ,Nezahualcóyotl,revisar,temporal
+PB-00399,2026-04-07,INGENIERIA EN COMPUTACION,FES ARAGON,Cálculo I,Guido,Pearson, ciencias sociales ,,devuelto ,FES Aragón,nezahualcóyotl ,libro dañado,cap01
+PB-00035,2026-06-11,Derecho,FES Aragón,Redes de Computadoras,Tanenbaum,McGraw Hill,MATEMATICAS,30,devuelto , fes aragón ,Ciudad de México,renovación,admin
+PB-00569,2026-02-09,COMUNICACION Y PERIODISMO, ciudad universitaria ,Bases de Datos,Date,McGraw Hill,COMPUTACION,20,en préstamo , fes aragón ,Nezahualcóyotl,libro dañado,admin
+PB-00485,2026-02-05,Matemáticas,CU,Redes de Computadoras,Mendenhall,McGraw Hill,MATEMATICAS,,Devuelto,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,temporal
+PB-00299,2026-02-26, matematicas ,CU,Álgebra Lineal,Stewart,, computación ,3,Vencido,Biblioteca Central,NEZAHUALCOYOTL,sin observación,temporal
+PB-00368,2026-03-22,DERECHO,FES Aragón,Bases de Datos,Guido,Pearson,COMPUTACION,,en préstamo ,Biblioteca Central,Ciudad de México,revisar,cap02
+PB-00260,2026-03-31,Ingeniería en Computación,FES Aragón,Bases de Datos,Date, pearson ,Computación,15,En préstamo,FES ARAGON,nezahualcóyotl ,,cap01
+PB-00563,2026-05-22,derecho ,FES Aragón,Minería de Datos,Date,Alfaomega, ciencias sociales ,7,devuelto , fes aragón ,ciudad de mexico ,libro dañado,cap02
+PB-00513,2026-04-17, ing. computacion ,FES ARAGON,Minería de Datos,Date,Mcgraw-Hill,Ciencias Sociales,15,Vencido,Biblioteca Central,NEZAHUALCOYOTL,sin observación,temporal
+PB-00287,2026-03-29,derecho ,FES Aragón,Python para Todos,Stewart,Pearson,Matemáticas,20,, fes aragón ,NEZAHUALCOYOTL,renovación,admin
+PB-00567,2026-03-11,Comunicación y Periodismo,FES Aragón,Minería de Datos,Tanenbaum,PEARSON,Computación,7,devuelto , fes aragón ,NEZAHUALCOYOTL,sin observación,admin
+PB-00198,2026-05-28,MATEMATICAS,CU,Minería de Datos,Stewart,Pearson,MATEMATICAS,10,En préstamo,biblioteca central ,NEZAHUALCOYOTL,,temporal
+PB-00296,2026-05-15,derecho , ciudad universitaria ,Álgebra Lineal,Witten,, computación ,7,devuelto ,biblioteca central ,NEZAHUALCOYOTL,sin observación,admin
+PB-00118,2026-05-28,INGENIERIA EN COMPUTACION, ciudad universitaria ,Redes de Computadoras,Stewart, pearson ,MATEMATICAS,10,devuelto ,FES Aragón,CDMX,libro dañado,admin
+PB-00578,2026-04-13,Derecho,CU,Estadística Básica,Mendenhall,UNAM, ciencias sociales ,20,Vencido, fes aragón ,ciudad de mexico ,sin observación,cap02
+PB-00065,2026-04-28,COMUNICACION Y PERIODISMO, ciudad universitaria ,Redes de Computadoras,Tanenbaum,PEARSON,Matemáticas,30,devuelto ,Biblioteca Central,NEZAHUALCOYOTL,,cap01
+PB-00337,2026-06-01, ing. computacion ,FES Aragón,Bases de Datos,Stewart,Alfaomega,Ciencias Sociales,25,Devuelto,biblioteca central ,CDMX,libro dañado,cap01
+PB-00373,2026-05-11, ing. computacion ,FES Aragón,Estadística Básica,Tanenbaum,PEARSON, ciencias sociales ,15,en préstamo ,FES ARAGON,NEZAHUALCOYOTL,revisar,admin
+PB-00092,2026-02-10,Derecho,CU,Minería de Datos,Grossman,UNAM, ciencias sociales ,15,En préstamo,FES Aragón,Ciudad de México,,admin
+PB-00525,2026-05-03,COMUNICACION Y PERIODISMO,CU,Cálculo I,Stewart,,MATEMATICAS,3,Vencido,FES ARAGON,CDMX,sin observación,cap01
+PB-00108,2026-05-01,Matemáticas,FES Aragón,Cálculo I,Tanenbaum, pearson ,MATEMATICAS,7,devuelto ,FES ARAGON,NEZAHUALCOYOTL,,admin
+PB-00289,2026-05-09,Matemáticas,Ciudad Universitaria,Redes de Computadoras,Mendenhall,,Computación,,Devuelto,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,libro dañado,temporal
+PB-00505,2026-05-18,Comunicación y Periodismo,FES ARAGON,Redes de Computadoras,Mendenhall,,Matemáticas,5,VENCIDO,FES Aragón,ciudad de mexico ,libro dañado,admin
+PB-00387,2026-05-20,comunicación ,Ciudad Universitaria,Estadística Básica,Stewart,Alfaomega,COMPUTACION,5,En préstamo,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,renovación,temporal
+PB-00283,2026-05-22, matematicas ,FES Aragón,Python para Todos,Date,PEARSON,Ciencias Sociales,10,Vencido,FES ARAGON,ciudad de mexico ,,admin
+PB-00586,2026-06-04,INGENIERIA EN COMPUTACION, ciudad universitaria ,Estadística Básica,Witten,PEARSON,COMPUTACION,30,Vencido,FES Aragón,nezahualcóyotl ,revisar,admin
+PB-00112,2026-03-16, matematicas ,Ciudad Universitaria,Python para Todos,Grossman,,COMPUTACION,15,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,libro dañado,admin
+PB-00640,2026-02-23,Matemáticas,FES Aragón,Bases de Datos,Guido,Alfaomega,COMPUTACION,30,devuelto ,Biblioteca Central,ciudad de mexico ,sin observación,admin
+PB-00358,2026-03-16,DERECHO, ciudad universitaria ,Redes de Computadoras,Grossman,Alfaomega,Matemáticas,20,En préstamo,FES ARAGON,Ciudad de México,revisar,cap02
+PB-00518,2026-03-10,INGENIERIA EN COMPUTACION,CU,Álgebra Lineal,Witten,McGraw Hill,Matemáticas,10,EN PRESTAMO,biblioteca central ,Nezahualcóyotl,libro dañado,cap02
+PB-00361,2026-03-22,comunicación ,CU,Minería de Datos,Mendenhall,Pearson,COMPUTACION,15,VENCIDO,FES Aragón,Nezahualcóyotl,,cap01
+PB-00019,2026-03-24, ing. computacion ,Ciudad Universitaria,Redes de Computadoras,Tanenbaum,Pearson,COMPUTACION,3,Devuelto,FES Aragón,nezahualcóyotl ,revisar,admin
+PB-00378,2026-03-06,Ingeniería en Computación,FES ARAGON,Bases de Datos,Date, pearson ,Ciencias Sociales,10,Devuelto,FES ARAGON,Ciudad de México,,temporal
+PB-00091,2026-02-20,Matemáticas,CU,Python para Todos,Tanenbaum,Pearson,Computación,5,En préstamo,biblioteca central ,nezahualcóyotl ,revisar,cap02
+PB-00036,2026-04-14,COMUNICACION Y PERIODISMO,FES Aragón,Estadística Básica,Stewart,Pearson, computación ,,VENCIDO,FES ARAGON,NEZAHUALCOYOTL,revisar,temporal
+PB-00005,2026-03-15,Derecho, fes aragón ,Python para Todos,Tanenbaum,PEARSON,Matemáticas,20,En préstamo,FES Aragón,NEZAHUALCOYOTL,,cap01
+PB-00545,2026-04-12,Ing. en Computación,FES ARAGON,Minería de Datos,Witten,UNAM,COMPUTACION,5,Devuelto, fes aragón ,CDMX,sin observación,temporal
+PB-00607,2026-03-26,Matemáticas,FES ARAGON,Cálculo I,Tanenbaum,Alfaomega,Computación,,VENCIDO,FES Aragón,CDMX,,temporal
+PB-00031,2026-02-14,Derecho,CU,Python para Todos,Tanenbaum,Mcgraw-Hill,MATEMATICAS,,devuelto ,Biblioteca Central,NEZAHUALCOYOTL,,cap02
+PB-00434,2026-02-19,COMUNICACION Y PERIODISMO, ciudad universitaria ,Minería de Datos,Date,Alfaomega,COMPUTACION,3,en préstamo ,biblioteca central ,Nezahualcóyotl,renovación,admin
+PB-00622,2026-04-02,Ing. en Computación, ciudad universitaria ,Cálculo I,Date, pearson ,Matemáticas,20,devuelto ,biblioteca central ,Nezahualcóyotl,sin observación,admin
+PB-00109,2026-05-27,comunicación , fes aragón ,Estadística Básica,Witten,Pearson,MATEMATICAS,25,Devuelto,biblioteca central ,Ciudad de México,libro dañado,cap02
+PB-00104,2026-03-09, matematicas , fes aragón ,Python para Todos,Tanenbaum,Mcgraw-Hill,Ciencias Sociales,,en préstamo ,biblioteca central ,Ciudad de México,revisar,temporal
+PB-00111,2026-04-09,DERECHO,FES Aragón,Redes de Computadoras,Guido,, ciencias sociales ,5,Devuelto,FES Aragón,Nezahualcóyotl,libro dañado,cap02
+PB-00279,2026-04-12,MATEMATICAS, ciudad universitaria ,Redes de Computadoras,Stewart,UNAM,COMPUTACION,,VENCIDO,FES Aragón,Ciudad de México,libro dañado,admin
+PB-00027,2026-06-05,Ingeniería en Computación,FES ARAGON,Cálculo I,Stewart,UNAM,MATEMATICAS,3,en préstamo ,FES Aragón,Ciudad de México,,cap01
+PB-00557,2026-02-28,Comunicación y Periodismo,CU,Cálculo I,Guido,UNAM,Computación,5,En préstamo,FES Aragón,Nezahualcóyotl,,admin
+PB-00214,2026-04-29,Matemáticas, fes aragón ,Álgebra Lineal,Witten,Mcgraw-Hill,MATEMATICAS,20,devuelto ,FES Aragón,Nezahualcóyotl,sin observación,admin
+PB-00324,2026-03-31,Ing. en Computación, ciudad universitaria ,Bases de Datos,Tanenbaum,Pearson,MATEMATICAS,10,devuelto ,BIBLIOTECA CENTRAL,Ciudad de México,,cap02
+PB-00146,2026-02-18,Derecho, ciudad universitaria ,Redes de Computadoras,Tanenbaum,,Ciencias Sociales,,Vencido, fes aragón ,Nezahualcóyotl,sin observación,temporal
+PB-00032,,MATEMATICAS,FES Aragón,Python para Todos,Guido,McGraw Hill,COMPUTACION,5,EN PRESTAMO,FES Aragón,nezahualcóyotl ,revisar,cap02
+PB-00493,2026-02-03,MATEMATICAS, ciudad universitaria ,Estadística Básica,Guido,Pearson,MATEMATICAS,3,VENCIDO,FES ARAGON,nezahualcóyotl ,revisar,cap01
+PB-00496,2026-04-23,derecho ,FES Aragón,Estadística Básica,Mendenhall,, ciencias sociales ,10,EN PRESTAMO, fes aragón ,Ciudad de México,libro dañado,cap01
+PB-00322,2026-02-14,Comunicación y Periodismo, ciudad universitaria ,Minería de Datos,Guido,UNAM,Matemáticas,,Vencido,biblioteca central ,CDMX,libro dañado,cap01
+PB-00190,2026-04-27,comunicación , ciudad universitaria ,Cálculo I,Tanenbaum,Alfaomega,Ciencias Sociales,5,en préstamo , fes aragón ,Nezahualcóyotl,,cap02
+PB-00117,2026-06-01, ing. computacion ,FES Aragón,Redes de Computadoras,Grossman, pearson ,Matemáticas,,Vencido, fes aragón ,nezahualcóyotl ,revisar,cap01
+PB-00246,2026-04-02,INGENIERIA EN COMPUTACION, ciudad universitaria ,Redes de Computadoras,Tanenbaum,UNAM,Matemáticas,10,devuelto ,FES ARAGON,ciudad de mexico ,libro dañado,admin
+PB-00366,2026-02-14,Comunicación y Periodismo,FES ARAGON,Álgebra Lineal,Tanenbaum, pearson ,Ciencias Sociales,10,EN PRESTAMO,FES Aragón,CDMX,libro dañado,cap02
+PB-00152,2026-06-11,Comunicación y Periodismo,FES Aragón,Bases de Datos,Stewart, pearson ,Matemáticas,,Devuelto, fes aragón ,nezahualcóyotl ,libro dañado,cap02
+PB-00288,2026-04-14,Comunicación y Periodismo,FES ARAGON,Álgebra Lineal,Tanenbaum,UNAM,Ciencias Sociales,25,VENCIDO, fes aragón ,nezahualcóyotl ,sin observación,cap01
+PB-00038,2026-02-21, matematicas , fes aragón ,Estadística Básica,Stewart,,Matemáticas,15,VENCIDO,BIBLIOTECA CENTRAL,nezahualcóyotl ,,cap02
+PB-00210,2026-03-04,comunicación ,FES ARAGON,Python para Todos,Witten,,Computación,25,en préstamo ,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,temporal
+PB-00174,2026-03-29, ing. computacion ,FES Aragón,Bases de Datos,Mendenhall,Pearson,Computación,10,En préstamo,biblioteca central ,Nezahualcóyotl,revisar,temporal
+PB-00149,2026-04-02,Derecho,FES Aragón,Álgebra Lineal,Stewart,McGraw Hill,Matemáticas,30,Devuelto,biblioteca central ,ciudad de mexico ,revisar,admin
+PB-00209,2026-04-04,Matemáticas,Ciudad Universitaria,Python para Todos,Date,McGraw Hill, computación ,25,Devuelto, fes aragón ,nezahualcóyotl ,revisar,temporal
+PB-00571,2026-05-01,Comunicación y Periodismo,Ciudad Universitaria,Cálculo I,Date,PEARSON,COMPUTACION,7,Vencido,biblioteca central ,Nezahualcóyotl,revisar,cap02
+PB-00162,2026-03-05, matematicas ,FES ARAGON,Python para Todos,Date,UNAM,MATEMATICAS,5,VENCIDO,biblioteca central ,NEZAHUALCOYOTL,renovación,admin
+PB-00132,2026-02-17,MATEMATICAS,CU,Python para Todos,Date,PEARSON,MATEMATICAS,20,en préstamo , fes aragón ,nezahualcóyotl ,sin observación,cap01
+PB-00302,2026-04-15,Ingeniería en Computación,Ciudad Universitaria,Redes de Computadoras,Date,Pearson, ciencias sociales ,,EN PRESTAMO,FES ARAGON,nezahualcóyotl ,libro dañado,cap02
+PB-00623,2026-04-27,Matemáticas, fes aragón ,Cálculo I,Witten,Mcgraw-Hill,MATEMATICAS,20,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,libro dañado,admin
+PB-00427,2026-06-03,DERECHO,CU,Álgebra Lineal,Tanenbaum,,Matemáticas,7,En préstamo,Biblioteca Central,Ciudad de México,renovación,temporal
+PB-00082,2026-05-26,Matemáticas,FES ARAGON,Redes de Computadoras,Guido, pearson ,COMPUTACION,7,EN PRESTAMO,FES Aragón,Ciudad de México,sin observación,cap01
+PB-00632,2026-03-29,derecho , fes aragón ,Álgebra Lineal,Grossman,Pearson,Ciencias Sociales,10,Vencido,biblioteca central ,ciudad de mexico ,,admin
+PB-00040,2026-04-14,Derecho,FES Aragón,Cálculo I,Mendenhall,Alfaomega,Ciencias Sociales,,VENCIDO,FES ARAGON,Nezahualcóyotl,renovación,cap02
+PB-00091,2026-02-20,Matemáticas,CU,Python para Todos,Tanenbaum,Pearson,Computación,5,En préstamo,biblioteca central ,nezahualcóyotl ,revisar,cap02
+PB-00313,2026-03-26,MATEMATICAS, fes aragón ,Redes de Computadoras,Date,,COMPUTACION,3,EN PRESTAMO, fes aragón ,Ciudad de México,sin observación,admin
+PB-00076,2026-05-13,Ing. en Computación, ciudad universitaria ,Cálculo I,Date,Alfaomega,MATEMATICAS,,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,sin observación,temporal
+PB-00286,2026-02-11,Ing. en Computación, fes aragón ,Redes de Computadoras,Guido,PEARSON,MATEMATICAS,15,devuelto ,FES ARAGON,ciudad de mexico ,,temporal
+PB-00512,2026-05-09,comunicación ,CU,Álgebra Lineal,Stewart,Mcgraw-Hill,COMPUTACION,30,en préstamo ,FES ARAGON,nezahualcóyotl ,,cap01
+PB-00135,2026-04-13,Derecho,FES ARAGON,Bases de Datos,Grossman,McGraw Hill,MATEMATICAS,30,EN PRESTAMO, fes aragón ,nezahualcóyotl ,revisar,cap01
+PB-00564,2026-02-28,Derecho,FES ARAGON,Minería de Datos,Witten, pearson ,Ciencias Sociales,,,Biblioteca Central,Nezahualcóyotl,sin observación,cap01
+PB-00349,2026-04-27,Ingeniería en Computación,Ciudad Universitaria,Minería de Datos,Date,, computación ,20,EN PRESTAMO,FES ARAGON,nezahualcóyotl ,sin observación,cap01
+PB-00205,2026-03-18,Ingeniería en Computación, ciudad universitaria ,Python para Todos,Date,Alfaomega,Matemáticas,,En préstamo,Biblioteca Central,Ciudad de México,revisar,cap02
+PB-00608,2026-05-13,DERECHO,FES Aragón,Álgebra Lineal,Date,Pearson, ciencias sociales ,15,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,renovación,cap02
+PB-00197,2026-03-19,Ingeniería en Computación,FES ARAGON,Redes de Computadoras,Date,PEARSON, ciencias sociales ,7,Vencido,FES Aragón,nezahualcóyotl ,sin observación,temporal
+PB-00188,2026-06-10, ing. computacion ,CU,Redes de Computadoras,Witten, pearson , computación ,15,EN PRESTAMO,biblioteca central ,Ciudad de México,sin observación,temporal
+PB-00499,2026-05-14,DERECHO,CU,Python para Todos,Witten,,MATEMATICAS,,En préstamo, fes aragón ,CDMX,,cap01
+PB-00107,2026-04-23, matematicas ,Ciudad Universitaria,Estadística Básica,Mendenhall,Pearson,Computación,7,En préstamo,FES Aragón,nezahualcóyotl ,libro dañado,cap01
+PB-00006,2026-02-25,,FES ARAGON,Python para Todos,Stewart,McGraw Hill,Matemáticas,3,Devuelto,BIBLIOTECA CENTRAL,Nezahualcóyotl,renovación,admin
+PB-00247,2026-04-06,Comunicación y Periodismo,Ciudad Universitaria,Bases de Datos,Grossman,Pearson,MATEMATICAS,7,devuelto ,biblioteca central ,nezahualcóyotl ,,cap02
+PB-00570,2026-03-04,Derecho,FES Aragón,Bases de Datos,Grossman,PEARSON,Matemáticas,10,Devuelto,Biblioteca Central,ciudad de mexico ,sin observación,admin
+PB-00503,2026-04-23,Derecho,Ciudad Universitaria,Redes de Computadoras,Guido,Mcgraw-Hill, computación ,5,Vencido,Biblioteca Central,Nezahualcóyotl,,cap02
+PB-00246,2026-04-02,INGENIERIA EN COMPUTACION, ciudad universitaria ,Redes de Computadoras,Tanenbaum,UNAM,Matemáticas,10,devuelto ,FES ARAGON,ciudad de mexico ,libro dañado,admin
+PB-00042,2026-03-01, matematicas ,FES Aragón,Redes de Computadoras,Mendenhall,,COMPUTACION,25,EN PRESTAMO, fes aragón ,ciudad de mexico ,revisar,admin
+PB-00227,2026-05-14,Ingeniería en Computación,FES ARAGON,Álgebra Lineal,Guido,PEARSON, computación ,20,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,sin observación,cap01
+PB-00338,2026-02-13,COMUNICACION Y PERIODISMO, fes aragón ,Minería de Datos,Grossman,Mcgraw-Hill,Matemáticas,7,devuelto ,FES Aragón,nezahualcóyotl ,revisar,cap01
+PB-00596,2026-03-07, ing. computacion ,Ciudad Universitaria,Minería de Datos,Stewart, pearson ,Computación,7,En préstamo,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,cap01
+PB-00257,2026-03-19,derecho ,CU,Minería de Datos,Stewart,PEARSON, ciencias sociales ,25,En préstamo, fes aragón ,CDMX,sin observación,cap01
+PB-00369,2026-04-07,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Álgebra Lineal,Stewart,McGraw Hill,Matemáticas,7,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,temporal
+PB-00450,2026-04-08, ing. computacion ,CU,Bases de Datos,Stewart,McGraw Hill,Computación,3,VENCIDO,Biblioteca Central,Nezahualcóyotl,libro dañado,admin
+PB-00228,2026-05-29,Comunicación y Periodismo, fes aragón ,Redes de Computadoras,Tanenbaum,Mcgraw-Hill,Computación,,en préstamo ,FES ARAGON,ciudad de mexico ,sin observación,temporal
+PB-00602,2026-02-24, matematicas , ciudad universitaria ,Estadística Básica,Guido,,COMPUTACION,3,EN PRESTAMO, fes aragón ,ciudad de mexico ,,admin
+PB-00530,2026-02-02,comunicación , ciudad universitaria ,Bases de Datos,Date,, ciencias sociales ,30,En préstamo,Biblioteca Central,Ciudad de México,libro dañado,cap01
+PB-00251,2026-06-09,Matemáticas,Ciudad Universitaria,Álgebra Lineal,Mendenhall, pearson ,MATEMATICAS,15,EN PRESTAMO,biblioteca central ,CDMX,,cap02
+PB-00278,2026-04-25,Ing. en Computación,FES ARAGON,Python para Todos,Mendenhall,Pearson, computación ,15,,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,cap01
+PB-00265,2026-05-30,DERECHO,CU,Minería de Datos,Guido,, ciencias sociales ,20,devuelto ,biblioteca central ,CDMX,renovación,temporal
+PB-00292,2026-03-31,INGENIERIA EN COMPUTACION, fes aragón ,Redes de Computadoras,Guido,Pearson,Ciencias Sociales,3,EN PRESTAMO,biblioteca central ,ciudad de mexico ,,temporal
+PB-00125,2026-03-25,comunicación ,CU,Cálculo I,Stewart,Mcgraw-Hill,Ciencias Sociales,7,VENCIDO,biblioteca central ,CDMX,revisar,cap01
+PB-00081,2026-02-17,DERECHO,Ciudad Universitaria,Redes de Computadoras,Tanenbaum,Mcgraw-Hill,Ciencias Sociales,25,Devuelto,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,cap02
+PB-00012,2026-03-15,Comunicación y Periodismo, fes aragón ,Redes de Computadoras,Witten,PEARSON,Computación,10,En préstamo, fes aragón ,NEZAHUALCOYOTL,,temporal
+PB-00379,2026-06-11,comunicación ,FES ARAGON,Álgebra Lineal,Grossman, pearson , ciencias sociales ,7,En préstamo,BIBLIOTECA CENTRAL,Ciudad de México,renovación,cap01
+PB-00077,2026-02-25,COMUNICACION Y PERIODISMO, fes aragón ,Álgebra Lineal,Guido,PEARSON,COMPUTACION,30,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,admin
+PB-00474,2026-06-11,Ing. en Computación,CU,Bases de Datos,Tanenbaum,PEARSON,COMPUTACION,3,VENCIDO,BIBLIOTECA CENTRAL,ciudad de mexico ,revisar,admin
+PB-00579,2026-03-23, matematicas ,FES ARAGON,Bases de Datos,Stewart,PEARSON,MATEMATICAS,10,En préstamo,biblioteca central ,Nezahualcóyotl,renovación,admin
+PB-00406,2026-02-15,derecho ,FES Aragón,Estadística Básica,Guido,UNAM,Computación,,en préstamo ,FES Aragón,nezahualcóyotl ,sin observación,temporal
+PB-00166,2026-04-10,COMUNICACION Y PERIODISMO,FES ARAGON,Bases de Datos,Mendenhall,Pearson,Computación,20,Devuelto,FES Aragón,Nezahualcóyotl,revisar,cap02
+PB-00277,2026-03-09,derecho ,CU,Estadística Básica,Stewart,McGraw Hill, computación ,3,EN PRESTAMO,Biblioteca Central,Nezahualcóyotl,revisar,temporal
+PB-00182,2026-02-12,Ing. en Computación,Ciudad Universitaria,Cálculo I,Witten,UNAM,Computación,7,en préstamo ,FES Aragón,CDMX,renovación,cap01
+PB-00510,2026-05-25,derecho ,FES ARAGON,Minería de Datos,Grossman,Mcgraw-Hill, computación ,15,devuelto ,biblioteca central ,Ciudad de México,renovación,temporal
+PB-00593,2026-03-17,Derecho, fes aragón ,Cálculo I,Stewart,McGraw Hill,Computación,15,devuelto ,biblioteca central ,Ciudad de México,libro dañado,admin
+PB-00016,2026-03-26,Derecho,FES Aragón,Cálculo I,Date,PEARSON,Matemáticas,7,devuelto , fes aragón ,Nezahualcóyotl,libro dañado,cap02
+PB-00343,2026-05-24,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Bases de Datos,Grossman,Alfaomega,MATEMATICAS,3,en préstamo ,FES Aragón,Ciudad de México,sin observación,temporal
+PB-00568,2026-02-03, matematicas ,FES Aragón,Estadística Básica,Witten,McGraw Hill,Ciencias Sociales,,devuelto ,biblioteca central ,NEZAHUALCOYOTL,revisar,admin
+PB-00531,2026-05-14,DERECHO, ciudad universitaria ,Álgebra Lineal,Witten,Mcgraw-Hill,COMPUTACION,25,Vencido,biblioteca central ,ciudad de mexico ,sin observación,temporal
+PB-00138,2026-03-08,derecho ,FES Aragón,Redes de Computadoras,Tanenbaum,Alfaomega,Computación,7,Devuelto,Biblioteca Central,ciudad de mexico ,renovación,cap02
+PB-00160,2026-06-04, matematicas ,CU,Minería de Datos,Date,UNAM,Computación,7,EN PRESTAMO,biblioteca central ,CDMX,,admin
+PB-00115,2026-06-06,DERECHO,FES Aragón,Estadística Básica,Guido, pearson , ciencias sociales ,15,devuelto ,FES Aragón,Ciudad de México,sin observación,cap02
+PB-00060,2026-02-04,MATEMATICAS, fes aragón ,Bases de Datos,Guido,UNAM,COMPUTACION,20,en préstamo , fes aragón ,NEZAHUALCOYOTL,renovación,admin
+PB-00342,2026-03-13, ing. computacion ,FES Aragón,Estadística Básica,Stewart,Pearson,Matemáticas,10,EN PRESTAMO, fes aragón ,Nezahualcóyotl,revisar,cap01
+PB-00452,2026-02-24,DERECHO,CU,Estadística Básica,Mendenhall,McGraw Hill, ciencias sociales ,30,Devuelto,Biblioteca Central,Nezahualcóyotl,renovación,cap01
+PB-00414,2026-05-13,Matemáticas,FES Aragón,Cálculo I,Tanenbaum,Pearson,Computación,20,EN PRESTAMO,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,cap02
+PB-00465,2026-03-23,derecho , ciudad universitaria ,Álgebra Lineal,Stewart, pearson , computación ,7,devuelto ,Biblioteca Central,Ciudad de México,revisar,cap01
+PB-00626,2026-06-07,DERECHO, fes aragón ,Bases de Datos,Witten,Alfaomega,Computación,15,en préstamo ,FES Aragón,NEZAHUALCOYOTL,revisar,cap01
+PB-00460,2026-04-09,Ing. en Computación,CU,Python para Todos,Witten,Alfaomega,Computación,5,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,cap02
+PB-00350,2026-04-17,Ingeniería en Computación,CU,Python para Todos,Tanenbaum,McGraw Hill, computación ,30,,biblioteca central ,Nezahualcóyotl,libro dañado,cap01
+PB-00519,2026-02-02,MATEMATICAS, ciudad universitaria ,Bases de Datos,Stewart,Mcgraw-Hill,MATEMATICAS,20,Vencido,BIBLIOTECA CENTRAL,Ciudad de México,sin observación,temporal
+PB-00613,2026-05-31,derecho ,FES ARAGON,Minería de Datos,Stewart,Pearson,COMPUTACION,30,En préstamo,biblioteca central ,NEZAHUALCOYOTL,libro dañado,cap02
+PB-00393,2026-04-19,DERECHO,FES Aragón,Estadística Básica,Stewart,PEARSON,MATEMATICAS,7,VENCIDO,biblioteca central ,CDMX,sin observación,cap02
+PB-00216,2026-04-12,COMUNICACION Y PERIODISMO,CU,Redes de Computadoras,Grossman,Alfaomega, computación ,10,Vencido,BIBLIOTECA CENTRAL,ciudad de mexico ,revisar,admin
+PB-00401,2026-04-06, matematicas ,FES Aragón,Bases de Datos,Tanenbaum,UNAM,COMPUTACION,10,devuelto ,Biblioteca Central,Nezahualcóyotl,renovación,temporal
+PB-00328,2026-04-26,comunicación ,CU,Python para Todos,Grossman,UNAM, computación ,10,VENCIDO, fes aragón ,Ciudad de México,sin observación,cap01
+PB-00151,2026-03-02, matematicas ,FES Aragón,Python para Todos,Guido, pearson ,COMPUTACION,,en préstamo , fes aragón ,nezahualcóyotl ,revisar,temporal
+PB-00577,2026-05-01,derecho ,FES ARAGON,Python para Todos,Stewart,McGraw Hill,Matemáticas,7,Vencido,BIBLIOTECA CENTRAL,Nezahualcóyotl,revisar,temporal
+PB-00022,2026-03-25,COMUNICACION Y PERIODISMO,FES Aragón,Estadística Básica,Grossman,PEARSON, computación ,25,EN PRESTAMO,biblioteca central ,CDMX,,cap02
+PB-00083,2026-04-03,MATEMATICAS,CU,Python para Todos,Tanenbaum,PEARSON,Matemáticas,7,En préstamo, fes aragón ,ciudad de mexico ,,admin
+PB-00529,2026-03-01,Matemáticas,FES Aragón,Minería de Datos,Witten, pearson ,Matemáticas,,en préstamo , fes aragón ,ciudad de mexico ,renovación,cap02
+PB-00528,,DERECHO,FES ARAGON,Python para Todos,Tanenbaum,,MATEMATICAS,3,Devuelto,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,admin
+PB-00615,2026-02-26,Comunicación y Periodismo, fes aragón ,Python para Todos,Witten,Pearson,MATEMATICAS,,Vencido,Biblioteca Central,ciudad de mexico ,renovación,cap01
+PB-00054,2026-02-05,INGENIERIA EN COMPUTACION,FES ARAGON,Álgebra Lineal,Tanenbaum,, ciencias sociales ,20,devuelto ,biblioteca central ,NEZAHUALCOYOTL,,temporal
+PB-00589,2026-06-03, ing. computacion ,FES Aragón,Minería de Datos,Date,,Matemáticas,10,en préstamo , fes aragón ,nezahualcóyotl ,libro dañado,admin
+PB-00352,2026-04-01,COMUNICACION Y PERIODISMO,FES ARAGON,Bases de Datos,Witten,, ciencias sociales ,3,en préstamo , fes aragón ,NEZAHUALCOYOTL,,temporal
+PB-00331,2026-05-11,Ing. en Computación,Ciudad Universitaria,Estadística Básica,Grossman,PEARSON,Matemáticas,7,devuelto ,FES ARAGON,NEZAHUALCOYOTL,,cap02
+PB-00007,2026-03-27,COMUNICACION Y PERIODISMO, fes aragón ,Cálculo I,Tanenbaum,Pearson, ciencias sociales ,20,VENCIDO,FES Aragón,NEZAHUALCOYOTL,sin observación,cap02
+PB-00438,2026-03-04,Matemáticas,CU,Bases de Datos,Date,Pearson,MATEMATICAS,10,Vencido,FES Aragón,NEZAHUALCOYOTL,revisar,admin
+PB-00275,2026-02-07,INGENIERIA EN COMPUTACION, fes aragón ,Python para Todos,Tanenbaum,McGraw Hill,MATEMATICAS,10,Vencido,biblioteca central ,CDMX,sin observación,cap02
+PB-00495,2026-04-10,Ing. en Computación, fes aragón ,Python para Todos,Grossman, pearson ,Computación,,Vencido,BIBLIOTECA CENTRAL,Nezahualcóyotl,renovación,cap02
+PB-00101,2026-05-16,DERECHO,FES Aragón,Álgebra Lineal,Date,, ciencias sociales ,25,VENCIDO,FES ARAGON,CDMX,libro dañado,admin
+PB-00317,2026-06-04,Ing. en Computación, ciudad universitaria ,Minería de Datos,Stewart,Alfaomega, ciencias sociales ,10,En préstamo,FES ARAGON,NEZAHUALCOYOTL,sin observación,admin
+PB-00223,2026-05-22, ing. computacion ,Ciudad Universitaria,Estadística Básica,Grossman,,Computación,30,Vencido,FES ARAGON,CDMX,,admin
+PB-00458,2026-04-12,Comunicación y Periodismo, fes aragón ,Estadística Básica,Mendenhall,Mcgraw-Hill,Computación,30,En préstamo,BIBLIOTECA CENTRAL,CDMX,libro dañado,admin
+PB-00291,2026-05-01,Matemáticas, ciudad universitaria ,Minería de Datos,Witten, pearson , computación ,15,EN PRESTAMO,FES Aragón,ciudad de mexico ,libro dañado,admin
+PB-00536,2026-05-24,Comunicación y Periodismo, fes aragón ,Minería de Datos,Mendenhall,UNAM,Computación,10,Devuelto, fes aragón ,Ciudad de México,sin observación,temporal
+PB-00625,2026-02-20,DERECHO,FES Aragón,Álgebra Lineal,Stewart,Alfaomega,Ciencias Sociales,,devuelto ,BIBLIOTECA CENTRAL,ciudad de mexico ,,cap02
+PB-00588,2026-02-06,comunicación ,FES Aragón,Álgebra Lineal,Witten,Mcgraw-Hill,COMPUTACION,,,biblioteca central ,Nezahualcóyotl,,admin
+PB-00430,2026-02-22,Derecho, fes aragón ,Álgebra Lineal,Date,, computación ,30,VENCIDO,FES Aragón,nezahualcóyotl ,sin observación,cap01
+PB-00215,2026-05-11,Matemáticas,FES Aragón,Bases de Datos,Tanenbaum,Alfaomega,Computación,7,,FES Aragón,CDMX,libro dañado,cap02
+PB-00552,2026-02-09,comunicación , ciudad universitaria ,Bases de Datos,Mendenhall,Mcgraw-Hill, computación ,3,devuelto ,Biblioteca Central,ciudad de mexico ,libro dañado,admin
+PB-00463,2026-03-15,comunicación , fes aragón ,Cálculo I,Stewart,UNAM, computación ,3,Devuelto,FES ARAGON,Nezahualcóyotl,,admin
+PB-00320,2026-05-24,Ing. en Computación, ciudad universitaria ,Álgebra Lineal,Tanenbaum,,Computación,7,En préstamo,biblioteca central ,CDMX,sin observación,admin
+PB-00333,2026-06-05, matematicas , ciudad universitaria ,Cálculo I,Date, pearson ,MATEMATICAS,3,EN PRESTAMO,biblioteca central ,NEZAHUALCOYOTL,libro dañado,admin
+PB-00553,2026-02-21,comunicación ,Ciudad Universitaria,Cálculo I,Grossman,McGraw Hill, ciencias sociales ,3,En préstamo,FES ARAGON,ciudad de mexico ,,admin
+PB-00609,2026-04-13,Derecho, ciudad universitaria ,Estadística Básica,Date, pearson , ciencias sociales ,3,EN PRESTAMO,Biblioteca Central,nezahualcóyotl ,revisar,cap02
+PB-00255,2026-03-05,INGENIERIA EN COMPUTACION,FES ARAGON,Álgebra Lineal,Tanenbaum,PEARSON,Computación,7,en préstamo ,BIBLIOTECA CENTRAL,Ciudad de México,libro dañado,temporal
+PB-00145,2026-04-06, matematicas , ciudad universitaria ,Cálculo I,Stewart, pearson ,MATEMATICAS,25,EN PRESTAMO,FES Aragón,NEZAHUALCOYOTL,sin observación,cap02
+PB-00574,2026-02-20,Derecho,CU,Minería de Datos,Mendenhall,PEARSON, ciencias sociales ,30,En préstamo,FES ARAGON,nezahualcóyotl ,,cap01
+PB-00262,2026-03-09, ing. computacion , ciudad universitaria ,Redes de Computadoras,Tanenbaum,,Matemáticas,5,VENCIDO,Biblioteca Central,NEZAHUALCOYOTL,libro dañado,cap02
+PB-00402,2026-04-25,COMUNICACION Y PERIODISMO,FES Aragón,Bases de Datos,Witten, pearson ,Ciencias Sociales,25,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,renovación,cap01
+PB-00329,2026-03-03,Matemáticas, ciudad universitaria ,Bases de Datos,Guido,,Ciencias Sociales,5,EN PRESTAMO,FES ARAGON,nezahualcóyotl ,sin observación,cap02
+PB-00148,2026-06-08,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Álgebra Lineal,Mendenhall,UNAM,MATEMATICAS,15,devuelto ,FES ARAGON,CDMX,,cap01
+PB-00370,2026-05-10,derecho ,Ciudad Universitaria,Redes de Computadoras,Grossman,Mcgraw-Hill,Computación,,Devuelto,Biblioteca Central,NEZAHUALCOYOTL,renovación,cap02
+PB-00306,2026-03-18,derecho ,CU,Cálculo I,Tanenbaum,McGraw Hill,Matemáticas,7,Devuelto,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,revisar,admin
+PB-00608,2026-05-13,DERECHO,FES Aragón,Álgebra Lineal,Date,Pearson, ciencias sociales ,15,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,renovación,cap02
+PB-00074,2026-04-21,Derecho,Ciudad Universitaria,Redes de Computadoras,Guido,Pearson,Computación,3,VENCIDO,BIBLIOTECA CENTRAL,nezahualcóyotl ,revisar,cap01
+PB-00475,2026-02-10,derecho ,CU,Python para Todos,Tanenbaum,Mcgraw-Hill, computación ,15,En préstamo, fes aragón ,NEZAHUALCOYOTL,renovación,cap01
+PB-00554,2026-02-21,Matemáticas,FES ARAGON,Python para Todos,Stewart, pearson ,MATEMATICAS,20,,FES Aragón,CDMX,revisar,admin
+PB-00063,2026-06-07, ing. computacion , fes aragón ,Bases de Datos,Mendenhall,,Computación,7,Devuelto, fes aragón ,CDMX,libro dañado,admin
+PB-00194,2026-02-15,Matemáticas,FES Aragón,Minería de Datos,Stewart,UNAM,COMPUTACION,10,EN PRESTAMO,FES ARAGON,CDMX,,admin
+PB-00185,2026-05-13,comunicación ,CU,Minería de Datos,Grossman,UNAM, ciencias sociales ,10,Devuelto,FES ARAGON,Nezahualcóyotl,renovación,admin
+PB-00464,2026-04-04,comunicación , fes aragón ,Redes de Computadoras,Stewart,,Computación,10,EN PRESTAMO,FES ARAGON,CDMX,libro dañado,cap01
+PB-00574,2026-02-20,Derecho,CU,Minería de Datos,Mendenhall,PEARSON, ciencias sociales ,30,En préstamo,FES ARAGON,nezahualcóyotl ,,cap01
+PB-00018,2026-06-05,Ingeniería en Computación,CU,Python para Todos,Witten,, computación ,,VENCIDO,FES Aragón,CDMX,sin observación,admin
+PB-00587,2026-04-21, ing. computacion ,Ciudad Universitaria,Bases de Datos,Guido,PEARSON,Ciencias Sociales,10,en préstamo , fes aragón ,Nezahualcóyotl,libro dañado,cap01
+PB-00099,2026-04-14,Ing. en Computación, fes aragón ,Estadística Básica,Grossman,Pearson, computación ,25,En préstamo,Biblioteca Central,NEZAHUALCOYOTL,libro dañado,cap02
+PB-00003,2026-03-25,INGENIERIA EN COMPUTACION,FES ARAGON,Redes de Computadoras,Guido,UNAM,COMPUTACION,10,, fes aragón ,nezahualcóyotl ,renovación,admin
+PB-00184,2026-02-03,Ing. en Computación, ciudad universitaria ,Estadística Básica,Tanenbaum, pearson , ciencias sociales ,20,Vencido,biblioteca central ,Ciudad de México,renovación,admin
+PB-00171,2026-02-13,MATEMATICAS,Ciudad Universitaria,Estadística Básica,Mendenhall,Alfaomega,Ciencias Sociales,10,Vencido,biblioteca central ,Nezahualcóyotl,,temporal
+PB-00617,2026-03-30,Derecho,Ciudad Universitaria,Python para Todos,Guido, pearson ,Matemáticas,10,EN PRESTAMO,FES ARAGON,NEZAHUALCOYOTL,sin observación,temporal
+PB-00252,2026-04-01,MATEMATICAS,Ciudad Universitaria,Redes de Computadoras,Witten,Alfaomega,MATEMATICAS,25,En préstamo,BIBLIOTECA CENTRAL,CDMX,sin observación,temporal
+PB-00639,2026-03-16,Derecho,FES Aragón,Bases de Datos,Stewart,UNAM,Computación,3,Vencido,Biblioteca Central,CDMX,libro dañado,temporal
+PB-00421,2026-03-18,INGENIERIA EN COMPUTACION, fes aragón ,Bases de Datos,Tanenbaum,UNAM,COMPUTACION,10,Vencido,biblioteca central ,Ciudad de México,sin observación,temporal
+PB-00325,2026-02-14,Comunicación y Periodismo, fes aragón ,Minería de Datos,Guido,McGraw Hill,MATEMATICAS,7,Devuelto, fes aragón ,Nezahualcóyotl,revisar,temporal
+PB-00193,2026-02-15,Ingeniería en Computación, ciudad universitaria ,Álgebra Lineal,Witten,Alfaomega,Ciencias Sociales,15,EN PRESTAMO,Biblioteca Central,CDMX,sin observación,cap01
+PB-00573,2026-03-29,INGENIERIA EN COMPUTACION,CU,Minería de Datos,Mendenhall,McGraw Hill, ciencias sociales ,,Vencido,BIBLIOTECA CENTRAL,Ciudad de México,libro dañado,cap01
+PB-00562,2026-04-29,INGENIERIA EN COMPUTACION,FES Aragón,Cálculo I,Tanenbaum,UNAM,COMPUTACION,7,En préstamo, fes aragón ,ciudad de mexico ,revisar,admin
+PB-00248,2026-02-07,Comunicación y Periodismo, ciudad universitaria ,Minería de Datos,Guido,Mcgraw-Hill,Matemáticas,25,devuelto ,FES ARAGON,ciudad de mexico ,libro dañado,temporal
+PB-00515,2026-04-29,Derecho,FES Aragón,Minería de Datos,Grossman,Mcgraw-Hill, ciencias sociales ,20,EN PRESTAMO,FES Aragón,NEZAHUALCOYOTL,libro dañado,temporal
+PB-00242,2026-03-16,DERECHO,Ciudad Universitaria,Estadística Básica,Tanenbaum,UNAM,MATEMATICAS,15,En préstamo, fes aragón ,Nezahualcóyotl,libro dañado,cap02
+PB-00282,2026-03-24,derecho ,FES ARAGON,Cálculo I,Tanenbaum,Alfaomega,Computación,10,En préstamo,Biblioteca Central,Nezahualcóyotl,revisar,cap01
+PB-00126,2026-03-02, ing. computacion , fes aragón ,Estadística Básica,Date,PEARSON,Matemáticas,7,VENCIDO,FES Aragón,NEZAHUALCOYOTL,libro dañado,cap01
+PB-00595,2026-04-09,Derecho, fes aragón ,Estadística Básica,Guido,Alfaomega, computación ,3,en préstamo ,Biblioteca Central,NEZAHUALCOYOTL,,cap02
+PB-00028,,Matemáticas,Ciudad Universitaria,Cálculo I,Guido,, computación ,25,EN PRESTAMO,Biblioteca Central,CDMX,sin observación,admin
+PB-00315,2026-03-23,comunicación ,FES Aragón,Python para Todos,Witten,UNAM, computación ,,EN PRESTAMO,biblioteca central ,NEZAHUALCOYOTL,libro dañado,temporal
+PB-00280,2026-02-28,Derecho,FES Aragón,Bases de Datos,Guido,Pearson, computación ,30,En préstamo,Biblioteca Central,Nezahualcóyotl,sin observación,cap02
+PB-00527,2026-02-15,derecho ,CU,Cálculo I,Tanenbaum,UNAM,Computación,5,Vencido,biblioteca central ,CDMX,revisar,temporal
+PB-00128,2026-02-24,MATEMATICAS,Ciudad Universitaria,Cálculo I,Guido,UNAM,Matemáticas,5,VENCIDO,FES ARAGON,NEZAHUALCOYOTL,revisar,cap01
+PB-00618,2026-06-01,Ing. en Computación,CU,Álgebra Lineal,Mendenhall,,Computación,30,en préstamo ,biblioteca central ,Ciudad de México,renovación,cap02
+PB-00013,2026-05-26,derecho , ciudad universitaria ,Álgebra Lineal,Witten,Mcgraw-Hill,Matemáticas,15,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,renovación,cap02
+PB-00583,2026-04-05,comunicación ,FES ARAGON,Python para Todos,Grossman,Mcgraw-Hill,Matemáticas,20,en préstamo ,FES ARAGON,ciudad de mexico ,sin observación,cap02
+PB-00201,2026-04-29,COMUNICACION Y PERIODISMO,CU,Álgebra Lineal,Guido,PEARSON,COMPUTACION,7,VENCIDO,FES Aragón,NEZAHUALCOYOTL,,admin
+PB-00420,2026-04-16,Derecho, fes aragón ,Python para Todos,Guido, pearson ,Ciencias Sociales,3,VENCIDO, fes aragón ,ciudad de mexico ,renovación,admin
+PB-00234,2026-03-30, matematicas ,Ciudad Universitaria,Álgebra Lineal,Date,,MATEMATICAS,,Vencido,biblioteca central ,nezahualcóyotl ,sin observación,admin
+PB-00177,2026-04-01,MATEMATICAS,Ciudad Universitaria,Python para Todos,Witten,Alfaomega,Ciencias Sociales,5,En préstamo, fes aragón ,nezahualcóyotl ,libro dañado,cap02
+PB-00636,2026-04-11,derecho , fes aragón ,Cálculo I,Guido,UNAM, ciencias sociales ,7,En préstamo,BIBLIOTECA CENTRAL,nezahualcóyotl ,sin observación,cap01
+PB-00372,2026-02-01,Ing. en Computación, fes aragón ,Python para Todos,Stewart,UNAM,MATEMATICAS,3,en préstamo ,FES Aragón,ciudad de mexico ,renovación,temporal
+PB-00298,2026-02-04,Ing. en Computación,FES ARAGON,Estadística Básica,Tanenbaum,UNAM,Computación,,VENCIDO,BIBLIOTECA CENTRAL,Nezahualcóyotl,sin observación,admin
+PB-00026,,Ing. en Computación, ciudad universitaria ,Álgebra Lineal,Stewart,PEARSON, ciencias sociales ,20,Vencido,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,revisar,cap02
+PB-00471,2026-05-14,Matemáticas,CU,Redes de Computadoras,Guido,Pearson,Computación,3,devuelto ,FES Aragón,NEZAHUALCOYOTL,libro dañado,admin
+PB-00400,2026-03-05,derecho ,FES Aragón,Álgebra Lineal,Guido, pearson ,COMPUTACION,5,EN PRESTAMO,biblioteca central ,Nezahualcóyotl,revisar,cap02
+PB-00620,2026-05-05,Ing. en Computación,CU,Cálculo I,Guido,,Matemáticas,30,en préstamo ,BIBLIOTECA CENTRAL,Nezahualcóyotl,renovación,temporal
+PB-00468,2026-04-19,DERECHO,FES Aragón,Bases de Datos,Date, pearson ,Computación,30,EN PRESTAMO,Biblioteca Central,nezahualcóyotl ,,admin
+PB-00137,2026-03-29,MATEMATICAS,Ciudad Universitaria,Python para Todos,Date, pearson ,COMPUTACION,3,VENCIDO,Biblioteca Central,Nezahualcóyotl,libro dañado,cap02
+PB-00616,2026-06-10, matematicas ,CU,Álgebra Lineal,Guido,Mcgraw-Hill, ciencias sociales ,5,EN PRESTAMO,Biblioteca Central,ciudad de mexico ,libro dañado,cap01
+PB-00396,2026-04-23,Ing. en Computación, fes aragón ,Álgebra Lineal,Date,UNAM,Computación,7,en préstamo ,BIBLIOTECA CENTRAL,Ciudad de México,,admin
+PB-00267,2026-04-30, matematicas ,Ciudad Universitaria,Python para Todos,Guido,UNAM, ciencias sociales ,15,Devuelto,FES ARAGON,nezahualcóyotl ,,temporal
+PB-00170,2026-02-22,Matemáticas, fes aragón ,Redes de Computadoras,Witten,Alfaomega,Matemáticas,3,VENCIDO,Biblioteca Central,ciudad de mexico ,,temporal
+PB-00114,2026-03-26,Derecho,FES ARAGON,Álgebra Lineal,Grossman,Mcgraw-Hill, computación ,20,VENCIDO,BIBLIOTECA CENTRAL,Nezahualcóyotl,sin observación,cap01
+PB-00544,2026-03-28,MATEMATICAS, ciudad universitaria ,Python para Todos,Tanenbaum,PEARSON,Matemáticas,7,en préstamo ,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,temporal
+PB-00046,2026-02-01,comunicación ,FES Aragón,Cálculo I,Mendenhall,McGraw Hill,Matemáticas,15,Vencido,FES Aragón,CDMX,libro dañado,cap01
+PB-00303,2026-02-18,Matemáticas,CU,Estadística Básica,Date,Pearson,COMPUTACION,,Devuelto, fes aragón ,nezahualcóyotl ,renovación,cap01
+PB-00621,2026-06-05,Derecho, ciudad universitaria ,Álgebra Lineal,Mendenhall,Alfaomega,COMPUTACION,25,EN PRESTAMO,biblioteca central ,NEZAHUALCOYOTL,sin observación,cap02
+PB-00455,2026-05-14,Comunicación y Periodismo,Ciudad Universitaria,Python para Todos,Witten,Alfaomega,Matemáticas,,Vencido,FES ARAGON,Ciudad de México,sin observación,cap01
+PB-00365,2026-03-22, ing. computacion ,Ciudad Universitaria,Cálculo I,Tanenbaum,Pearson,Matemáticas,30,Devuelto,biblioteca central ,Nezahualcóyotl,renovación,admin
+PB-00560,2026-04-14, ing. computacion ,Ciudad Universitaria,Bases de Datos,Tanenbaum,UNAM,COMPUTACION,5,VENCIDO,Biblioteca Central,Nezahualcóyotl,renovación,admin
+PB-00516,2026-03-25,derecho , ciudad universitaria ,Python para Todos,Guido,Mcgraw-Hill,COMPUTACION,25,EN PRESTAMO,FES ARAGON,NEZAHUALCOYOTL,renovación,temporal
+PB-00061,2026-04-28, matematicas , ciudad universitaria ,Estadística Básica,Stewart,,Ciencias Sociales,15,en préstamo ,Biblioteca Central,ciudad de mexico ,renovación,temporal
+PB-00192,2026-03-11,Matemáticas,FES ARAGON,Estadística Básica,Tanenbaum, pearson ,Matemáticas,30,Vencido,FES ARAGON,ciudad de mexico ,sin observación,admin
+PB-00332,2026-02-22,COMUNICACION Y PERIODISMO,CU,Cálculo I,Date,Alfaomega,Matemáticas,,en préstamo ,FES Aragón,CDMX,libro dañado,cap02
+PB-00319,2026-04-07,Ing. en Computación,FES ARAGON,Estadística Básica,Stewart,UNAM,Ciencias Sociales,15,Vencido,Biblioteca Central,Ciudad de México,revisar,cap01
+PB-00089,2026-03-16,Matemáticas,CU,Redes de Computadoras,Witten,,COMPUTACION,5,devuelto ,FES Aragón,nezahualcóyotl ,,temporal
+PB-00062,2026-02-24, matematicas ,CU,Python para Todos,Mendenhall,,Computación,30,En préstamo,biblioteca central ,NEZAHUALCOYOTL,renovación,admin
+PB-00453,2026-05-25, matematicas ,FES ARAGON,Estadística Básica,Grossman,Mcgraw-Hill,COMPUTACION,25,Vencido,BIBLIOTECA CENTRAL,CDMX,libro dañado,cap01
+PB-00127,2026-04-05,Derecho, fes aragón ,Minería de Datos,Guido,,MATEMATICAS,30,VENCIDO,Biblioteca Central,CDMX,libro dañado,cap01
+PB-00454,2026-02-27,Comunicación y Periodismo,FES Aragón,Bases de Datos,Guido,,Matemáticas,15,Devuelto, fes aragón ,ciudad de mexico ,revisar,temporal
+PB-00638,2026-04-22,Ing. en Computación,FES Aragón,Python para Todos,Witten,Alfaomega,Matemáticas,5,En préstamo,FES ARAGON,nezahualcóyotl ,revisar,admin
+PB-00229,2026-05-02, matematicas ,Ciudad Universitaria,Python para Todos,Grossman,McGraw Hill,Computación,,VENCIDO,FES ARAGON,NEZAHUALCOYOTL,renovación,temporal
+PB-00067,2026-03-02,INGENIERIA EN COMPUTACION, ciudad universitaria ,Cálculo I,Mendenhall,,COMPUTACION,25,VENCIDO,FES ARAGON,Nezahualcóyotl,libro dañado,temporal
+PB-00603,2026-04-19,DERECHO, fes aragón ,Estadística Básica,Date,McGraw Hill,Computación,25,VENCIDO,biblioteca central ,ciudad de mexico ,renovación,cap02
+PB-00314,2026-03-25,DERECHO,CU,Bases de Datos,Tanenbaum,Alfaomega,MATEMATICAS,15,VENCIDO, fes aragón ,NEZAHUALCOYOTL,renovación,admin
+PB-00023,2026-03-29,Ingeniería en Computación,CU,Redes de Computadoras,Grossman,UNAM, computación ,7,Devuelto,Biblioteca Central,Nezahualcóyotl,,cap01
+PB-00321,2026-03-03,derecho ,CU,Estadística Básica,Stewart,, computación ,20,Devuelto,FES ARAGON,nezahualcóyotl ,,admin
+PB-00017,2026-04-19,MATEMATICAS,Ciudad Universitaria,Cálculo I,Tanenbaum,,Matemáticas,7,VENCIDO,FES Aragón,NEZAHUALCOYOTL,sin observación,admin
+PB-00363,2026-02-15,Derecho, fes aragón ,Estadística Básica,Guido,PEARSON,MATEMATICAS,,Vencido,FES ARAGON,Nezahualcóyotl,renovación,admin
+PB-00237,2026-05-01,Derecho,CU,Cálculo I,Tanenbaum,Pearson, ciencias sociales ,,En préstamo,biblioteca central ,NEZAHUALCOYOTL,renovación,cap01
+PB-00351,2026-02-09,INGENIERIA EN COMPUTACION,CU,Redes de Computadoras,Grossman,Pearson,MATEMATICAS,,EN PRESTAMO,Biblioteca Central,Ciudad de México,sin observación,cap01
+PB-00418,2026-05-28, ing. computacion ,FES Aragón,Álgebra Lineal,Witten,Pearson,Matemáticas,3,devuelto ,FES ARAGON,Nezahualcóyotl,renovación,cap02
+PB-00212,2026-04-19, ing. computacion ,FES Aragón,Python para Todos,Stewart,PEARSON,COMPUTACION,30,en préstamo ,BIBLIOTECA CENTRAL,Ciudad de México,revisar,cap01
+PB-00106,2026-04-27,Comunicación y Periodismo, ciudad universitaria ,Python para Todos,Date, pearson ,COMPUTACION,5,EN PRESTAMO,Biblioteca Central,Nezahualcóyotl,renovación,temporal
+PB-00542,2026-03-01,DERECHO, ciudad universitaria ,Estadística Básica,Grossman,Mcgraw-Hill,Matemáticas,,devuelto ,BIBLIOTECA CENTRAL,Nezahualcóyotl,sin observación,temporal
+PB-00575,2026-02-26,Matemáticas,FES Aragón,Cálculo I,Stewart,PEARSON,COMPUTACION,10,devuelto ,Biblioteca Central,CDMX,sin observación,cap01
+PB-00462,2026-02-02,Comunicación y Periodismo,CU,Redes de Computadoras,Tanenbaum,Mcgraw-Hill, computación ,10,Vencido, fes aragón ,Ciudad de México,,cap02
+PB-00231,2026-06-10,comunicación , ciudad universitaria ,Álgebra Lineal,Date, pearson ,COMPUTACION,7,VENCIDO, fes aragón ,Ciudad de México,,temporal
+PB-00096,2026-06-08,Comunicación y Periodismo, ciudad universitaria ,Minería de Datos,Tanenbaum,Alfaomega,MATEMATICAS,25,Vencido,FES Aragón,NEZAHUALCOYOTL,sin observación,cap01
+PB-00163,2026-02-19,MATEMATICAS, fes aragón ,Cálculo I,Witten,, computación ,7,en préstamo ,BIBLIOTECA CENTRAL,Ciudad de México,revisar,temporal
+PB-00423,2026-02-09,MATEMATICAS,FES Aragón,Estadística Básica,Date,Alfaomega, ciencias sociales ,5,EN PRESTAMO,Biblioteca Central,Nezahualcóyotl,,temporal
+PB-00116,2026-02-28,MATEMATICAS, ciudad universitaria ,Cálculo I,Stewart,Alfaomega,Computación,,EN PRESTAMO,biblioteca central ,Nezahualcóyotl,sin observación,temporal
+PB-00514,2026-03-20,COMUNICACION Y PERIODISMO, fes aragón ,Redes de Computadoras,Stewart,McGraw Hill,Matemáticas,25,EN PRESTAMO,biblioteca central ,CDMX,revisar,temporal
+PB-00597,2026-04-27,Comunicación y Periodismo,Ciudad Universitaria,Bases de Datos,Date, pearson , computación ,30,devuelto ,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,cap02
+PB-00002,2026-03-10, matematicas ,Ciudad Universitaria,Álgebra Lineal,Date,,Ciencias Sociales,10,devuelto ,FES ARAGON,Nezahualcóyotl,,temporal
+PB-00326,2026-06-06,Comunicación y Periodismo,FES ARAGON,Estadística Básica,Witten,Alfaomega,Computación,,devuelto ,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,cap02
+PB-00173,2026-05-10,,Ciudad Universitaria,Redes de Computadoras,Witten,UNAM, computación ,,devuelto , fes aragón ,Ciudad de México,,cap02
+PB-00355,2026-03-15, matematicas ,FES Aragón,Bases de Datos,Stewart,UNAM, ciencias sociales ,,en préstamo ,Biblioteca Central,ciudad de mexico ,,cap02
+PB-00136,2026-05-06,INGENIERIA EN COMPUTACION,CU,Cálculo I,Tanenbaum,Mcgraw-Hill,Computación,15,devuelto ,FES Aragón,NEZAHUALCOYOTL,revisar,cap02
+PB-00219,2026-03-02,Ingeniería en Computación, fes aragón ,Redes de Computadoras,Guido,,Matemáticas,20,devuelto ,Biblioteca Central,CDMX,renovación,cap01
+PB-00011,2026-02-04,Ing. en Computación,FES ARAGON,Bases de Datos,Mendenhall,Mcgraw-Hill, ciencias sociales ,15,EN PRESTAMO,biblioteca central ,ciudad de mexico ,,cap01
+PB-00628,2026-03-26,Derecho,Ciudad Universitaria,Cálculo I,Tanenbaum,PEARSON,MATEMATICAS,10,Vencido, fes aragón ,NEZAHUALCOYOTL,renovación,cap01
+PB-00105,2026-05-25,Matemáticas, fes aragón ,Python para Todos,Witten,,COMPUTACION,10,Devuelto,BIBLIOTECA CENTRAL,nezahualcóyotl ,,admin
+PB-00238,2026-05-20,comunicación ,Ciudad Universitaria,Redes de Computadoras,Date,Pearson,MATEMATICAS,15,en préstamo ,biblioteca central ,nezahualcóyotl ,libro dañado,cap01
+PB-00441,2026-04-05,Comunicación y Periodismo,Ciudad Universitaria,Bases de Datos,Witten,PEARSON,COMPUTACION,15,Vencido,Biblioteca Central,nezahualcóyotl ,,temporal
+PB-00266,2026-03-30,MATEMATICAS,CU,Minería de Datos,Date,Mcgraw-Hill,COMPUTACION,3,Vencido,biblioteca central ,ciudad de mexico ,renovación,cap01
+PB-00069,2026-03-21,Ingeniería en Computación, ciudad universitaria ,Cálculo I,Grossman,McGraw Hill,COMPUTACION,,VENCIDO,FES Aragón,NEZAHUALCOYOTL,,admin
+PB-00276,2026-05-22,Ingeniería en Computación, fes aragón ,Álgebra Lineal,Guido,McGraw Hill,COMPUTACION,25,devuelto ,Biblioteca Central,nezahualcóyotl ,renovación,admin
+PB-00357,2026-06-11,INGENIERIA EN COMPUTACION,FES Aragón,Estadística Básica,Witten,PEARSON,COMPUTACION,3,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,sin observación,cap01
+PB-00037,2026-05-14,derecho ,CU,Minería de Datos,Mendenhall,,Matemáticas,20,EN PRESTAMO,FES Aragón,ciudad de mexico ,libro dañado,cap01
+PB-00221,2026-04-26,,FES ARAGON,Álgebra Lineal,Grossman,Alfaomega,Computación,5,En préstamo,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,temporal
+PB-00435,2026-02-01,DERECHO,FES ARAGON,Bases de Datos,Witten,Mcgraw-Hill,Ciencias Sociales,,Devuelto,BIBLIOTECA CENTRAL,Ciudad de México,sin observación,cap02
+PB-00520,2026-04-20,derecho ,FES Aragón,Cálculo I,Grossman,UNAM,MATEMATICAS,30,Vencido,FES Aragón,nezahualcóyotl ,,cap02
+PB-00207,2026-06-08, ing. computacion ,FES ARAGON,Bases de Datos,Mendenhall,Pearson,COMPUTACION,3,en préstamo ,FES ARAGON,ciudad de mexico ,revisar,temporal
+PB-00509,2026-04-13,MATEMATICAS, ciudad universitaria ,Minería de Datos,Tanenbaum,Pearson, computación ,,en préstamo , fes aragón ,Ciudad de México,renovación,cap02
+PB-00269,2026-04-22,comunicación , ciudad universitaria ,Cálculo I,Date,Pearson, ciencias sociales ,25,VENCIDO,FES Aragón,nezahualcóyotl ,renovación,cap01
+PB-00195,2026-03-01,MATEMATICAS,CU,Cálculo I,Witten,Mcgraw-Hill,COMPUTACION,30,Vencido,Biblioteca Central,nezahualcóyotl ,renovación,admin
+PB-00407,2026-02-07,INGENIERIA EN COMPUTACION,FES Aragón,Cálculo I,Witten,,MATEMATICAS,20,devuelto ,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,temporal
+PB-00245,2026-03-16,INGENIERIA EN COMPUTACION, ciudad universitaria ,Minería de Datos,Witten,,MATEMATICAS,,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,sin observación,temporal
+PB-00384,2026-05-19,Matemáticas, ciudad universitaria ,Álgebra Lineal,Stewart,, computación ,5,devuelto ,FES Aragón,nezahualcóyotl ,renovación,cap02
+PB-00079,2026-02-19,Ingeniería en Computación,Ciudad Universitaria,Estadística Básica,Guido, pearson ,MATEMATICAS,7,VENCIDO,FES ARAGON,CDMX,,admin
+PB-00572,2026-02-06,Comunicación y Periodismo, fes aragón ,Python para Todos,Witten,Pearson,Matemáticas,30,Vencido,Biblioteca Central,Ciudad de México,revisar,cap01
+PB-00412,2026-04-11,INGENIERIA EN COMPUTACION,CU,Estadística Básica,Grossman,UNAM,COMPUTACION,,Devuelto, fes aragón ,ciudad de mexico ,renovación,temporal
+PB-00140,2026-04-30,DERECHO, ciudad universitaria ,Minería de Datos,Grossman,UNAM,Ciencias Sociales,5,devuelto , fes aragón ,Ciudad de México,renovación,cap01
+PB-00249,,DERECHO, fes aragón ,Python para Todos,Stewart, pearson ,Matemáticas,,EN PRESTAMO,biblioteca central ,Nezahualcóyotl,libro dañado,admin
+PB-00624,2026-06-05,DERECHO, fes aragón ,Bases de Datos,Mendenhall,Pearson,MATEMATICAS,20,En préstamo, fes aragón ,NEZAHUALCOYOTL,renovación,cap01
+PB-00208,2026-03-11,DERECHO, ciudad universitaria ,Bases de Datos,Date,Mcgraw-Hill, computación ,10,Devuelto,Biblioteca Central,Nezahualcóyotl,sin observación,cap01
+PB-00030,2026-04-01, ing. computacion , ciudad universitaria ,Bases de Datos,Mendenhall,McGraw Hill, ciencias sociales ,20,en préstamo ,Biblioteca Central,Ciudad de México,sin observación,cap01
+PB-00383,2026-03-22,INGENIERIA EN COMPUTACION, ciudad universitaria ,Cálculo I,Stewart,Alfaomega,Computación,7,En préstamo,biblioteca central ,ciudad de mexico ,revisar,cap02
+PB-00451,2026-06-07,Ingeniería en Computación,FES ARAGON,Bases de Datos,Mendenhall,Pearson,COMPUTACION,5,VENCIDO,FES Aragón,Ciudad de México,renovación,temporal
+PB-00630,2026-05-11,Derecho,FES ARAGON,Álgebra Lineal,Guido,Alfaomega,MATEMATICAS,15,,biblioteca central ,ciudad de mexico ,libro dañado,cap02
+PB-00024,2026-05-25,comunicación ,CU,Cálculo I,Witten,Alfaomega,Computación,10,Devuelto,Biblioteca Central,Ciudad de México,libro dañado,cap02
+PB-00064,2026-04-10,Derecho,FES Aragón,Bases de Datos,Date,McGraw Hill,Matemáticas,25,en préstamo ,Biblioteca Central,Nezahualcóyotl,libro dañado,temporal
+PB-00443,2026-05-02, matematicas ,CU,Python para Todos,Guido, pearson ,Computación,3,devuelto ,BIBLIOTECA CENTRAL,nezahualcóyotl ,revisar,cap02
+PB-00389,2026-05-30,INGENIERIA EN COMPUTACION,CU,Bases de Datos,Tanenbaum,Mcgraw-Hill,Matemáticas,30,Devuelto,FES Aragón,Ciudad de México,sin observación,cap02
+PB-00161,2026-03-01,DERECHO,FES ARAGON,Bases de Datos,Witten, pearson , computación ,20,devuelto ,biblioteca central ,Nezahualcóyotl,renovación,temporal
+PB-00310,2026-04-18,MATEMATICAS, ciudad universitaria ,Álgebra Lineal,Date,McGraw Hill,Computación,,En préstamo,FES Aragón,Ciudad de México,libro dañado,cap02
+PB-00536,2026-05-24,Comunicación y Periodismo, fes aragón ,Minería de Datos,Mendenhall,UNAM,Computación,10,Devuelto, fes aragón ,Ciudad de México,sin observación,temporal
+PB-00477,2026-04-16,MATEMATICAS, fes aragón ,Álgebra Lineal,Grossman,PEARSON, computación ,25,en préstamo ,FES ARAGON,CDMX,sin observación,admin
+PB-00448,2026-05-22,Ingeniería en Computación,FES ARAGON,Estadística Básica,Grossman, pearson ,COMPUTACION,,VENCIDO,biblioteca central ,nezahualcóyotl ,,cap02
+PB-00419,2026-02-22,DERECHO,CU,Redes de Computadoras,Date,PEARSON,Ciencias Sociales,5,devuelto ,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,admin
+PB-00202,2026-06-03,Matemáticas,FES ARAGON,Bases de Datos,Tanenbaum,,Matemáticas,5,EN PRESTAMO,FES ARAGON,CDMX,sin observación,temporal
+PB-00053,2026-03-05,MATEMATICAS, fes aragón ,Python para Todos,Grossman,Pearson, ciencias sociales ,30,,FES Aragón,nezahualcóyotl ,libro dañado,cap01
+PB-00049,2026-06-10, matematicas ,Ciudad Universitaria,Cálculo I,Guido,Mcgraw-Hill,MATEMATICAS,10,Devuelto,FES Aragón,ciudad de mexico ,renovación,admin
+PB-00445,2026-04-09, matematicas ,FES Aragón,Estadística Básica,Mendenhall,Mcgraw-Hill,COMPUTACION,10,Vencido, fes aragón ,Ciudad de México,,cap01
+PB-00537,2026-05-13,Ingeniería en Computación,FES Aragón,Python para Todos,Date,Mcgraw-Hill,MATEMATICAS,25,EN PRESTAMO,FES ARAGON,Nezahualcóyotl,sin observación,temporal
+PB-00604,2026-03-05, matematicas ,Ciudad Universitaria,Bases de Datos,Guido, pearson ,Matemáticas,30,EN PRESTAMO,FES Aragón,ciudad de mexico ,,temporal
+PB-00625,2026-02-20,DERECHO,FES Aragón,Álgebra Lineal,Stewart,Alfaomega,Ciencias Sociales,,devuelto ,BIBLIOTECA CENTRAL,ciudad de mexico ,,cap02
+PB-00424,2026-06-10,Matemáticas, fes aragón ,Python para Todos,Stewart,, ciencias sociales ,3,devuelto , fes aragón ,CDMX,sin observación,temporal
+PB-00594,2026-03-15,DERECHO,Ciudad Universitaria,Minería de Datos,Mendenhall,UNAM, computación ,25,en préstamo ,Biblioteca Central,Ciudad de México,libro dañado,admin
+PB-00144,2026-05-24, matematicas ,FES ARAGON,Cálculo I,Mendenhall,Mcgraw-Hill,Matemáticas,7,VENCIDO,Biblioteca Central,NEZAHUALCOYOTL,,cap01
+PB-00183,2026-05-16,MATEMATICAS,Ciudad Universitaria,Bases de Datos,Tanenbaum,McGraw Hill,MATEMATICAS,10,EN PRESTAMO,Biblioteca Central,nezahualcóyotl ,renovación,cap02
+PB-00100,2026-04-08, ing. computacion ,CU,Álgebra Lineal,Date,,Computación,5,en préstamo ,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,temporal
+PB-00256,2026-04-16, ing. computacion ,FES Aragón,Redes de Computadoras,Grossman, pearson ,Matemáticas,10,devuelto ,FES ARAGON,ciudad de mexico ,,admin
+PB-00371,2026-04-30,Derecho, fes aragón ,Estadística Básica,Date,McGraw Hill,Matemáticas,3,VENCIDO,FES Aragón,Ciudad de México,libro dañado,admin
+PB-00181,2026-04-22, matematicas ,FES Aragón,Álgebra Lineal,Date,UNAM,Ciencias Sociales,25,en préstamo ,biblioteca central ,CDMX,revisar,cap02
+PB-00327,2026-03-11,comunicación , ciudad universitaria ,Python para Todos,Witten,UNAM,COMPUTACION,30,en préstamo ,BIBLIOTECA CENTRAL,nezahualcóyotl ,sin observación,cap01
+PB-00150,2026-02-19,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Bases de Datos,Guido, pearson ,MATEMATICAS,5,devuelto , fes aragón ,Nezahualcóyotl,revisar,cap02
+PB-00446,2026-02-05,comunicación ,Ciudad Universitaria,Redes de Computadoras,Tanenbaum,Pearson, computación ,25,EN PRESTAMO,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,cap02
+PB-00179,2026-03-01,Derecho, fes aragón ,Álgebra Lineal,Guido,Pearson,Ciencias Sociales,3,EN PRESTAMO,FES Aragón,nezahualcóyotl ,revisar,temporal
+PB-00072,2026-02-26,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Python para Todos,Tanenbaum, pearson , ciencias sociales ,7,VENCIDO,FES ARAGON,nezahualcóyotl ,libro dañado,temporal
+PB-00409,2026-03-11,Matemáticas, fes aragón ,Bases de Datos,Mendenhall,PEARSON,Ciencias Sociales,,devuelto , fes aragón ,Ciudad de México,,admin
+PB-00307,2026-03-10, ing. computacion ,FES Aragón,Bases de Datos,Date,,Matemáticas,5,en préstamo , fes aragón ,Ciudad de México,renovación,cap02
+PB-00348,2026-03-29,COMUNICACION Y PERIODISMO,FES Aragón,Bases de Datos,Witten, pearson ,COMPUTACION,25,Vencido,biblioteca central ,nezahualcóyotl ,libro dañado,admin
+PB-00330,2026-02-04,Ing. en Computación,Ciudad Universitaria,Bases de Datos,Witten,, ciencias sociales ,15,Vencido,FES Aragón,CDMX,,cap01
+PB-00243,2026-04-21, ing. computacion , ciudad universitaria ,Estadística Básica,Date,, ciencias sociales ,7,VENCIDO,FES ARAGON,CDMX,revisar,admin
+PB-00436,2026-03-17, ing. computacion ,Ciudad Universitaria,Bases de Datos,Guido,Pearson, computación ,25,EN PRESTAMO,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,revisar,cap02
+PB-00288,2026-04-14,Comunicación y Periodismo,FES ARAGON,Álgebra Lineal,Tanenbaum,UNAM,Ciencias Sociales,25,VENCIDO, fes aragón ,nezahualcóyotl ,sin observación,cap01
+PB-00382,2026-03-23,INGENIERIA EN COMPUTACION,FES ARAGON,Python para Todos,Tanenbaum, pearson ,Matemáticas,7,En préstamo, fes aragón ,ciudad de mexico ,libro dañado,cap02
+PB-00204,2026-03-27,comunicación ,Ciudad Universitaria,Python para Todos,Tanenbaum,UNAM,Ciencias Sociales,25,En préstamo, fes aragón ,CDMX,libro dañado,temporal
+PB-00068,2026-02-26,INGENIERIA EN COMPUTACION,FES ARAGON,Python para Todos,Stewart, pearson ,COMPUTACION,20,VENCIDO,FES ARAGON,ciudad de mexico ,sin observación,cap01
+PB-00614,2026-04-06,comunicación , ciudad universitaria ,Estadística Básica,Witten,,Computación,10,devuelto ,BIBLIOTECA CENTRAL,Ciudad de México,renovación,cap01
+PB-00200,2026-04-05,DERECHO, fes aragón ,Minería de Datos,Date,PEARSON,Ciencias Sociales,,VENCIDO, fes aragón ,Ciudad de México,renovación,admin
+PB-00606,2026-05-16,comunicación ,FES ARAGON,Cálculo I,Grossman,UNAM,Matemáticas,15,EN PRESTAMO,FES Aragón,CDMX,,temporal
+PB-00015,2026-03-13,Ing. en Computación,FES Aragón,Redes de Computadoras,Date,,COMPUTACION,30,en préstamo ,BIBLIOTECA CENTRAL,Nezahualcóyotl,revisar,temporal
+PB-00565,2026-06-08,COMUNICACION Y PERIODISMO,FES ARAGON,Minería de Datos,Tanenbaum,UNAM,MATEMATICAS,25,Vencido,FES ARAGON,NEZAHUALCOYOTL,libro dañado,cap01
+PB-00176,2026-04-25,Ingeniería en Computación,CU,Python para Todos,Date,Alfaomega, ciencias sociales ,3,Vencido,Biblioteca Central,NEZAHUALCOYOTL,renovación,cap01
+PB-00103,2026-03-29,DERECHO,Ciudad Universitaria,Python para Todos,Stewart,McGraw Hill, ciencias sociales ,25,devuelto ,FES ARAGON,nezahualcóyotl ,renovación,cap01
+PB-00233,2026-05-09,Ing. en Computación,Ciudad Universitaria,Minería de Datos,Mendenhall,, ciencias sociales ,30,Vencido,biblioteca central ,CDMX,,cap02
+PB-00295,2026-05-30,Comunicación y Periodismo, fes aragón ,Estadística Básica,Grossman,PEARSON, computación ,,VENCIDO,FES Aragón,Nezahualcóyotl,revisar,cap02
+PB-00112,2026-03-16, matematicas ,Ciudad Universitaria,Python para Todos,Grossman,,COMPUTACION,15,devuelto ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,libro dañado,admin
+PB-00248,2026-02-07,Comunicación y Periodismo, ciudad universitaria ,Minería de Datos,Guido,Mcgraw-Hill,Matemáticas,25,devuelto ,FES ARAGON,ciudad de mexico ,libro dañado,temporal
+PB-00473,2026-04-01, matematicas ,FES Aragón,Python para Todos,Guido,Mcgraw-Hill,Ciencias Sociales,20,Vencido, fes aragón ,Ciudad de México,revisar,admin
+PB-00566,2026-05-03,Comunicación y Periodismo, fes aragón ,Cálculo I,Witten,,Matemáticas,5,En préstamo,biblioteca central ,Nezahualcóyotl,sin observación,temporal
+PB-00375,2026-02-25,Derecho, fes aragón ,Álgebra Lineal,Tanenbaum,, computación ,15,En préstamo,FES Aragón,Ciudad de México,renovación,temporal
+PB-00426,2026-03-01,Matemáticas,FES ARAGON,Python para Todos,Date,,Ciencias Sociales,7,Vencido,FES Aragón,nezahualcóyotl ,libro dañado,admin
+PB-00086,2026-04-18,INGENIERIA EN COMPUTACION,CU,Python para Todos,Mendenhall,UNAM,COMPUTACION,20,en préstamo ,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,cap01
+PB-00264,2026-02-23, ing. computacion ,Ciudad Universitaria,Cálculo I,Mendenhall,PEARSON,Matemáticas,,Devuelto,FES ARAGON,Ciudad de México,libro dañado,cap01
+PB-00180,,derecho ,FES ARAGON,Redes de Computadoras,Grossman,Alfaomega,COMPUTACION,10,VENCIDO,FES Aragón,nezahualcóyotl ,sin observación,temporal
+PB-00637,2026-05-28,INGENIERIA EN COMPUTACION,FES Aragón,Álgebra Lineal,Guido,UNAM,Matemáticas,,En préstamo,biblioteca central ,CDMX,sin observación,temporal
+PB-00312,2026-04-09,COMUNICACION Y PERIODISMO, ciudad universitaria ,Cálculo I,Tanenbaum,,Ciencias Sociales,3,en préstamo ,biblioteca central ,CDMX,revisar,cap02
+PB-00470,2026-03-16,derecho ,Ciudad Universitaria,Redes de Computadoras,Stewart,Mcgraw-Hill,COMPUTACION,5,devuelto ,FES Aragón,Ciudad de México,renovación,temporal
+PB-00508,2026-03-18,comunicación ,CU,Cálculo I,Stewart,UNAM,MATEMATICAS,15,devuelto ,biblioteca central ,CDMX,sin observación,admin
+PB-00581,2026-02-06, matematicas , fes aragón ,Estadística Básica,Grossman,Mcgraw-Hill, ciencias sociales ,,En préstamo,Biblioteca Central,CDMX,revisar,cap01
+PB-00039,2026-06-11,Derecho,FES ARAGON,Álgebra Lineal,Guido,Alfaomega, ciencias sociales ,25,devuelto , fes aragón ,nezahualcóyotl ,libro dañado,temporal
+PB-00481,2026-05-19,Ingeniería en Computación,FES Aragón,Estadística Básica,Witten,Mcgraw-Hill,Matemáticas,20,VENCIDO,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,temporal
+PB-00119,2026-05-05,Ing. en Computación,CU,Bases de Datos,Witten,UNAM,Ciencias Sociales,25,VENCIDO,biblioteca central ,ciudad de mexico ,libro dañado,cap01
+PB-00362,2026-03-22,Matemáticas,FES ARAGON,Estadística Básica,Mendenhall,Pearson,MATEMATICAS,7,EN PRESTAMO,FES Aragón,NEZAHUALCOYOTL,revisar,cap02
+PB-00584,2026-04-30,comunicación ,CU,Estadística Básica,Mendenhall,Alfaomega, ciencias sociales ,10,,Biblioteca Central,CDMX,sin observación,cap02
+PB-00469,2026-05-27,DERECHO,Ciudad Universitaria,Bases de Datos,Mendenhall, pearson ,COMPUTACION,20,devuelto ,Biblioteca Central,Nezahualcóyotl,libro dañado,cap01
+PB-00619,2026-02-11,comunicación , ciudad universitaria ,Cálculo I,Grossman,McGraw Hill, computación ,25,Vencido, fes aragón ,ciudad de mexico ,sin observación,temporal
+PB-00523,2026-05-05,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Minería de Datos,Date,,Ciencias Sociales,,Vencido,FES Aragón,ciudad de mexico ,sin observación,cap02
+PB-00386,2026-06-03,COMUNICACION Y PERIODISMO,CU,Minería de Datos,Date,UNAM,Matemáticas,10,Devuelto,BIBLIOTECA CENTRAL,ciudad de mexico ,,cap02
+PB-00218,2026-04-22,Comunicación y Periodismo, ciudad universitaria ,Minería de Datos,Date,Mcgraw-Hill,COMPUTACION,5,devuelto ,FES Aragón,ciudad de mexico ,sin observación,cap02
+PB-00186,2026-05-22,COMUNICACION Y PERIODISMO, ciudad universitaria ,Álgebra Lineal,Stewart,McGraw Hill, ciencias sociales ,15,Vencido,Biblioteca Central,ciudad de mexico ,renovación,admin
+PB-00476,2026-02-10,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Cálculo I,Stewart,Alfaomega, computación ,25,En préstamo, fes aragón ,NEZAHUALCOYOTL,sin observación,admin
+PB-00001,2026-02-28,Comunicación y Periodismo,CU,Redes de Computadoras,Grossman,McGraw Hill,Ciencias Sociales,5,devuelto ,FES ARAGON,ciudad de mexico ,revisar,temporal
+PB-00440,2026-03-08,INGENIERIA EN COMPUTACION, fes aragón ,Minería de Datos,Mendenhall,Alfaomega, computación ,30,En préstamo,FES ARAGON,Nezahualcóyotl,revisar,admin
+PB-00429,2026-03-01,Ing. en Computación,FES Aragón,Cálculo I,Witten,Pearson,MATEMATICAS,7,devuelto ,BIBLIOTECA CENTRAL,CDMX,renovación,cap02
+PB-00224,2026-05-24,MATEMATICAS,FES Aragón,Redes de Computadoras,Grossman, pearson , computación ,10,devuelto , fes aragón ,nezahualcóyotl ,sin observación,temporal
+PB-00052,2026-04-11,Derecho,Ciudad Universitaria,Python para Todos,Stewart,PEARSON, ciencias sociales ,,VENCIDO,BIBLIOTECA CENTRAL,Ciudad de México,renovación,cap02
+PB-00634,2026-03-08,Matemáticas,Ciudad Universitaria,Redes de Computadoras,Tanenbaum,, computación ,30,En préstamo,Biblioteca Central,NEZAHUALCOYOTL,renovación,temporal
+PB-00147,2026-05-02,comunicación ,CU,Álgebra Lineal,Grossman,Pearson,Matemáticas,15,en préstamo ,biblioteca central ,NEZAHUALCOYOTL,renovación,cap01
+PB-00029,2026-05-03,INGENIERIA EN COMPUTACION,CU,Python para Todos,Mendenhall,Alfaomega,Ciencias Sociales,,en préstamo ,FES Aragón,nezahualcóyotl ,,temporal
+PB-00155,2026-05-18,INGENIERIA EN COMPUTACION,FES Aragón,Cálculo I,Guido,Pearson,Matemáticas,30,Devuelto,FES ARAGON,NEZAHUALCOYOTL,sin observación,cap01
+PB-00014,2026-04-30, matematicas , fes aragón ,Bases de Datos,Witten,McGraw Hill,Ciencias Sociales,25,VENCIDO, fes aragón ,ciudad de mexico ,sin observación,cap02
+PB-00034,2026-04-19,INGENIERIA EN COMPUTACION, fes aragón ,Estadística Básica,Guido,UNAM,MATEMATICAS,30,,FES Aragón,ciudad de mexico ,sin observación,cap01
+PB-00631,2026-05-11,Ing. en Computación, fes aragón ,Python para Todos,Mendenhall,Mcgraw-Hill,Computación,10,En préstamo,biblioteca central ,Nezahualcóyotl,revisar,temporal
+PB-00311,2026-04-02,derecho ,CU,Álgebra Lineal,Tanenbaum,McGraw Hill,Matemáticas,7,EN PRESTAMO,FES ARAGON,Nezahualcóyotl,revisar,admin
+PB-00156,2026-04-25,DERECHO,Ciudad Universitaria,Álgebra Lineal,Witten,PEARSON,MATEMATICAS,10,en préstamo ,FES ARAGON,CDMX,renovación,admin
+PB-00031,2026-02-14,Derecho,CU,Python para Todos,Tanenbaum,Mcgraw-Hill,MATEMATICAS,,devuelto ,Biblioteca Central,NEZAHUALCOYOTL,,cap02
+PB-00075,2026-06-08,Comunicación y Periodismo,FES Aragón,Minería de Datos,Witten, pearson ,COMPUTACION,,en préstamo ,biblioteca central ,nezahualcóyotl ,revisar,cap01
+PB-00391,2026-02-26,Comunicación y Periodismo,FES ARAGON,Python para Todos,Grossman,McGraw Hill,Matemáticas,25,EN PRESTAMO,biblioteca central ,CDMX,renovación,admin
+PB-00281,2026-04-23,Comunicación y Periodismo,FES Aragón,Minería de Datos,Guido,UNAM,COMPUTACION,30,EN PRESTAMO,FES ARAGON,CDMX,,cap02
+PB-00524,2026-06-06,Ing. en Computación,CU,Estadística Básica,Witten,Alfaomega,COMPUTACION,15,En préstamo,BIBLIOTECA CENTRAL,ciudad de mexico ,revisar,cap01
+PB-00168,2026-05-02,comunicación ,FES Aragón,Minería de Datos,Stewart,PEARSON,Matemáticas,20,Vencido,FES ARAGON,nezahualcóyotl ,sin observación,cap01
+PB-00279,2026-04-12,MATEMATICAS, ciudad universitaria ,Redes de Computadoras,Stewart,UNAM,COMPUTACION,,VENCIDO,FES Aragón,Ciudad de México,libro dañado,admin
+PB-00411,2026-04-29,Derecho,Ciudad Universitaria,Cálculo I,Guido, pearson ,MATEMATICAS,20,EN PRESTAMO,biblioteca central ,ciudad de mexico ,sin observación,cap01
+PB-00326,2026-06-06,Comunicación y Periodismo,FES ARAGON,Estadística Básica,Witten,Alfaomega,Computación,,devuelto ,BIBLIOTECA CENTRAL,nezahualcóyotl ,renovación,cap02
+PB-00085,2026-02-23,Matemáticas, ciudad universitaria ,Python para Todos,Date,Mcgraw-Hill,MATEMATICAS,30,Vencido,FES ARAGON,CDMX,,cap02
+PB-00098,2026-03-26,Ing. en Computación, fes aragón ,Álgebra Lineal,Date,UNAM, computación ,5,Vencido,biblioteca central ,CDMX,libro dañado,admin
+PB-00165,2026-03-02, matematicas , ciudad universitaria ,Estadística Básica,Witten,, ciencias sociales ,7,En préstamo, fes aragón ,CDMX,libro dañado,cap02
+PB-00460,2026-04-09,Ing. en Computación,CU,Python para Todos,Witten,Alfaomega,Computación,5,EN PRESTAMO,BIBLIOTECA CENTRAL,Nezahualcóyotl,libro dañado,cap02
+PB-00404,2026-05-04,Ing. en Computación,FES Aragón,Python para Todos,Date,Alfaomega, ciencias sociales ,5,Devuelto,Biblioteca Central,ciudad de mexico ,renovación,admin
+PB-00346,2026-04-16,Derecho,FES Aragón,Redes de Computadoras,Stewart,McGraw Hill,MATEMATICAS,30,Vencido,biblioteca central ,NEZAHUALCOYOTL,revisar,temporal
+PB-00533,2026-04-12,DERECHO,Ciudad Universitaria,Redes de Computadoras,Tanenbaum,PEARSON,Computación,10,Vencido,FES Aragón,Nezahualcóyotl,sin observación,temporal
+PB-00489,2026-03-10, ing. computacion , fes aragón ,Bases de Datos,Grossman,UNAM,Ciencias Sociales,30,en préstamo , fes aragón ,CDMX,sin observación,cap01
+PB-00078,2026-03-28,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Python para Todos,Date,McGraw Hill,Computación,15,en préstamo ,BIBLIOTECA CENTRAL,CDMX,revisar,cap01
+PB-00073,2026-05-18,DERECHO,CU,Python para Todos,Witten,Mcgraw-Hill,Matemáticas,10,VENCIDO,Biblioteca Central,ciudad de mexico ,libro dañado,admin
+PB-00094,2026-06-07,COMUNICACION Y PERIODISMO, ciudad universitaria ,Python para Todos,Witten,UNAM,Ciencias Sociales,25,en préstamo ,Biblioteca Central,nezahualcóyotl ,renovación,temporal
+PB-00167,2026-04-08,, ciudad universitaria ,Cálculo I,Date,PEARSON,Matemáticas,5,en préstamo ,biblioteca central ,CDMX,revisar,cap02
+PB-00447,2026-05-13,comunicación ,CU,Estadística Básica,Guido,McGraw Hill,Matemáticas,,Devuelto,BIBLIOTECA CENTRAL,CDMX,renovación,cap02
+PB-00239,2026-03-04,INGENIERIA EN COMPUTACION,FES ARAGON,Estadística Básica,Tanenbaum,PEARSON, computación ,3,en préstamo ,FES ARAGON,nezahualcóyotl ,libro dañado,cap01
+PB-00211,2026-03-24,DERECHO,CU,Python para Todos,Stewart, pearson ,Ciencias Sociales,5,VENCIDO,Biblioteca Central,nezahualcóyotl ,revisar,temporal
+PB-00478,2026-03-23,COMUNICACION Y PERIODISMO,FES Aragón,Estadística Básica,Stewart,Alfaomega,Matemáticas,,EN PRESTAMO,Biblioteca Central,NEZAHUALCOYOTL,,temporal
+PB-00164,2026-02-04,INGENIERIA EN COMPUTACION,FES Aragón,Python para Todos,Tanenbaum,Alfaomega,Computación,25,EN PRESTAMO,FES ARAGON,Nezahualcóyotl,revisar,admin
+PB-00403,2026-06-10,DERECHO,FES Aragón,Bases de Datos,Guido,,Matemáticas,,EN PRESTAMO,Biblioteca Central,Nezahualcóyotl,revisar,admin
+PB-00491,2026-05-11,COMUNICACION Y PERIODISMO,CU,Cálculo I,Guido, pearson ,Ciencias Sociales,25,devuelto ,BIBLIOTECA CENTRAL,Nezahualcóyotl,revisar,temporal
+PB-00232,,COMUNICACION Y PERIODISMO,FES ARAGON,Cálculo I,Mendenhall,UNAM, computación ,20,VENCIDO, fes aragón ,CDMX,renovación,temporal
+PB-00213,2026-02-07,Comunicación y Periodismo,FES ARAGON,Bases de Datos,Grossman,Alfaomega,COMPUTACION,30,Devuelto, fes aragón ,CDMX,revisar,cap01
+PB-00541,2026-05-05,DERECHO, fes aragón ,Minería de Datos,Tanenbaum,,Matemáticas,25,devuelto ,FES ARAGON,CDMX,libro dañado,temporal
+PB-00297,2026-03-01,Ing. en Computación,FES ARAGON,Minería de Datos,Date,,COMPUTACION,25,EN PRESTAMO, fes aragón ,NEZAHUALCOYOTL,revisar,cap01
+PB-00336,2026-05-19,Derecho,FES Aragón,Redes de Computadoras,Date,Alfaomega,Computación,25,Vencido,Biblioteca Central,CDMX,,cap01
+PB-00600,2026-02-28,comunicación ,CU,Estadística Básica,Guido,PEARSON, computación ,20,en préstamo ,FES ARAGON,ciudad de mexico ,libro dañado,temporal
+PB-00397,2026-03-02,MATEMATICAS, fes aragón ,Estadística Básica,Guido,Alfaomega,MATEMATICAS,10,VENCIDO,FES Aragón,Ciudad de México,sin observación,admin
+PB-00043,2026-04-12,Ing. en Computación, fes aragón ,Redes de Computadoras,Mendenhall,Pearson, computación ,20,Vencido, fes aragón ,CDMX,libro dañado,temporal
+PB-00392,2026-02-13,INGENIERIA EN COMPUTACION, ciudad universitaria ,Python para Todos,Witten,McGraw Hill,Ciencias Sociales,30,VENCIDO,biblioteca central ,Nezahualcóyotl,renovación,cap02
+PB-00158,,DERECHO, fes aragón ,Minería de Datos,Tanenbaum,Alfaomega,MATEMATICAS,30,Devuelto, fes aragón ,nezahualcóyotl ,libro dañado,cap01
+PB-00095,2026-03-17,Derecho,Ciudad Universitaria,Cálculo I,Stewart,,Ciencias Sociales,5,VENCIDO,biblioteca central ,NEZAHUALCOYOTL,,admin
+PB-00467,2026-05-01,Derecho, fes aragón ,Python para Todos,Mendenhall,Alfaomega, ciencias sociales ,3,Devuelto, fes aragón ,nezahualcóyotl ,libro dañado,cap01
+PB-00268,2026-05-27,Derecho,FES Aragón,Estadística Básica,Guido,PEARSON,COMPUTACION,15,en préstamo ,biblioteca central ,ciudad de mexico ,renovación,admin
+PB-00285,2026-02-19,Comunicación y Periodismo, ciudad universitaria ,Bases de Datos,Guido,,Computación,3,Vencido, fes aragón ,Nezahualcóyotl,sin observación,admin
+PB-00139,2026-03-28,COMUNICACION Y PERIODISMO, ciudad universitaria ,Minería de Datos,Guido,Pearson,MATEMATICAS,30,en préstamo ,biblioteca central ,Nezahualcóyotl,sin observación,cap02
+PB-00511,2026-03-14,Ing. en Computación, fes aragón ,Cálculo I,Guido,McGraw Hill,MATEMATICAS,30,VENCIDO,BIBLIOTECA CENTRAL,nezahualcóyotl ,revisar,cap01
+PB-00301,2026-05-19,Matemáticas,FES ARAGON,Python para Todos,Witten,PEARSON, ciencias sociales ,,EN PRESTAMO,Biblioteca Central,NEZAHUALCOYOTL,,temporal
+PB-00189,2026-04-27, matematicas ,CU,Estadística Básica,Stewart,,COMPUTACION,3,Vencido,Biblioteca Central,Ciudad de México,revisar,cap01
+PB-00318,2026-02-15,DERECHO,FES Aragón,Estadística Básica,Date,PEARSON,Computación,20,en préstamo , fes aragón ,NEZAHUALCOYOTL,renovación,temporal
+PB-00422,2026-03-14,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Álgebra Lineal,Stewart,Pearson,Ciencias Sociales,25,en préstamo ,biblioteca central ,Nezahualcóyotl,sin observación,cap02
+PB-00479,2026-02-28, ing. computacion , fes aragón ,Bases de Datos,Grossman,McGraw Hill,MATEMATICAS,10,devuelto ,FES ARAGON,NEZAHUALCOYOTL,sin observación,admin
+PB-00408,2026-05-25,MATEMATICAS, fes aragón ,Redes de Computadoras,Stewart,Pearson,Matemáticas,,devuelto ,Biblioteca Central,NEZAHUALCOYOTL,sin observación,cap02
+PB-00309,2026-02-09,Derecho,CU,Estadística Básica,Witten,Mcgraw-Hill,Ciencias Sociales,3,VENCIDO,FES ARAGON,nezahualcóyotl ,revisar,cap01
+PB-00359,2026-02-28,DERECHO, ciudad universitaria ,Álgebra Lineal,Grossman,,Computación,,devuelto ,FES ARAGON,nezahualcóyotl ,libro dañado,admin
+PB-00102,2026-05-07,Comunicación y Periodismo,CU,Minería de Datos,Stewart,UNAM,Computación,10,Devuelto, fes aragón ,CDMX,libro dañado,admin
+PB-00417,2026-02-02,Comunicación y Periodismo,FES Aragón,Redes de Computadoras,Mendenhall,,Computación,20,devuelto , fes aragón ,CDMX,libro dañado,cap02
+PB-00033,2026-04-22,Comunicación y Periodismo, ciudad universitaria ,Bases de Datos,Date,PEARSON,Computación,15,devuelto ,Biblioteca Central,nezahualcóyotl ,revisar,admin
+PB-00598,2026-02-07,Ingeniería en Computación,FES Aragón,Estadística Básica,Tanenbaum,UNAM, ciencias sociales ,10,Vencido,Biblioteca Central,Nezahualcóyotl,sin observación,admin
+PB-00273,2026-05-26,, fes aragón ,Bases de Datos,Witten,PEARSON,Ciencias Sociales,,En préstamo,FES Aragón,CDMX,,cap02
+PB-00110,2026-02-19,Derecho, fes aragón ,Bases de Datos,Date,UNAM,MATEMATICAS,7,,FES ARAGON,Nezahualcóyotl,renovación,cap01
+PB-00555,2026-05-28,comunicación ,FES Aragón,Redes de Computadoras,Tanenbaum,Alfaomega,Ciencias Sociales,7,devuelto ,FES Aragón,Ciudad de México,renovación,cap02
+PB-00367,2026-02-28,MATEMATICAS, fes aragón ,Python para Todos,Grossman,Alfaomega, computación ,7,devuelto ,BIBLIOTECA CENTRAL,Ciudad de México,libro dañado,cap02
+PB-00294,2026-02-19,Ingeniería en Computación, fes aragón ,Python para Todos,Grossman,PEARSON,Computación,15,VENCIDO,FES Aragón,CDMX,sin observación,cap01
+PB-00433,2026-05-31, matematicas ,FES Aragón,Redes de Computadoras,Date,,MATEMATICAS,20,EN PRESTAMO,biblioteca central ,CDMX,renovación,admin
+PB-00390,2026-06-05,Derecho,FES ARAGON,Estadística Básica,Tanenbaum,McGraw Hill, computación ,25,Devuelto,FES ARAGON,Nezahualcóyotl,,cap02
+PB-00507,2026-02-07, matematicas ,CU,Redes de Computadoras,Mendenhall,PEARSON, ciencias sociales ,5,En préstamo, fes aragón ,Nezahualcóyotl,revisar,cap02
+PB-00556,2026-05-08,derecho ,FES ARAGON,Bases de Datos,Guido, pearson ,MATEMATICAS,7,devuelto ,BIBLIOTECA CENTRAL,ciudad de mexico ,sin observación,cap01
+PB-00254,2026-02-19,Matemáticas, ciudad universitaria ,Álgebra Lineal,Stewart,Pearson, computación ,7,VENCIDO,biblioteca central ,CDMX,sin observación,admin
+PB-00261,2026-03-30, ing. computacion ,FES ARAGON,Redes de Computadoras,Mendenhall,UNAM,MATEMATICAS,25,VENCIDO,FES Aragón,ciudad de mexico ,revisar,temporal
+PB-00222,2026-03-07,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Cálculo I,Mendenhall,,Matemáticas,,Vencido,FES ARAGON,nezahualcóyotl ,libro dañado,temporal
+PB-00459,2026-02-04,Ing. en Computación, fes aragón ,Python para Todos,Grossman,Mcgraw-Hill, computación ,7,VENCIDO,FES Aragón,Ciudad de México,revisar,cap01
+PB-00122,2026-03-04,MATEMATICAS,Ciudad Universitaria,Álgebra Lineal,Guido,Mcgraw-Hill,COMPUTACION,10,EN PRESTAMO,FES ARAGON,ciudad de mexico ,,cap01
+PB-00360,2026-05-01,Ingeniería en Computación,Ciudad Universitaria,Python para Todos,Tanenbaum,, computación ,,EN PRESTAMO,Biblioteca Central,nezahualcóyotl ,libro dañado,cap01
+PB-00334,2026-06-04, ing. computacion , fes aragón ,Bases de Datos,Tanenbaum,Pearson, computación ,5,devuelto ,biblioteca central ,NEZAHUALCOYOTL,libro dañado,admin
+PB-00203,2026-02-21,derecho ,Ciudad Universitaria,Python para Todos,Date,,Matemáticas,10,devuelto , fes aragón ,Ciudad de México,revisar,temporal
+PB-00449,2026-03-13, ing. computacion ,FES Aragón,Bases de Datos,Grossman,Pearson,MATEMATICAS,30,en préstamo ,FES Aragón,NEZAHUALCOYOTL,sin observación,cap02
+PB-00413,2026-04-10,DERECHO,FES Aragón,Redes de Computadoras,Stewart,UNAM, ciencias sociales ,5,en préstamo ,biblioteca central ,ciudad de mexico ,renovación,temporal
+PB-00456,2026-03-01,Matemáticas, ciudad universitaria ,Python para Todos,Guido, pearson ,Ciencias Sociales,10,en préstamo ,Biblioteca Central,ciudad de mexico ,sin observación,cap02
+PB-00241,2026-06-08,Derecho,FES Aragón,Bases de Datos,Witten,Mcgraw-Hill,Ciencias Sociales,,Vencido,FES ARAGON,Nezahualcóyotl,,cap01
+PB-00274,2026-03-04,Comunicación y Periodismo, fes aragón ,Cálculo I,Mendenhall, pearson , computación ,,devuelto ,biblioteca central ,CDMX,renovación,admin
+PB-00488,2026-02-16,Matemáticas,Ciudad Universitaria,Cálculo I,Guido,Mcgraw-Hill,Ciencias Sociales,20,Vencido,FES Aragón,Ciudad de México,sin observación,cap02
+PB-00308,2026-05-08,,FES Aragón,Redes de Computadoras,Grossman,Mcgraw-Hill,Ciencias Sociales,20,Devuelto,FES Aragón,ciudad de mexico ,revisar,cap01
+PB-00271,2026-05-19,DERECHO,Ciudad Universitaria,Redes de Computadoras,Stewart,Alfaomega, ciencias sociales ,7,Devuelto,biblioteca central ,Nezahualcóyotl,libro dañado,temporal
+PB-00226,2026-06-09,INGENIERIA EN COMPUTACION, ciudad universitaria ,Bases de Datos,Guido,McGraw Hill, computación ,10,Devuelto,FES Aragón,CDMX,,temporal
+PB-00592,2026-02-18,Comunicación y Periodismo, fes aragón ,Redes de Computadoras,Mendenhall, pearson , ciencias sociales ,20,EN PRESTAMO, fes aragón ,Ciudad de México,,cap01
+PB-00058,2026-04-17,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Estadística Básica,Guido,Pearson,Ciencias Sociales,20,Vencido, fes aragón ,Nezahualcóyotl,sin observación,cap01
+PB-00263,2026-06-09,Ingeniería en Computación,FES ARAGON,Bases de Datos,Witten,Alfaomega,Computación,,VENCIDO,BIBLIOTECA CENTRAL,ciudad de mexico ,libro dañado,temporal
+PB-00045,2026-03-22,Comunicación y Periodismo,FES ARAGON,Minería de Datos,Tanenbaum,UNAM, ciencias sociales ,5,Devuelto,biblioteca central ,ciudad de mexico ,libro dañado,cap01
+PB-00036,2026-04-14,COMUNICACION Y PERIODISMO,FES Aragón,Estadística Básica,Stewart,Pearson, computación ,,VENCIDO,FES ARAGON,NEZAHUALCOYOTL,revisar,temporal
+PB-00051,2026-04-19,DERECHO,FES Aragón,Álgebra Lineal,Grossman,,Matemáticas,7,en préstamo ,BIBLIOTECA CENTRAL,NEZAHUALCOYOTL,,cap02
+PB-00364,2026-06-01,Ing. en Computación,FES Aragón,Álgebra Lineal,Guido,PEARSON,Computación,7,Devuelto,FES ARAGON,CDMX,,cap02
+PB-00134,2026-02-01,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Redes de Computadoras,Guido,Pearson,MATEMATICAS,15,Devuelto,FES ARAGON,Nezahualcóyotl,libro dañado,cap01
+PB-00385,2026-03-05,COMUNICACION Y PERIODISMO,Ciudad Universitaria,Python para Todos,Witten,McGraw Hill,MATEMATICAS,15,en préstamo ,FES Aragón,Ciudad de México,revisar,admin
+PB-00191,2026-03-17,Ingeniería en Computación, ciudad universitaria ,Estadística Básica,Guido,,MATEMATICAS,3,Devuelto,FES Aragón,CDMX,sin observación,cap01
+PB-00041,2026-02-18, matematicas , ciudad universitaria ,Minería de Datos,Tanenbaum,Mcgraw-Hill,Computación,3,devuelto ,FES ARAGON,NEZAHUALCOYOTL,sin observación,admin
+PB-00587,2026-04-21, ing. computacion ,Ciudad Universitaria,Bases de Datos,Guido,PEARSON,Ciencias Sociales,10,en préstamo , fes aragón ,Nezahualcóyotl,libro dañado,cap01
+PB-00486,2026-02-27,DERECHO,FES Aragón,Minería de Datos,Grossman, pearson ,Matemáticas,5,Devuelto,Biblioteca Central,Ciudad de México,sin observación,admin
+PB-00591,2026-06-04,INGENIERIA EN COMPUTACION,FES ARAGON,Bases de Datos,Tanenbaum,PEARSON,Matemáticas,20,,BIBLIOTECA CENTRAL,ciudad de mexico ,renovación,cap01
+PB-00258,2026-04-15,INGENIERIA EN COMPUTACION, fes aragón ,Cálculo I,Tanenbaum,, ciencias sociales ,30,Vencido,BIBLIOTECA CENTRAL,nezahualcóyotl ,,temporal
+PB-00354,2026-04-27,MATEMATICAS, fes aragón ,Python para Todos,Grossman,Alfaomega,Matemáticas,10,EN PRESTAMO, fes aragón ,ciudad de mexico ,renovación,temporal
+PB-00444,2026-05-20,INGENIERIA EN COMPUTACION,Ciudad Universitaria,Bases de Datos,Grossman,,Matemáticas,25,Vencido,FES ARAGON,nezahualcóyotl ,libro dañado,temporal
+PB-00206,2026-05-07,comunicación , ciudad universitaria ,Minería de Datos,Guido,Alfaomega,Computación,3,Devuelto,FES Aragón,ciudad de mexico ,revisar,cap01
+PB-00517,2026-06-03,Ing. en Computación, fes aragón ,Redes de Computadoras,Tanenbaum,Pearson,Ciencias Sociales,25,Vencido,biblioteca central ,nezahualcóyotl ,sin observación,cap02
+PB-00394,2026-02-18,Comunicación y Periodismo,FES Aragón,Álgebra Lineal,Grossman, pearson ,MATEMATICAS,15,EN PRESTAMO,Biblioteca Central,CDMX,renovación,cap02
+PB-00561,2026-04-24, ing. computacion ,FES Aragón,Cálculo I,Mendenhall,PEARSON, computación ,15,devuelto ,biblioteca central ,CDMX,renovación,temporal
+PB-00050,2026-04-17,comunicación ,FES Aragón,Estadística Básica,Mendenhall,PEARSON,Ciencias Sociales,20,En préstamo,BIBLIOTECA CENTRAL,CDMX,libro dañado,cap02
+PB-00558,2026-03-29, ing. computacion ,FES Aragón,Cálculo I,Grossman,Pearson,Ciencias Sociales,,En préstamo,Biblioteca Central,NEZAHUALCOYOTL,libro dañado,temporal

@@ -1,0 +1,756 @@
+﻿ticket,fecha,cafeteria,producto,categoria,precio,cantidad,metodo_pago,turno,campus,satisfaccion,observaciones,empleado_captura
+CF-00389,2026-04-29 12:45:00,Cafetería Central,Café,Snack,35,4,efectivo ,Tarde,CU,Muy Alta,revisar,emp01
+CF-00440,2026-04-28 16:45:00,cafeteria anexo,Ensalada,BEBIDA,12,1,,Mañana, ciudad universitaria ,MEDIA,producto agotado,temporal
+CF-00538,2026-03-05 10:45:00,Cafetería Anexo,Cafe,BEBIDA,,1,efectivo ,mañana , fes aragón ,Alta,,admin
+CF-00264,2026-05-22 09:00:00,CAFETERIA CENTRAL,Galletas,Alimento,25,2,,MANANA,Ciudad Universitaria,Baja ,promoción,temporal
+CF-00444,2026-03-24 17:45:00, cafeteria central ,agua ,ALIMENTO,60,2,,TARDE, ciudad universitaria ,Muy Alta,revisar,emp02
+CF-00656,2026-04-01 09:45:00,Cafetería Central,ENSALADA,Alimento,18,3,efectivo ,TARDE, ciudad universitaria ,Baja ,,temporal
+CF-00448,2026-05-23 10:00:00,Cafetería Anexo,Torta, snack ,12,1,tarjeta, tarde , ciudad universitaria ,alta ,producto agotado,temporal
+CF-00267,2026-05-20 13:00:00,cafeteria anexo,ENSALADA, bebida ,15,2,tarjeta,MANANA, fes aragón ,MEDIA,promoción,emp02
+CF-00655,2026-05-08 11:00:00, cafeteria central ,Torta, snack ,60,2,efectivo ,Noche,FES ARAGON,,revisar,emp02
+CF-00146,2026-03-21 14:45:00,CAFETERÍA ANEXO,Ensalada,Snack,18,1,vale ,MANANA,Ciudad Universitaria,,revisar,temporal
+CF-00709,2026-06-01 07:45:00,Cafetería Anexo,agua , snack ,25,3,Vale,mañana , ciudad universitaria ,MEDIA,producto agotado,emp02
+CF-00220,2026-03-14 10:15:00,Cafetería Central, torta ,Alimento,60,2,TARJETA,MANANA, ciudad universitaria ,Media,,emp02
+CF-00644,2026-05-14 17:45:00,CAFETERIA CENTRAL,ENSALADA,Alimento,,2,Efectivo, tarde , ciudad universitaria ,,sin observación,temporal
+CF-00207,2026-05-08 19:15:00,Cafetería Anexo,CAFÉ,Bebida,25,2,Efectivo, tarde , fes aragón ,MEDIA,promoción,emp02
+CF-00562,2026-03-12 14:30:00,Cafetería Anexo,CAFÉ,ALIMENTO,20,2,efectivo , tarde ,CU,,sin observación,emp01
+CF-00254,2026-06-05 15:30:00, cafeteria central ,ENSALADA, bebida ,,4,Vale,TARDE, ciudad universitaria ,MEDIA,producto agotado,admin
+CF-00287,2026-03-02 12:15:00,CAFETERÍA ANEXO,ENSALADA,ALIMENTO,45,1,efectivo ,Mañana,Ciudad Universitaria,,promoción,admin
+CF-00015,2026-06-09 17:00:00,CAFETERIA CENTRAL,ENSALADA,ALIMENTO,15,3,, tarde , ciudad universitaria ,muy alta,revisar,emp02
+CF-00120,2026-03-11 19:00:00,CAFETERÍA ANEXO,galletas, snack ,20,1,Vale, tarde ,Ciudad Universitaria,Muy Alta,,admin
+CF-00277,2026-04-04 12:00:00,Cafetería Anexo,Ensalada,Alimento,,1,TARJETA,mañana , fes aragón ,,producto agotado,temporal
+CF-00627,2026-05-23 19:30:00,Cafetería Anexo,Cafe,Bebida,15,1,Vale,mañana ,CU,,,temporal
+CF-00455,2026-04-12 09:45:00,Cafetería Central,agua ,Snack,45,2,TARJETA,MANANA,FES Aragón,,,temporal
+CF-00241,2026-03-16 16:00:00,Cafetería Anexo,Ensalada,ALIMENTO,35,1,vale ,Tarde,FES Aragón,alta ,producto agotado,emp02
+CF-00635,2026-04-14 09:45:00,cafeteria anexo,Cafe,ALIMENTO,,1,, tarde ,FES ARAGON,Alta,promoción,emp01
+CF-00133,2026-06-04 16:30:00,CAFETERIA CENTRAL,Café,Snack,25,1,efectivo ,Tarde, fes aragón ,Muy Alta,revisar,admin
+CF-00297,2026-04-20 08:30:00,cafeteria anexo,Ensalada,ALIMENTO,,2,Tarjeta, tarde ,CU,muy alta,revisar,emp02
+CF-00349,2026-03-23 11:00:00,CAFETERIA CENTRAL,Torta,BEBIDA,20,1,,TARDE,CU,Media,sin observación,emp02
+CF-00637,2026-04-08 07:45:00,CAFETERÍA ANEXO, torta , snack ,25,2,tarjeta, tarde , fes aragón ,Muy Alta,promoción,emp02
+CF-00276,2026-03-16 19:30:00,CAFETERÍA ANEXO,Ensalada, snack ,,1,efectivo , tarde ,Ciudad Universitaria,,,temporal
+CF-00422,2026-03-18 19:00:00,Cafetería Anexo,Torta,Alimento,25,1,Efectivo, tarde , ciudad universitaria ,,sin observación,emp02
+CF-00417,2026-05-02 08:15:00,cafeteria anexo, torta , snack ,15,3,TARJETA,Noche,Ciudad Universitaria,baja,producto agotado,emp01
+CF-00204,2026-05-01 15:30:00,CAFETERÍA ANEXO,Café,Bebida,35,1,tarjeta,MANANA,CU,baja,revisar,admin
+CF-00536,2026-03-28 14:45:00, cafeteria central ,Torta, snack ,12,1,TARJETA, tarde ,FES ARAGON,Muy Alta,sin observación,emp02
+CF-00649,2026-05-05 07:45:00,CAFETERÍA ANEXO,Cafe,Snack,25,2,vale ,TARDE, fes aragón ,Baja ,promoción,emp01
+CF-00067,2026-04-30 13:15:00,Cafetería Central,Café,BEBIDA,12,3,efectivo ,TARDE,FES Aragón,alta ,sin observación,emp01
+CF-00331,2026-03-14 13:15:00,CAFETERÍA ANEXO,Galletas,Alimento,18,2,Vale,mañana , ciudad universitaria ,Alta,,temporal
+CF-00498,2026-05-02 16:30:00,cafeteria anexo, torta ,Alimento,25,1,TARJETA,Tarde, fes aragón ,alta ,producto agotado,temporal
+CF-00183,2026-05-14 17:30:00,Cafetería Central,ENSALADA,Alimento,60,1,Tarjeta,Noche,Ciudad Universitaria,Media,promoción,temporal
+CF-00129,2026-03-02 18:30:00,cafeteria anexo,ENSALADA,Bebida,20,1,tarjeta,Tarde, ciudad universitaria ,baja,promoción,emp01
+CF-00355,2026-04-17 08:00:00,Cafetería Central,Café, snack ,25,,TARJETA,Tarde,Ciudad Universitaria,Muy Alta,promoción,admin
+CF-00216,2026-06-02 17:45:00,Cafetería Anexo,ENSALADA,BEBIDA,15,4,efectivo ,noche , fes aragón ,MEDIA,sin observación,temporal
+CF-00611,2026-03-29 07:00:00,cafeteria anexo,Ensalada,ALIMENTO,25,3,tarjeta,Mañana,FES ARAGON,Muy Alta,revisar,temporal
+CF-00592,,CAFETERÍA ANEXO,Agua,Bebida,,3,efectivo ,Mañana,FES ARAGON,MEDIA,promoción,emp01
+CF-00380,2026-05-12 10:45:00,Cafetería Anexo, torta ,BEBIDA,,1,efectivo , tarde , fes aragón ,baja,promoción,temporal
+CF-00340,2026-05-07 11:45:00,Cafetería Anexo,Galletas,BEBIDA,20,1,,Noche,FES ARAGON,MEDIA,revisar,admin
+CF-00147,2026-04-30 08:45:00, cafeteria central ,agua ,Bebida,18,3,vale , tarde , ciudad universitaria ,MEDIA,producto agotado,temporal
+CF-00244,2026-03-09 18:45:00,CAFETERÍA ANEXO,Cafe,Alimento,45,,TARJETA,Tarde, ciudad universitaria ,Alta,,emp02
+CF-00392,2026-04-18 18:00:00,Cafetería Central, torta , bebida ,12,3,tarjeta,Noche, fes aragón ,baja,revisar,emp01
+CF-00414,2026-04-01 11:00:00,cafeteria anexo,Café,Snack,45,1,Efectivo,Noche,CU,Media,sin observación,emp01
+CF-00602,2026-04-16 16:30:00,Cafetería Anexo,Ensalada,Bebida,35,1,vale ,Mañana,CU,Media,promoción,admin
+CF-00040,2026-03-08 10:00:00,Cafetería Central,ENSALADA,ALIMENTO,35,2,Vale,noche , fes aragón ,baja,promoción,admin
+CF-00246,2026-05-14 11:45:00, cafeteria central ,galletas, snack ,45,2,tarjeta,Tarde,Ciudad Universitaria,muy alta,producto agotado,emp01
+CF-00534,2026-06-06 15:30:00,cafeteria anexo,Galletas,BEBIDA,18,2,vale ,TARDE, ciudad universitaria ,,producto agotado,temporal
+CF-00265,2026-05-31 18:00:00,Cafetería Anexo,Ensalada,ALIMENTO,18,2,efectivo ,Tarde, fes aragón ,Media,sin observación,emp02
+CF-00115,2026-05-23 17:30:00,CAFETERIA CENTRAL,agua , snack ,20,,Tarjeta,Mañana, fes aragón ,Alta,sin observación,emp01
+CF-00361,2026-03-28 15:45:00,Cafetería Central, torta , snack ,60,1,vale , tarde , fes aragón ,alta ,producto agotado,admin
+CF-00005,2026-05-30 19:15:00,cafeteria anexo,Agua,Bebida,15,2,TARJETA,noche , ciudad universitaria ,baja,promoción,temporal
+CF-00181,2026-05-22 13:00:00,cafeteria anexo,Galletas, snack ,18,,Efectivo,Mañana,FES Aragón,Muy Alta,revisar,temporal
+CF-00337,2026-03-04 13:00:00, cafeteria central , torta , snack ,25,1,Efectivo,Noche,CU,MEDIA,,emp01
+CF-00571,2026-04-03 19:30:00,cafeteria anexo,Agua, snack ,20,1,tarjeta,noche , fes aragón ,,promoción,admin
+CF-00468,2026-05-21 12:30:00,cafeteria anexo,Ensalada,Bebida,25,,,Mañana, fes aragón ,Baja ,producto agotado,admin
+CF-00107,2026-05-19 13:00:00,CAFETERÍA ANEXO, torta ,Alimento,12,1,efectivo ,MANANA, fes aragón ,Alta,promoción,emp02
+CF-00090,2026-04-20 16:45:00,cafeteria anexo,agua ,Snack,18,2,,TARDE,Ciudad Universitaria,Muy Alta,sin observación,admin
+CF-00218,2026-05-16 09:15:00, cafeteria central ,Agua, snack ,25,2,vale , tarde ,FES Aragón,Alta,producto agotado,emp02
+CF-00276,2026-03-16 19:30:00,CAFETERÍA ANEXO,Ensalada, snack ,,1,efectivo , tarde ,Ciudad Universitaria,,,temporal
+CF-00645,2026-04-11 08:30:00,Cafetería Central,Torta,Snack,,3,Vale,TARDE,FES ARAGON,muy alta,sin observación,temporal
+CF-00055,2026-03-02 08:30:00,Cafetería Anexo,Agua,ALIMENTO,20,1,vale ,MANANA,FES ARAGON,muy alta,sin observación,emp02
+CF-00025,2026-05-30 17:30:00,CAFETERIA CENTRAL,CAFÉ,Snack,15,2,TARJETA,Noche,CU,muy alta,sin observación,emp01
+CF-00206,2026-04-19 15:45:00,Cafetería Central,Ensalada,Snack,25,2,Vale,Mañana,Ciudad Universitaria,Muy Alta,producto agotado,temporal
+CF-00092,2026-03-25 13:15:00,CAFETERIA CENTRAL,agua , bebida ,12,,efectivo ,Mañana,FES Aragón,Media,revisar,admin
+CF-00461,2026-03-15 20:30:00,CAFETERIA CENTRAL,Agua,Bebida,20,1,Tarjeta, tarde ,Ciudad Universitaria,Media,producto agotado,temporal
+CF-00381,2026-06-05 12:45:00,Cafetería Anexo, torta ,ALIMENTO,15,3,,Tarde,FES ARAGON,Muy Alta,producto agotado,admin
+CF-00554,2026-03-07 14:45:00,cafeteria anexo, torta , bebida ,15,1,,Mañana,FES ARAGON,muy alta,revisar,temporal
+CF-00690,2026-03-15 10:30:00,Cafetería Central,CAFÉ, snack ,20,2,Tarjeta,MANANA,Ciudad Universitaria,Media,sin observación,admin
+CF-00436,2026-04-29 15:15:00,Cafetería Central,Ensalada,Snack,18,1,vale ,Tarde,FES Aragón,baja,producto agotado,admin
+CF-00296,2026-04-17 19:45:00,cafeteria anexo,Café,BEBIDA,12,1,Vale,TARDE, fes aragón ,alta ,producto agotado,temporal
+CF-00679,2026-04-09 07:30:00, cafeteria central ,Café,Snack,15,1,efectivo ,MANANA,FES Aragón,Muy Alta,,emp01
+CF-00211,2026-03-24 18:00:00,CAFETERÍA ANEXO,ENSALADA, bebida ,15,1,,TARDE,Ciudad Universitaria,alta ,,emp02
+CF-00305,2026-03-18 17:00:00,CAFETERÍA ANEXO,agua , snack ,20,1,Efectivo,Tarde,CU,alta ,sin observación,emp02
+CF-00027,2026-05-23 11:15:00,CAFETERIA CENTRAL,ENSALADA, bebida ,20,2,,Mañana, ciudad universitaria ,Media,promoción,temporal
+CF-00629,,CAFETERÍA ANEXO,CAFÉ,Snack,12,4,efectivo ,TARDE,FES ARAGON,muy alta,,admin
+CF-00136,2026-04-20 10:15:00,CAFETERIA CENTRAL,ENSALADA,ALIMENTO,35,1,vale ,MANANA, fes aragón ,Baja ,revisar,emp01
+CF-00054,2026-05-05 14:45:00,Cafetería Anexo,CAFÉ, snack ,60,2,Vale, tarde ,Ciudad Universitaria,MEDIA,revisar,admin
+CF-00292,,CAFETERÍA ANEXO,Ensalada,ALIMENTO,18,,efectivo ,mañana ,Ciudad Universitaria,Alta,,emp02
+CF-00683,2026-05-23 16:00:00,cafeteria anexo,Galletas,ALIMENTO,20,,efectivo ,Mañana, fes aragón ,alta ,promoción,admin
+CF-00126,2026-04-29 09:00:00,CAFETERÍA ANEXO,Cafe,ALIMENTO,45,1,tarjeta,MANANA,CU,,promoción,emp02
+CF-00323,2026-05-12 11:45:00,CAFETERÍA ANEXO,CAFÉ,Alimento,18,1,Efectivo,MANANA,Ciudad Universitaria,Media,revisar,admin
+CF-00597,2026-03-11 09:45:00,cafeteria anexo,galletas, snack ,,1,tarjeta,MANANA,FES ARAGON,alta ,revisar,emp02
+CF-00139,2026-06-02 20:45:00,CAFETERÍA ANEXO,Café,Bebida,12,2,vale ,noche ,CU,,sin observación,temporal
+CF-00577,2026-03-11 16:00:00,cafeteria anexo,Agua,Snack,18,1,TARJETA,Noche, ciudad universitaria ,Muy Alta,producto agotado,emp01
+CF-00184,2026-04-26 15:30:00,CAFETERIA CENTRAL,Ensalada, snack ,45,2,TARJETA,Noche,CU,MEDIA,,admin
+CF-00400,2026-05-02 09:15:00,Cafetería Anexo,,Bebida,18,1,tarjeta,noche , fes aragón ,,revisar,emp01
+CF-00625,2026-05-25 11:00:00, cafeteria central , torta ,ALIMENTO,18,1,tarjeta,noche ,Ciudad Universitaria,alta ,sin observación,emp02
+CF-00523,2026-04-13 10:15:00,CAFETERIA CENTRAL,Ensalada,Bebida,15,1,tarjeta,TARDE, ciudad universitaria ,alta ,revisar,admin
+CF-00275,2026-03-16 17:45:00, cafeteria central ,ENSALADA, snack ,25,1,Tarjeta,mañana ,FES Aragón,Baja ,producto agotado,emp01
+CF-00154,2026-05-19 14:45:00,CAFETERÍA ANEXO,Café,Snack,15,1,,Tarde, ciudad universitaria ,,,emp01
+CF-00694,2026-05-20 14:00:00, cafeteria central ,Café,BEBIDA,45,,,mañana ,FES ARAGON,muy alta,producto agotado,admin
+CF-00396,2026-03-28 11:00:00, cafeteria central ,Galletas,ALIMENTO,35,1,vale ,TARDE,CU,Media,promoción,admin
+CF-00610,2026-05-07 12:30:00,CAFETERÍA ANEXO,Galletas,BEBIDA,12,1,Vale,Tarde,FES Aragón,Media,revisar,emp01
+CF-00222,2026-03-18 16:00:00, cafeteria central ,Torta,Alimento,35,4,vale , tarde ,FES Aragón,alta ,revisar,emp01
+CF-00646,2026-05-30 16:15:00,cafeteria anexo,agua , bebida ,15,,efectivo ,mañana ,Ciudad Universitaria,,revisar,emp01
+CF-00135,2026-04-10 10:30:00,CAFETERÍA ANEXO,Café,Snack,45,2,TARJETA,Mañana,Ciudad Universitaria,Baja ,revisar,emp01
+CF-00048,2026-06-04 17:15:00,Cafetería Anexo,agua ,Alimento,,1,efectivo ,noche ,Ciudad Universitaria,Alta,sin observación,emp01
+CF-00696,2026-04-13 09:30:00, cafeteria central ,agua , bebida ,,1,Vale,MANANA,FES ARAGON,Muy Alta,sin observación,emp01
+CF-00242,2026-06-01 15:45:00,cafeteria anexo,agua ,ALIMENTO,45,3,tarjeta, tarde ,Ciudad Universitaria,,revisar,temporal
+CF-00570,2026-03-22 18:00:00,cafeteria anexo,agua ,Alimento,60,2,Vale,mañana , ciudad universitaria ,Baja ,,temporal
+CF-00596,2026-06-08 20:00:00,cafeteria anexo,ENSALADA,Snack,25,1,TARJETA,TARDE,Ciudad Universitaria,baja,producto agotado,temporal
+CF-00714,2026-03-18 20:45:00,Cafetería Anexo,Café, snack ,35,,Vale,Noche,CU,MEDIA,producto agotado,admin
+CF-00039,2026-03-29 10:15:00,Cafetería Anexo,ENSALADA,Bebida,,,vale ,MANANA,CU,Media,,temporal
+CF-00454,2026-05-08 13:30:00, cafeteria central , torta ,ALIMENTO,35,1,Vale,noche , ciudad universitaria ,Media,sin observación,emp01
+CF-00198,2026-05-11 09:15:00,cafeteria anexo,ENSALADA,BEBIDA,12,4,Vale,noche , fes aragón ,baja,sin observación,emp01
+CF-00271,2026-05-13 19:30:00,CAFETERIA CENTRAL,Galletas, bebida ,45,,TARJETA,Tarde, ciudad universitaria ,Muy Alta,revisar,emp01
+CF-00684,2026-03-23 10:30:00,cafeteria anexo,galletas,BEBIDA,45,2,efectivo ,noche ,FES Aragón,MEDIA,promoción,temporal
+CF-00408,2026-05-10 17:45:00, cafeteria central ,ENSALADA, bebida ,25,,,MANANA,FES ARAGON,Baja ,sin observación,admin
+CF-00309,2026-04-23 12:00:00,CAFETERIA CENTRAL,galletas,BEBIDA,20,2,vale ,Mañana,FES ARAGON,alta ,sin observación,emp01
+CF-00278,2026-04-09 08:45:00, cafeteria central ,Ensalada,BEBIDA,20,3,Efectivo,mañana ,Ciudad Universitaria,Muy Alta,sin observación,emp01
+CF-00391,2026-04-16 09:15:00,CAFETERÍA ANEXO,Galletas,Snack,,1,Vale,Tarde, fes aragón ,Muy Alta,,emp02
+CF-00633,2026-05-03 13:15:00,cafeteria anexo,Galletas,ALIMENTO,60,4,efectivo ,MANANA,Ciudad Universitaria,muy alta,revisar,temporal
+CF-00133,2026-06-04 16:30:00,CAFETERIA CENTRAL,Café,Snack,25,1,efectivo ,Tarde, fes aragón ,Muy Alta,revisar,admin
+CF-00526,2026-04-05 16:30:00,Cafetería Central,galletas, snack ,60,,,TARDE,FES Aragón,Media,revisar,temporal
+CF-00194,2026-04-22 09:45:00,CAFETERÍA ANEXO,CAFÉ,ALIMENTO,20,2,Efectivo,MANANA, fes aragón ,Media,sin observación,admin
+CF-00435,2026-04-13 07:00:00,CAFETERÍA ANEXO,CAFÉ, bebida ,60,1,Vale,noche , fes aragón ,,revisar,emp01
+CF-00022,2026-05-10 20:00:00,cafeteria anexo,Galletas, bebida ,45,,tarjeta,Mañana, fes aragón ,baja,producto agotado,admin
+CF-00201,2026-05-23 17:45:00,Cafetería Central, torta ,BEBIDA,12,3,Tarjeta,MANANA,Ciudad Universitaria,muy alta,sin observación,admin
+CF-00595,2026-04-19 16:30:00, cafeteria central ,Torta, bebida ,45,2,,MANANA, fes aragón ,Media,,emp01
+CF-00641,2026-04-27 08:30:00, cafeteria central ,Cafe,BEBIDA,20,1,Efectivo, tarde ,Ciudad Universitaria,,sin observación,temporal
+CF-00112,2026-03-19 20:45:00,cafeteria anexo, torta , snack ,25,1,tarjeta,Mañana,FES Aragón,alta ,revisar,temporal
+CF-00083,2026-03-18 15:45:00,Cafetería Anexo,Café,Alimento,25,1,Vale,noche , ciudad universitaria ,muy alta,promoción,temporal
+CF-00332,2026-05-16 16:30:00,CAFETERIA CENTRAL,Ensalada,Snack,15,3,Vale,MANANA, ciudad universitaria ,baja,sin observación,emp01
+CF-00363,2026-03-17 18:00:00, cafeteria central ,galletas, bebida ,35,1,,noche ,CU,Alta,,emp02
+CF-00527,2026-05-15 08:45:00,CAFETERIA CENTRAL,Cafe, snack ,45,4,Efectivo,TARDE, ciudad universitaria ,Baja ,sin observación,temporal
+CF-00174,2026-05-17 07:30:00,CAFETERIA CENTRAL,ENSALADA, snack ,12,3,Efectivo,noche ,FES Aragón,alta ,producto agotado,temporal
+CF-00113,2026-03-06 11:30:00,CAFETERIA CENTRAL,Torta,ALIMENTO,15,3,vale ,noche ,Ciudad Universitaria,Alta,revisar,emp01
+CF-00041,2026-06-06 15:15:00,Cafetería Anexo,Agua,Alimento,18,3,Tarjeta,mañana ,CU,,sin observación,emp02
+CF-00294,2026-04-09 13:00:00,Cafetería Anexo,Cafe,BEBIDA,60,1,Efectivo,Tarde,FES Aragón,Muy Alta,sin observación,temporal
+CF-00652,2026-03-14 14:45:00,cafeteria anexo,CAFÉ, snack ,25,1,Vale,Tarde,CU,Alta,producto agotado,admin
+CF-00272,2026-04-03 10:00:00,CAFETERÍA ANEXO,CAFÉ,Alimento,,3,Efectivo,TARDE,FES ARAGON,MEDIA,sin observación,emp01
+CF-00075,2026-04-14 15:00:00,CAFETERIA CENTRAL, torta , bebida ,25,,TARJETA,MANANA,FES Aragón,baja,,emp01
+CF-00668,2026-05-16 08:00:00, cafeteria central ,Café,ALIMENTO,18,1,Vale,Tarde,CU,Alta,promoción,emp02
+CF-00227,2026-05-18 11:30:00,Cafetería Central,CAFÉ,ALIMENTO,,1,Efectivo,TARDE,CU,alta ,revisar,admin
+CF-00584,2026-03-09 12:30:00,cafeteria anexo,Agua,Alimento,35,1,Efectivo,Mañana,FES ARAGON,,revisar,emp01
+CF-00238,2026-03-13 11:30:00,CAFETERÍA ANEXO,Ensalada, snack ,45,1,TARJETA,mañana , ciudad universitaria ,alta ,,temporal
+CF-00510,2026-03-28 08:00:00,cafeteria anexo,Torta,ALIMENTO,12,1,tarjeta,MANANA,FES Aragón,muy alta,producto agotado,emp02
+CF-00101,2026-04-17 17:00:00,CAFETERIA CENTRAL,Agua,ALIMENTO,35,2,,mañana , ciudad universitaria ,Media,promoción,admin
+CF-00190,2026-05-20 15:30:00,cafeteria anexo,Torta,Snack,,1,Tarjeta,noche ,FES Aragón,MEDIA,promoción,admin
+CF-00044,2026-03-31 19:30:00,CAFETERIA CENTRAL,Galletas, snack ,18,1,efectivo ,noche , fes aragón ,,sin observación,emp02
+CF-00314,2026-04-16 18:45:00,cafeteria anexo,Galletas,Alimento,18,1,Efectivo,TARDE,CU,Media,producto agotado,admin
+CF-00173,2026-05-01 10:30:00,Cafetería Anexo,Torta,BEBIDA,,1,,Tarde, ciudad universitaria ,Baja ,revisar,temporal
+CF-00543,2026-05-03 14:15:00,cafeteria anexo,Galletas,BEBIDA,15,2,vale ,Mañana, fes aragón ,alta ,,admin
+CF-00581,2026-04-30 19:30:00, cafeteria central ,ENSALADA,Snack,18,2,Tarjeta,TARDE,FES ARAGON,baja,producto agotado,emp01
+CF-00002,2026-05-02 08:15:00, cafeteria central ,Ensalada,Snack,60,4,vale ,TARDE,Ciudad Universitaria,MEDIA,sin observación,emp01
+CF-00541,2026-06-04 13:00:00, cafeteria central ,, bebida ,35,2,Efectivo,TARDE,CU,Alta,,emp02
+CF-00608,2026-05-13 16:15:00,CAFETERÍA ANEXO,agua ,Bebida,12,3,tarjeta,mañana ,FES ARAGON,muy alta,sin observación,emp02
+CF-00689,2026-03-27 14:30:00,CAFETERIA CENTRAL,galletas,Snack,18,3,Vale,Noche, ciudad universitaria ,MEDIA,promoción,temporal
+CF-00193,2026-05-28 07:15:00,CAFETERÍA ANEXO,Torta,ALIMENTO,20,1,Tarjeta, tarde ,CU,alta ,promoción,emp02
+CF-00183,2026-05-14 17:30:00,Cafetería Central,ENSALADA,Alimento,60,1,Tarjeta,Noche,Ciudad Universitaria,Media,promoción,temporal
+CF-00508,2026-04-26 09:45:00,CAFETERÍA ANEXO,agua ,Bebida,20,2,efectivo , tarde ,FES ARAGON,alta ,promoción,emp01
+CF-00195,2026-05-11 12:15:00, cafeteria central ,Torta,Snack,,1,efectivo ,Noche,CU,,producto agotado,emp01
+CF-00077,2026-03-23 07:45:00,Cafetería Central,Café,BEBIDA,18,2,efectivo ,Tarde,FES Aragón,baja,,emp01
+CF-00082,2026-05-22 11:45:00,CAFETERIA CENTRAL,galletas,Alimento,45,1,tarjeta,Noche,FES Aragón,Alta,sin observación,temporal
+CF-00251,2026-04-14 13:30:00,Cafetería Central,galletas,Snack,45,3,tarjeta,MANANA,FES Aragón,Muy Alta,promoción,admin
+CF-00076,2026-05-23 13:45:00, cafeteria central ,Cafe, snack ,,3,tarjeta,TARDE, ciudad universitaria ,MEDIA,,emp01
+CF-00525,2026-04-01 17:00:00, cafeteria central ,Café,ALIMENTO,45,2,,Tarde, ciudad universitaria ,MEDIA,producto agotado,emp01
+CF-00086,2026-06-05 20:30:00,CAFETERIA CENTRAL, torta ,BEBIDA,60,,Efectivo,Noche,FES Aragón,Baja ,revisar,temporal
+CF-00648,2026-04-12 13:45:00,cafeteria anexo,galletas,BEBIDA,,1,tarjeta,TARDE,Ciudad Universitaria,alta ,promoción,temporal
+CF-00579,2026-05-31 12:30:00,CAFETERIA CENTRAL,Ensalada,Snack,,1,tarjeta,mañana ,FES Aragón,MEDIA,promoción,temporal
+CF-00452,2026-03-08 14:00:00,CAFETERIA CENTRAL,Torta, bebida ,12,1,Vale, tarde ,FES Aragón,Baja ,revisar,emp01
+CF-00702,2026-04-23 20:30:00,CAFETERÍA ANEXO,galletas, snack ,,1,Tarjeta,Mañana, fes aragón ,muy alta,producto agotado,temporal
+CF-00470,2026-05-14 11:00:00,Cafetería Central,ENSALADA,BEBIDA,20,2,Tarjeta,TARDE,Ciudad Universitaria,alta ,sin observación,admin
+CF-00125,2026-03-15 18:30:00,CAFETERÍA ANEXO,galletas,Bebida,12,1,tarjeta, tarde ,FES ARAGON,Muy Alta,producto agotado,temporal
+CF-00715,2026-03-21 16:45:00,Cafetería Central,ENSALADA,Alimento,15,1,vale ,Mañana,CU,Muy Alta,producto agotado,admin
+CF-00046,2026-03-29 08:45:00,cafeteria anexo,Ensalada,Snack,15,2,TARJETA,MANANA, fes aragón ,baja,sin observación,admin
+CF-00306,2026-05-13 09:15:00, cafeteria central ,galletas,Bebida,35,4,,Tarde,CU,alta ,promoción,admin
+CF-00518,2026-03-28 17:30:00,cafeteria anexo,CAFÉ, snack ,,1,efectivo ,Tarde,FES Aragón,alta ,revisar,emp01
+CF-00713,2026-05-13 18:45:00,cafeteria anexo,ENSALADA,Alimento,12,1,efectivo ,Mañana, ciudad universitaria ,Media,promoción,admin
+CF-00387,2026-03-27 19:30:00,Cafetería Anexo,Galletas,Snack,25,2,Efectivo,Tarde,CU,Media,producto agotado,admin
+CF-00097,2026-04-23 19:15:00,Cafetería Anexo,CAFÉ, snack ,25,,tarjeta,Mañana,FES ARAGON,baja,producto agotado,temporal
+CF-00369,2026-04-19 09:00:00,Cafetería Anexo,Café,Snack,12,1,efectivo ,Noche,FES Aragón,Baja ,revisar,emp01
+CF-00170,2026-03-20 08:45:00,Cafetería Central,galletas,BEBIDA,25,1,Tarjeta,MANANA,Ciudad Universitaria,baja,promoción,temporal
+CF-00109,2026-06-05 17:30:00,Cafetería Central,Café,Alimento,60,1,tarjeta,Tarde,FES ARAGON,Media,sin observación,emp01
+CF-00124,2026-05-02 20:00:00, cafeteria central ,CAFÉ,Alimento,25,2,tarjeta,noche , fes aragón ,Media,producto agotado,emp01
+CF-00049,2026-03-07 08:30:00,CAFETERÍA ANEXO,Agua,ALIMENTO,18,1,vale ,Mañana,FES Aragón,Media,sin observación,admin
+CF-00558,2026-04-13 18:30:00,cafeteria anexo, torta ,ALIMENTO,18,4,Vale,mañana ,Ciudad Universitaria,,revisar,temporal
+CF-00343,2026-04-03 09:00:00,CAFETERIA CENTRAL,galletas,Bebida,45,2,Vale,Noche,FES ARAGON,baja,promoción,emp01
+CF-00080,2026-06-02 11:00:00,CAFETERÍA ANEXO,Cafe,ALIMENTO,,3,TARJETA,Tarde, ciudad universitaria ,Alta,sin observación,emp01
+CF-00373,2026-04-22 12:30:00,CAFETERÍA ANEXO,Galletas,Bebida,,1,vale ,mañana , ciudad universitaria ,alta ,promoción,emp02
+CF-00642,2026-03-03 09:00:00, cafeteria central ,Torta,Bebida,15,1,Efectivo,TARDE,FES ARAGON,Baja ,sin observación,admin
+CF-00202,2026-05-14 11:30:00,Cafetería Central,galletas, bebida ,12,4,vale ,Tarde,Ciudad Universitaria,Baja ,,temporal
+CF-00047,2026-05-13 19:30:00,cafeteria anexo,Cafe,Snack,,1,Vale,noche , fes aragón ,Muy Alta,,admin
+CF-00382,2026-06-02 12:45:00, cafeteria central , torta ,Snack,45,3,Tarjeta,Noche,CU,Alta,sin observación,admin
+CF-00280,2026-04-20 08:15:00,Cafetería Central,Cafe, snack ,60,1,efectivo ,Mañana, fes aragón ,Muy Alta,,emp01
+CF-00014,2026-03-26 14:30:00,Cafetería Anexo,Galletas,BEBIDA,60,1,TARJETA,TARDE,FES Aragón,,revisar,emp02
+CF-00262,2026-04-23 10:30:00,CAFETERÍA ANEXO,agua ,Snack,18,1,Tarjeta,mañana ,FES ARAGON,Alta,producto agotado,emp02
+CF-00035,,Cafetería Central, torta ,Bebida,45,2,vale , tarde , ciudad universitaria ,,producto agotado,temporal
+CF-00499,2026-03-07 20:30:00,CAFETERÍA ANEXO, torta ,BEBIDA,18,1,vale ,noche ,FES Aragón,Baja ,,admin
+CF-00356,2026-06-03 07:15:00,CAFETERIA CENTRAL,CAFÉ, snack ,45,3,efectivo , tarde ,FES ARAGON,MEDIA,revisar,temporal
+CF-00493,2026-03-23 19:30:00,CAFETERIA CENTRAL,Café,Alimento,15,1,,Mañana, fes aragón ,Alta,producto agotado,temporal
+CF-00240,2026-03-30 10:30:00,CAFETERÍA ANEXO,Ensalada, snack ,12,,TARJETA, tarde , ciudad universitaria ,Media,sin observación,emp02
+CF-00475,2026-05-22 08:30:00,Cafetería Anexo,Ensalada,Snack,12,1,Tarjeta,Noche, ciudad universitaria ,alta ,sin observación,emp01
+CF-00247,2026-05-26 13:45:00, cafeteria central ,,Snack,60,,efectivo ,noche ,CU,baja,sin observación,admin
+CF-00673,2026-05-11 18:15:00,Cafetería Anexo, torta ,Snack,15,2,,Tarde,Ciudad Universitaria,alta ,revisar,admin
+CF-00378,2026-04-23 17:45:00, cafeteria central ,Café,Snack,35,1,tarjeta,noche ,FES Aragón,alta ,promoción,temporal
+CF-00119,,CAFETERÍA ANEXO,Torta,Alimento,18,1,Tarjeta,Noche,Ciudad Universitaria,baja,producto agotado,admin
+CF-00476,2026-03-22 20:45:00,CAFETERÍA ANEXO,CAFÉ, snack ,12,,vale ,Tarde,Ciudad Universitaria,alta ,revisar,emp02
+CF-00150,2026-03-19 08:15:00,cafeteria anexo,Ensalada,ALIMENTO,35,3,Tarjeta,Noche, ciudad universitaria ,baja,revisar,emp02
+CF-00091,2026-03-28 11:30:00,Cafetería Central,Cafe, snack ,15,2,efectivo , tarde ,CU,Alta,sin observación,admin
+CF-00616,,CAFETERÍA ANEXO,Cafe,ALIMENTO,45,4,Tarjeta,mañana ,FES Aragón,Baja ,revisar,emp01
+CF-00549,2026-05-10 10:30:00,Cafetería Anexo,Galletas, snack ,25,,Efectivo, tarde , ciudad universitaria ,muy alta,,temporal
+CF-00583,2026-03-03 12:00:00,Cafetería Central,Ensalada,BEBIDA,25,3,,Tarde,CU,alta ,producto agotado,admin
+CF-00117,2026-03-29 11:15:00,Cafetería Central, torta , bebida ,18,4,TARJETA,Tarde, fes aragón ,Muy Alta,,emp01
+CF-00345,2026-04-15 19:45:00,CAFETERIA CENTRAL,Agua,Alimento,12,1,, tarde ,Ciudad Universitaria,alta ,,emp01
+CF-00093,2026-04-27 12:00:00, cafeteria central ,Cafe,Alimento,18,2,Efectivo,TARDE, ciudad universitaria ,Baja ,sin observación,emp02
+CF-00160,2026-03-19 10:00:00,CAFETERÍA ANEXO,Agua, bebida ,12,,,MANANA,CU,Media,producto agotado,temporal
+CF-00603,2026-03-30 11:45:00,Cafetería Central,ENSALADA,Alimento,60,,tarjeta,MANANA,FES ARAGON,muy alta,sin observación,emp02
+CF-00192,2026-06-03 09:00:00,Cafetería Central,CAFÉ,Snack,20,2,,TARDE,FES ARAGON,Media,,temporal
+CF-00563,2026-03-24 16:30:00,Cafetería Central,Ensalada,ALIMENTO,18,2,Vale, tarde ,FES ARAGON,Media,sin observación,emp01
+CF-00521,2026-04-12 07:30:00,CAFETERÍA ANEXO,Torta,BEBIDA,35,4,Efectivo,noche ,Ciudad Universitaria,,revisar,emp02
+CF-00609,2026-03-19 07:45:00,Cafetería Anexo, torta , snack ,,2,tarjeta,noche , fes aragón ,baja,sin observación,temporal
+CF-00504,2026-06-09 18:00:00,Cafetería Anexo,,BEBIDA,45,4,,mañana ,FES Aragón,muy alta,sin observación,admin
+CF-00524,2026-04-20 10:45:00,CAFETERIA CENTRAL,ENSALADA, bebida ,20,1,TARJETA,MANANA,Ciudad Universitaria,Media,producto agotado,emp01
+CF-00122,2026-04-05 11:15:00,Cafetería Central,Galletas, snack ,45,3,,noche , ciudad universitaria ,Alta,producto agotado,admin
+CF-00536,2026-03-28 14:45:00, cafeteria central ,Torta, snack ,12,1,TARJETA, tarde ,FES ARAGON,Muy Alta,sin observación,emp02
+CF-00224,2026-05-21 14:00:00, cafeteria central ,Torta,Bebida,25,,tarjeta,noche , ciudad universitaria ,,sin observación,admin
+CF-00371,2026-05-02 19:15:00,CAFETERÍA ANEXO,galletas,Alimento,45,1,,noche ,CU,Alta,revisar,emp01
+CF-00026,2026-04-22 12:15:00,CAFETERÍA ANEXO,agua , snack ,60,2,efectivo , tarde , fes aragón ,alta ,producto agotado,temporal
+CF-00072,2026-03-31 14:15:00,CAFETERÍA ANEXO, torta ,Alimento,35,4,vale ,Tarde,FES ARAGON,MEDIA,producto agotado,temporal
+CF-00663,2026-05-10 10:30:00,CAFETERIA CENTRAL,Café, snack ,,2,tarjeta,mañana ,CU,muy alta,promoción,temporal
+CF-00677,2026-05-28 16:00:00,Cafetería Anexo,Torta,Bebida,,4,vale ,Noche,FES Aragón,Muy Alta,promoción,temporal
+CF-00427,2026-05-11 16:45:00,cafeteria anexo,agua ,BEBIDA,18,1,vale ,mañana ,FES ARAGON,Alta,promoción,emp01
+CF-00674,2026-05-27 15:00:00,CAFETERÍA ANEXO,agua , bebida ,12,,,Noche,FES Aragón,Muy Alta,promoción,admin
+CF-00384,2026-05-06 17:30:00,CAFETERÍA ANEXO,ENSALADA, snack ,15,1,efectivo ,MANANA,Ciudad Universitaria,Baja ,producto agotado,emp01
+CF-00034,2026-05-18 14:45:00,CAFETERIA CENTRAL,CAFÉ, snack ,15,2,efectivo ,TARDE, ciudad universitaria ,muy alta,sin observación,admin
+CF-00397,2026-05-16 14:00:00,CAFETERÍA ANEXO,Ensalada,BEBIDA,45,1,tarjeta,noche ,FES ARAGON,Alta,promoción,emp01
+CF-00148,2026-05-17 07:15:00,CAFETERÍA ANEXO,ENSALADA,ALIMENTO,45,3,efectivo ,noche ,FES ARAGON,Muy Alta,producto agotado,admin
+CF-00101,2026-04-17 17:00:00,CAFETERIA CENTRAL,Agua,ALIMENTO,35,2,,mañana , ciudad universitaria ,Media,promoción,admin
+CF-00671,2026-06-08 09:45:00,CAFETERIA CENTRAL,CAFÉ,Snack,15,2,Vale, tarde , fes aragón ,Baja ,producto agotado,emp02
+CF-00421,2026-05-06 07:30:00,CAFETERÍA ANEXO,CAFÉ,Alimento,60,3,efectivo ,Mañana,CU,Muy Alta,revisar,temporal
+CF-00588,2026-03-24 17:45:00, cafeteria central ,Ensalada,Alimento,18,3,,mañana ,Ciudad Universitaria,alta ,revisar,temporal
+CF-00424,2026-03-23 13:00:00,CAFETERIA CENTRAL,Ensalada, bebida ,60,3,tarjeta,noche ,FES ARAGON,Media,revisar,emp02
+CF-00157,2026-06-03 19:00:00, cafeteria central ,Cafe, bebida ,45,,Tarjeta,Tarde, ciudad universitaria ,,revisar,admin
+CF-00316,2026-03-21 20:45:00,Cafetería Anexo,ENSALADA,Alimento,45,2,tarjeta,Mañana, fes aragón ,Baja ,producto agotado,admin
+CF-00032,2026-04-20 11:45:00,Cafetería Central,Galletas,Alimento,35,,TARJETA,mañana ,CU,MEDIA,revisar,emp01
+CF-00372,2026-05-25 14:00:00,Cafetería Anexo,Torta, bebida ,35,3,efectivo , tarde ,FES ARAGON,MEDIA,revisar,emp01
+CF-00615,2026-03-20 16:45:00,Cafetería Central,galletas,Bebida,15,4,TARJETA,Mañana, ciudad universitaria ,,promoción,emp01
+CF-00273,2026-03-12 13:15:00,CAFETERÍA ANEXO,galletas, bebida ,12,,vale ,Tarde, fes aragón ,MEDIA,sin observación,emp01
+CF-00281,2026-06-05 10:15:00,Cafetería Anexo,CAFÉ,Snack,18,2,tarjeta,noche ,Ciudad Universitaria,alta ,sin observación,emp02
+CF-00489,2026-04-03 19:00:00, cafeteria central ,CAFÉ,ALIMENTO,45,3,Efectivo,noche ,FES Aragón,Baja ,producto agotado,emp01
+CF-00004,2026-05-25 12:30:00, cafeteria central ,Torta,Bebida,15,1,tarjeta,Mañana,Ciudad Universitaria,Baja ,producto agotado,admin
+CF-00529,2026-05-08 18:00:00,Cafetería Central,Ensalada,Alimento,60,2,efectivo ,mañana ,CU,muy alta,promoción,temporal
+CF-00085,2026-04-13 14:45:00,Cafetería Central,agua , snack ,20,2,Vale,MANANA,FES ARAGON,,revisar,temporal
+CF-00641,2026-04-27 08:30:00, cafeteria central ,Cafe,BEBIDA,20,1,Efectivo, tarde ,Ciudad Universitaria,,sin observación,temporal
+CF-00302,2026-03-16 14:45:00,CAFETERÍA ANEXO,Cafe,Snack,,2,vale ,MANANA,FES ARAGON,Alta,,admin
+CF-00561,2026-05-21 07:15:00, cafeteria central , torta , snack ,,3,TARJETA,TARDE,Ciudad Universitaria,MEDIA,revisar,temporal
+CF-00442,2026-03-02 09:30:00,cafeteria anexo,Cafe,Alimento,18,4,Vale,Mañana,FES Aragón,Muy Alta,revisar,temporal
+CF-00632,2026-03-15 16:30:00,CAFETERÍA ANEXO,Agua,Bebida,45,,tarjeta,mañana ,CU,alta ,producto agotado,admin
+CF-00555,2026-05-14 18:45:00,Cafetería Central,agua ,Alimento,25,2,tarjeta, tarde ,FES Aragón,Media,revisar,temporal
+CF-00591,2026-05-31 19:00:00,CAFETERIA CENTRAL,Agua,Alimento,20,2,efectivo ,mañana ,FES ARAGON,Baja ,sin observación,emp01
+CF-00556,2026-05-21 12:00:00,CAFETERIA CENTRAL,galletas,Alimento,12,1,Vale,Noche,Ciudad Universitaria,muy alta,producto agotado,admin
+CF-00164,2026-04-21 08:30:00,Cafetería Anexo,Café, bebida ,45,4,vale ,mañana , ciudad universitaria ,Media,sin observación,emp02
+CF-00415,2026-04-03 16:15:00, cafeteria central ,ENSALADA, snack ,12,,TARJETA,Tarde,FES ARAGON,alta ,sin observación,temporal
+CF-00313,2026-03-31 11:30:00,Cafetería Anexo,agua , snack ,,1,vale ,mañana ,CU,Media,promoción,emp01
+CF-00553,2026-05-15 08:45:00,CAFETERIA CENTRAL,agua , snack ,18,3,vale ,Noche, fes aragón ,,,emp01
+CF-00329,2026-04-07 13:15:00,Cafetería Anexo,Café, bebida ,35,4,vale ,noche , fes aragón ,muy alta,producto agotado,admin
+CF-00284,2026-05-18 18:45:00,Cafetería Central,galletas, bebida ,,2,Vale, tarde ,FES ARAGON,alta ,,emp02
+CF-00656,2026-04-01 09:45:00,Cafetería Central,ENSALADA,Alimento,18,3,efectivo ,TARDE, ciudad universitaria ,Baja ,,temporal
+CF-00531,2026-04-17 10:30:00,CAFETERIA CENTRAL,galletas,Snack,,1,Efectivo,TARDE,Ciudad Universitaria,muy alta,promoción,emp01
+CF-00574,,Cafetería Central,Torta, bebida ,12,1,Vale,mañana ,FES ARAGON,muy alta,producto agotado,emp01
+CF-00308,2026-04-21 18:30:00,cafeteria anexo,Torta,ALIMENTO,15,3,tarjeta,Noche, ciudad universitaria ,,,emp01
+CF-00011,2026-06-05 15:15:00,CAFETERÍA ANEXO,agua ,BEBIDA,45,2,vale ,Tarde, fes aragón ,Muy Alta,sin observación,emp02
+CF-00434,2026-05-20 12:15:00, cafeteria central ,Agua, bebida ,15,1,Efectivo,Noche,Ciudad Universitaria,Muy Alta,promoción,temporal
+CF-00212,2026-04-04 07:45:00,CAFETERÍA ANEXO,Galletas,BEBIDA,12,1,efectivo ,mañana ,CU,muy alta,revisar,temporal
+CF-00279,,cafeteria anexo,Cafe,ALIMENTO,45,,vale ,Tarde,FES ARAGON,MEDIA,producto agotado,emp01
+CF-00158,2026-04-17 18:15:00,Cafetería Central,Galletas,Snack,12,2,,Tarde,FES Aragón,MEDIA,,emp01
+CF-00503,2026-04-27 08:15:00, cafeteria central ,agua , snack ,45,4,tarjeta,Tarde,Ciudad Universitaria,Media,,emp01
+CF-00187,2026-04-13 08:15:00,CAFETERÍA ANEXO,CAFÉ,BEBIDA,25,3,Vale,Noche, ciudad universitaria ,Alta,sin observación,admin
+CF-00325,2026-04-18 19:00:00,Cafetería Central,agua ,ALIMENTO,15,1,TARJETA,TARDE,CU,,,temporal
+CF-00144,2026-04-07 13:15:00,CAFETERIA CENTRAL,Ensalada,BEBIDA,,,Vale,noche ,Ciudad Universitaria,baja,producto agotado,temporal
+CF-00074,2026-05-15 16:30:00,Cafetería Anexo,ENSALADA,Alimento,15,1,Vale, tarde , ciudad universitaria ,Media,promoción,emp01
+CF-00720,2026-04-05 17:30:00,Cafetería Central,agua ,ALIMENTO,35,,TARJETA,TARDE, fes aragón ,Muy Alta,producto agotado,admin
+CF-00565,2026-04-27 14:30:00,Cafetería Central,Ensalada,Bebida,35,2,vale ,mañana ,CU,muy alta,sin observación,admin
+CF-00155,2026-05-08 15:45:00,CAFETERIA CENTRAL,galletas,Bebida,35,,,Tarde,FES ARAGON,MEDIA,promoción,admin
+CF-00605,2026-04-01 12:15:00,CAFETERÍA ANEXO,CAFÉ,Snack,20,1,tarjeta,mañana ,Ciudad Universitaria,muy alta,producto agotado,emp02
+CF-00580,2026-05-04 16:30:00,CAFETERÍA ANEXO,Agua,Alimento,20,2,vale ,MANANA, fes aragón ,,producto agotado,emp02
+CF-00341,2026-04-28 12:00:00,Cafetería Anexo,Café, bebida ,,1,vale ,TARDE,CU,Baja ,revisar,emp02
+CF-00018,2026-06-05 07:15:00,cafeteria anexo,Café,BEBIDA,,,tarjeta,MANANA,FES Aragón,,promoción,temporal
+CF-00522,2026-04-11 10:15:00,CAFETERÍA ANEXO,Café, snack ,45,2,Efectivo,MANANA,FES ARAGON,Media,sin observación,temporal
+CF-00145,2026-03-15 14:45:00, cafeteria central ,agua ,ALIMENTO,12,1,efectivo ,noche ,Ciudad Universitaria,Baja ,revisar,temporal
+CF-00474,2026-05-03 09:45:00,CAFETERIA CENTRAL, torta , bebida ,20,1,,noche ,Ciudad Universitaria,MEDIA,,admin
+CF-00439,2026-03-05 07:30:00,cafeteria anexo,Ensalada,Alimento,12,4,vale ,Tarde,FES Aragón,Muy Alta,,admin
+CF-00235,2026-04-26 12:00:00,Cafetería Anexo,agua , bebida ,,1,efectivo ,noche ,FES Aragón,Media,revisar,temporal
+CF-00327,,CAFETERÍA ANEXO,Ensalada, snack ,25,2,,TARDE,FES ARAGON,alta ,revisar,admin
+CF-00268,2026-03-09 16:00:00, cafeteria central ,Cafe, snack ,12,3,efectivo ,MANANA,Ciudad Universitaria,muy alta,sin observación,temporal
+CF-00123,2026-05-15 10:15:00,CAFETERIA CENTRAL,ENSALADA,Bebida,,1,Tarjeta,TARDE, fes aragón ,,promoción,emp01
+CF-00450,2026-03-16 18:15:00,cafeteria anexo,galletas, snack ,,1,tarjeta,noche , ciudad universitaria ,alta ,revisar,emp02
+CF-00496,2026-04-09 08:30:00, cafeteria central ,Torta,ALIMENTO,25,,Tarjeta,noche , fes aragón ,MEDIA,,emp01
+CF-00516,2026-03-05 18:30:00,cafeteria anexo,Agua, snack ,25,1,Tarjeta, tarde ,FES ARAGON,Baja ,promoción,emp01
+CF-00433,2026-03-23 11:00:00,CAFETERIA CENTRAL,Ensalada,Bebida,,3,Efectivo,MANANA,Ciudad Universitaria,muy alta,,temporal
+CF-00600,2026-06-06 11:45:00, cafeteria central ,agua ,Snack,12,1,efectivo ,Mañana, fes aragón ,Media,revisar,emp02
+CF-00456,2026-03-22 08:15:00,CAFETERIA CENTRAL,Agua,Snack,,2,Tarjeta,Tarde,FES ARAGON,baja,promoción,temporal
+CF-00453,2026-05-30 10:00:00,cafeteria anexo,Agua,BEBIDA,,2,Efectivo,MANANA,CU,Baja ,revisar,admin
+CF-00374,2026-06-02 15:00:00, cafeteria central ,Galletas,Snack,60,2,,MANANA, ciudad universitaria ,Media,,admin
+CF-00716,,cafeteria anexo,galletas,Alimento,18,1,,mañana ,CU,Baja ,promoción,emp01
+CF-00007,2026-03-01 09:00:00,cafeteria anexo,Café,Alimento,12,2,Vale,Tarde, fes aragón ,Media,producto agotado,temporal
+CF-00307,2026-04-21 07:00:00,cafeteria anexo, torta , snack ,60,1,efectivo ,Mañana, fes aragón ,baja,sin observación,admin
+CF-00295,2026-05-20 08:15:00,CAFETERÍA ANEXO,Galletas,ALIMENTO,,2,tarjeta,Mañana, fes aragón ,Media,sin observación,emp02
+CF-00482,2026-05-15 09:15:00, cafeteria central ,Galletas, snack ,,2,Tarjeta, tarde ,Ciudad Universitaria,MEDIA,revisar,emp01
+CF-00258,2026-05-09 14:15:00,CAFETERIA CENTRAL,Agua, snack ,45,2,vale ,Tarde,FES ARAGON,,promoción,emp02
+CF-00412,2026-03-26 08:30:00,Cafetería Central, torta , bebida ,15,2,TARJETA, tarde ,FES ARAGON,alta ,,temporal
+CF-00285,2026-03-18 07:30:00, cafeteria central ,CAFÉ,Snack,,2,,TARDE,CU,alta ,sin observación,temporal
+CF-00182,2026-05-08 10:15:00, cafeteria central ,agua ,Bebida,45,,Efectivo,mañana , fes aragón ,Media,,temporal
+CF-00640,2026-05-30 14:15:00,CAFETERÍA ANEXO, torta , bebida ,45,1,TARJETA, tarde , ciudad universitaria ,,sin observación,admin
+CF-00321,2026-03-03 07:30:00, cafeteria central ,Cafe,Bebida,45,2,vale ,Noche,Ciudad Universitaria,baja,,temporal
+CF-00368,2026-05-14 15:30:00,Cafetería Central,Torta,Bebida,60,4,vale ,MANANA,FES ARAGON,Muy Alta,producto agotado,emp02
+CF-00666,,CAFETERÍA ANEXO,Galletas,Alimento,20,3,Efectivo,Noche, fes aragón ,,producto agotado,emp02
+CF-00180,2026-05-17 17:30:00,cafeteria anexo,Cafe,BEBIDA,12,,Efectivo, tarde , ciudad universitaria ,Muy Alta,producto agotado,emp02
+CF-00221,2026-04-07 15:45:00,Cafetería Anexo,Cafe, snack ,60,1,TARJETA,MANANA,CU,MEDIA,producto agotado,temporal
+CF-00659,2026-06-01 19:30:00,Cafetería Anexo,ENSALADA, bebida ,15,1,efectivo , tarde ,CU,baja,promoción,admin
+CF-00188,2026-04-19 15:30:00,CAFETERÍA ANEXO,Galletas, bebida ,18,2,Vale,noche , fes aragón ,alta ,revisar,emp02
+CF-00403,2026-03-15 15:15:00,CAFETERIA CENTRAL,CAFÉ,Bebida,20,1,TARJETA,TARDE,CU,muy alta,promoción,admin
+CF-00231,2026-04-12 17:15:00,CAFETERIA CENTRAL,CAFÉ, snack ,18,4,Vale,mañana ,FES ARAGON,MEDIA,producto agotado,temporal
+CF-00451,2026-03-24 13:00:00,CAFETERIA CENTRAL,Café,ALIMENTO,45,,efectivo ,MANANA, fes aragón ,MEDIA,producto agotado,emp01
+CF-00189,2026-04-05 08:00:00,Cafetería Central,Galletas,Snack,35,1,vale ,mañana , fes aragón ,Alta,,temporal
+CF-00036,2026-04-17 08:00:00,CAFETERÍA ANEXO,CAFÉ,Bebida,18,4,efectivo ,Mañana,FES ARAGON,Baja ,,admin
+CF-00038,2026-06-01 14:00:00, cafeteria central ,CAFÉ,ALIMENTO,15,,vale ,noche , ciudad universitaria ,alta ,revisar,emp01
+CF-00367,2026-04-26 20:45:00,Cafetería Anexo,Café,Snack,45,1,,noche , ciudad universitaria ,muy alta,promoción,temporal
+CF-00661,2026-05-28 09:45:00,cafeteria anexo,Galletas, bebida ,15,4,tarjeta,Mañana,FES ARAGON,Media,sin observación,admin
+CF-00270,2026-05-05 08:30:00,CAFETERIA CENTRAL, torta ,BEBIDA,35,1,TARJETA,TARDE,CU,Media,promoción,emp02
+CF-00344,2026-04-29 14:30:00,CAFETERÍA ANEXO,Galletas, snack ,,2,,MANANA,Ciudad Universitaria,,revisar,emp02
+CF-00560,2026-04-13 18:45:00,Cafetería Central,Agua,Bebida,60,1,Efectivo,Mañana, fes aragón ,MEDIA,sin observación,emp01
+CF-00165,2026-05-06 15:15:00,CAFETERÍA ANEXO,Café,BEBIDA,25,,Tarjeta,noche ,FES Aragón,alta ,promoción,emp02
+CF-00176,2026-04-06 20:45:00,CAFETERIA CENTRAL,Ensalada,ALIMENTO,20,4,tarjeta,MANANA, ciudad universitaria ,Media,producto agotado,emp02
+CF-00572,2026-03-21 18:45:00,CAFETERÍA ANEXO, torta ,Alimento,15,1,efectivo ,Noche,Ciudad Universitaria,Muy Alta,revisar,admin
+CF-00712,2026-06-09 07:30:00,cafeteria anexo,Cafe, snack ,15,1,efectivo ,mañana , ciudad universitaria ,,sin observación,emp02
+CF-00548,2026-03-02 12:00:00, cafeteria central ,CAFÉ,Snack,25,1,Tarjeta,MANANA,FES ARAGON,,producto agotado,emp01
+CF-00445,2026-04-28 11:00:00,cafeteria anexo,agua ,Alimento,15,4,TARJETA,Noche,FES Aragón,baja,revisar,admin
+CF-00347,2026-05-26 20:30:00,Cafetería Central,CAFÉ,ALIMENTO,15,1,Efectivo,Noche, ciudad universitaria ,,,admin
+CF-00576,2026-04-28 16:00:00,cafeteria anexo,Café, snack ,20,1,TARJETA,Noche,Ciudad Universitaria,alta ,producto agotado,temporal
+CF-00463,2026-04-23 20:45:00,Cafetería Central,Torta,ALIMENTO,25,2,vale ,Noche, fes aragón ,MEDIA,,temporal
+CF-00023,2026-05-22 13:15:00,Cafetería Anexo,CAFÉ,Bebida,25,4,,TARDE,FES Aragón,Baja ,,temporal
+CF-00152,2026-04-01 11:00:00,Cafetería Central,Galletas,Alimento,45,4,tarjeta,TARDE,FES Aragón,Media,promoción,admin
+CF-00215,2026-04-24 07:45:00,Cafetería Anexo,Cafe, snack ,45,1,TARJETA,TARDE,FES ARAGON,MEDIA,revisar,admin
+CF-00491,2026-04-14 17:00:00,Cafetería Anexo,CAFÉ, snack ,25,,TARJETA,Noche,CU,,promoción,emp01
+CF-00404,2026-06-06 20:00:00,Cafetería Central,Ensalada, snack ,15,1,Vale,Tarde, ciudad universitaria ,Media,promoción,temporal
+CF-00033,2026-03-18 19:30:00,Cafetería Central,galletas, snack ,60,1,TARJETA,Tarde,FES Aragón,,revisar,emp02
+CF-00095,2026-03-20 17:15:00,CAFETERIA CENTRAL,Torta, snack ,,1,vale ,mañana ,FES Aragón,Muy Alta,sin observación,admin
+CF-00502,2026-04-26 10:45:00,CAFETERÍA ANEXO,CAFÉ,ALIMENTO,60,1,efectivo ,noche ,FES ARAGON,Baja ,,admin
+CF-00197,2026-05-23 08:30:00, cafeteria central , torta ,Alimento,15,2,Efectivo,mañana , ciudad universitaria ,,revisar,emp01
+CF-00021,2026-05-23 12:15:00,CAFETERÍA ANEXO,Agua,ALIMENTO,15,1,TARJETA,mañana ,FES Aragón,Muy Alta,promoción,temporal
+CF-00185,2026-03-11 08:30:00,CAFETERIA CENTRAL,Ensalada,Bebida,35,4,Vale,mañana ,Ciudad Universitaria,Muy Alta,producto agotado,admin
+CF-00291,2026-03-04 18:45:00,cafeteria anexo,Galletas, snack ,15,1,,MANANA, fes aragón ,,promoción,emp01
+CF-00352,2026-05-04 17:00:00, cafeteria central ,agua ,Alimento,35,1,efectivo ,Noche,FES Aragón,MEDIA,,admin
+CF-00699,2026-04-30 15:00:00,CAFETERÍA ANEXO, torta ,Bebida,45,,Efectivo,Noche, ciudad universitaria ,Muy Alta,promoción,temporal
+CF-00062,2026-03-27 20:30:00,CAFETERIA CENTRAL,CAFÉ,Bebida,45,1,efectivo ,Mañana,CU,,promoción,emp01
+CF-00718,2026-04-12 16:30:00,Cafetería Central, torta ,ALIMENTO,45,1,Efectivo,mañana , fes aragón ,baja,producto agotado,emp01
+CF-00399,2026-06-04 15:00:00, cafeteria central , torta ,Alimento,,1,tarjeta,Tarde,CU,Muy Alta,revisar,admin
+CF-00626,2026-03-02 13:30:00,CAFETERIA CENTRAL,Ensalada, snack ,60,4,,noche ,Ciudad Universitaria,Alta,promoción,emp02
+CF-00051,2026-04-25 17:45:00,Cafetería Anexo,ENSALADA,BEBIDA,60,1,,Mañana,FES ARAGON,alta ,promoción,emp01
+CF-00330,2026-03-07 13:30:00,CAFETERIA CENTRAL,CAFÉ, snack ,60,3,,MANANA, ciudad universitaria ,MEDIA,sin observación,admin
+CF-00407,2026-06-04 17:15:00,Cafetería Anexo,agua ,ALIMENTO,,3,Vale,mañana , ciudad universitaria ,muy alta,sin observación,temporal
+CF-00573,2026-03-09 08:45:00,CAFETERÍA ANEXO,CAFÉ,BEBIDA,35,2,Efectivo,TARDE, fes aragón ,MEDIA,sin observación,admin
+CF-00073,2026-03-24 14:15:00,cafeteria anexo,galletas, bebida ,15,2,Vale,MANANA,FES Aragón,Alta,sin observación,temporal
+CF-00245,2026-04-14 07:30:00,CAFETERÍA ANEXO,galletas, snack ,45,2,,noche ,FES ARAGON,,producto agotado,emp01
+CF-00654,2026-05-12 20:00:00,Cafetería Central,galletas,Bebida,60,1,Vale,Mañana, ciudad universitaria ,MEDIA,,emp02
+CF-00288,2026-04-27 14:30:00,CAFETERÍA ANEXO,CAFÉ,Alimento,,3,Efectivo, tarde ,FES Aragón,,promoción,temporal
+CF-00477,2026-05-12 18:00:00,Cafetería Central,Galletas,Bebida,,1,tarjeta,TARDE,FES Aragón,Media,sin observación,emp02
+CF-00617,2026-06-07 10:45:00,CAFETERÍA ANEXO,Cafe, snack ,15,4,tarjeta,Mañana,FES ARAGON,,producto agotado,temporal
+CF-00509,2026-04-20 13:15:00,Cafetería Central,Agua,Alimento,12,1,Vale,TARDE, fes aragón ,Alta,sin observación,admin
+CF-00336,2026-04-22 07:45:00,Cafetería Anexo,Torta,Snack,35,2,Tarjeta,Tarde,FES ARAGON,Muy Alta,revisar,emp01
+CF-00589,2026-06-09 15:30:00, cafeteria central ,CAFÉ,Alimento,,4,TARJETA,mañana ,CU,Muy Alta,revisar,temporal
+CF-00357,2026-05-04 08:00:00,CAFETERIA CENTRAL,Cafe,ALIMENTO,,3,efectivo ,Noche,FES Aragón,Media,revisar,temporal
+CF-00057,2026-05-09 19:30:00, cafeteria central ,Café, bebida ,20,1,Tarjeta,MANANA, ciudad universitaria ,Baja ,producto agotado,emp01
+CF-00416,2026-03-16 16:00:00,Cafetería Anexo,CAFÉ,ALIMENTO,20,3,vale ,Tarde, ciudad universitaria ,baja,,admin
+CF-00300,2026-04-05 20:30:00,Cafetería Central,Cafe,Bebida,,2,Tarjeta,Noche,FES ARAGON,Muy Alta,producto agotado,temporal
+CF-00532,2026-03-15 13:30:00,Cafetería Central,Agua,BEBIDA,12,1,Tarjeta,MANANA,Ciudad Universitaria,muy alta,,emp01
+CF-00478,2026-06-06 11:30:00,cafeteria anexo,CAFÉ,Snack,18,4,Vale,noche , ciudad universitaria ,Muy Alta,promoción,emp01
+CF-00127,2026-03-08 20:00:00,CAFETERIA CENTRAL,Torta, snack ,,,Efectivo,mañana ,CU,Muy Alta,,temporal
+CF-00469,2026-04-24 19:00:00, cafeteria central ,Agua, snack ,20,1,,Tarde,CU,,,temporal
+CF-00070,2026-04-16 19:45:00,cafeteria anexo,Café,BEBIDA,12,1,Tarjeta,Mañana, ciudad universitaria ,Muy Alta,revisar,emp02
+CF-00386,2026-05-07 10:00:00,cafeteria anexo,Agua,BEBIDA,45,2,Tarjeta,mañana ,CU,MEDIA,promoción,emp02
+CF-00010,2026-05-24 08:45:00,CAFETERIA CENTRAL,ENSALADA, bebida ,,,Efectivo,noche ,Ciudad Universitaria,Alta,revisar,admin
+CF-00225,2026-03-01 10:15:00,Cafetería Anexo,Cafe, bebida ,25,1,,MANANA,FES Aragón,Baja ,sin observación,emp02
+CF-00575,2026-03-03 15:30:00, cafeteria central ,galletas, snack ,12,4,,noche ,CU,Baja ,revisar,temporal
+CF-00485,2026-05-06 11:30:00,Cafetería Central,ENSALADA,Alimento,25,1,Efectivo,Tarde,Ciudad Universitaria,Muy Alta,promoción,emp01
+CF-00099,2026-05-21 08:30:00,cafeteria anexo,Cafe,BEBIDA,60,2,,TARDE,FES ARAGON,Muy Alta,revisar,admin
+CF-00116,2026-03-07 10:30:00,CAFETERIA CENTRAL,Ensalada,Snack,25,1,Efectivo,Mañana,CU,alta ,sin observación,temporal
+CF-00213,2026-04-22 12:00:00,cafeteria anexo,Torta,Bebida,45,2,Vale,Noche, ciudad universitaria ,MEDIA,promoción,admin
+CF-00253,2026-03-27 14:45:00,Cafetería Central,Torta,BEBIDA,15,,Efectivo,MANANA,CU,Media,sin observación,admin
+CF-00261,2026-06-01 07:15:00,CAFETERÍA ANEXO,CAFÉ,Snack,20,1,,Noche,FES Aragón,alta ,promoción,emp02
+CF-00631,2026-05-01 10:45:00,cafeteria anexo,Café, snack ,25,4,TARJETA,Tarde,Ciudad Universitaria,Muy Alta,producto agotado,emp02
+CF-00636,2026-04-05 13:45:00,CAFETERIA CENTRAL,galletas,ALIMENTO,,2,efectivo ,Noche,CU,baja,revisar,admin
+CF-00034,2026-05-18 14:45:00,CAFETERIA CENTRAL,CAFÉ, snack ,15,2,efectivo ,TARDE, ciudad universitaria ,muy alta,sin observación,admin
+CF-00628,2026-04-22 10:00:00,CAFETERIA CENTRAL,ENSALADA,BEBIDA,,2,vale ,MANANA, ciudad universitaria ,Baja ,revisar,admin
+CF-00042,2026-03-12 15:30:00,Cafetería Central,Agua, snack ,12,1,Efectivo,Noche, ciudad universitaria ,Alta,,temporal
+CF-00495,2026-03-29 10:15:00, cafeteria central ,ENSALADA,Alimento,12,,Tarjeta,Mañana,FES ARAGON,baja,producto agotado,emp02
+CF-00351,2026-04-04 13:15:00, cafeteria central , torta , bebida ,18,2,Tarjeta, tarde ,FES ARAGON,MEDIA,promoción,emp01
+CF-00401,2026-05-11 17:30:00,Cafetería Anexo,Galletas,Alimento,15,1,vale , tarde , fes aragón ,Baja ,,emp01
+CF-00289,2026-05-21 19:15:00,CAFETERIA CENTRAL,Galletas, bebida ,25,3,efectivo ,mañana , fes aragón ,muy alta,revisar,admin
+CF-00208,2026-03-16 16:15:00,cafeteria anexo,CAFÉ,ALIMENTO,25,1,Vale,mañana , fes aragón ,Media,sin observación,admin
+CF-00665,2026-05-11 08:45:00, cafeteria central ,Café, snack ,45,4,,TARDE,FES Aragón,Alta,producto agotado,emp02
+CF-00459,2026-03-25 20:30:00,Cafetería Central,CAFÉ,Alimento,60,1,TARJETA,noche ,FES ARAGON,,,emp01
+CF-00096,2026-03-02 17:30:00,Cafetería Anexo,Ensalada, snack ,35,2,,Tarde,FES ARAGON,Baja ,producto agotado,emp01
+CF-00467,2026-04-24 16:30:00,Cafetería Anexo,galletas,ALIMENTO,25,1,Efectivo,mañana ,CU,Baja ,producto agotado,emp02
+CF-00210,2026-03-11 11:00:00, cafeteria central ,Cafe,Bebida,60,1,efectivo ,noche , ciudad universitaria ,baja,producto agotado,emp02
+CF-00031,2026-04-25 16:30:00,CAFETERIA CENTRAL,Café,ALIMENTO,20,2,,MANANA,Ciudad Universitaria,Muy Alta,producto agotado,temporal
+CF-00358,,Cafetería Central,Ensalada, bebida ,,1,tarjeta,TARDE,Ciudad Universitaria,Alta,,emp01
+CF-00163,2026-03-06 07:00:00,CAFETERÍA ANEXO,Galletas, bebida ,20,1,Efectivo,mañana ,Ciudad Universitaria,Alta,sin observación,emp01
+CF-00056,2026-03-26 16:45:00,cafeteria anexo,ENSALADA, snack ,15,1,efectivo ,Tarde,Ciudad Universitaria,Muy Alta,sin observación,emp02
+CF-00606,2026-04-12 16:00:00,Cafetería Anexo,Galletas, snack ,35,1,Tarjeta,TARDE,CU,alta ,promoción,temporal
+CF-00590,2026-03-01 13:45:00,Cafetería Central, torta ,Bebida,35,3,TARJETA, tarde ,FES ARAGON,Media,sin observación,temporal
+CF-00659,2026-06-01 19:30:00,Cafetería Anexo,ENSALADA, bebida ,15,1,efectivo , tarde ,CU,baja,promoción,admin
+CF-00190,2026-05-20 15:30:00,cafeteria anexo,Torta,Snack,,1,Tarjeta,noche ,FES Aragón,MEDIA,promoción,admin
+CF-00243,2026-03-10 07:00:00,Cafetería Central,Ensalada,Bebida,20,1,Efectivo,Tarde,FES Aragón,Muy Alta,sin observación,emp01
+CF-00151,2026-03-24 10:00:00,cafeteria anexo,agua ,ALIMENTO,45,2,TARJETA,Mañana,Ciudad Universitaria,muy alta,revisar,admin
+CF-00156,2026-03-06 09:00:00, cafeteria central ,Torta,Bebida,25,3,Efectivo, tarde , ciudad universitaria ,alta ,sin observación,admin
+CF-00079,2026-05-24 07:45:00,Cafetería Central,Café,ALIMENTO,20,3,Vale, tarde , fes aragón ,muy alta,sin observación,admin
+CF-00670,2026-04-14 19:45:00,cafeteria anexo,Ensalada, snack ,45,2,vale ,TARDE, fes aragón ,Baja ,sin observación,emp02
+CF-00327,,CAFETERÍA ANEXO,Ensalada, snack ,25,2,,TARDE,FES ARAGON,alta ,revisar,admin
+CF-00410,2026-04-01 10:15:00,Cafetería Central,ENSALADA,ALIMENTO,20,1,,TARDE,Ciudad Universitaria,,,temporal
+CF-00552,2026-06-04 17:00:00,cafeteria anexo,galletas,BEBIDA,12,2,vale ,MANANA, ciudad universitaria ,Media,,emp02
+CF-00612,2026-04-14 20:15:00,CAFETERIA CENTRAL,agua ,Bebida,15,1,Vale,noche ,CU,Baja ,sin observación,temporal
+CF-00611,2026-03-29 07:00:00,cafeteria anexo,Ensalada,ALIMENTO,25,3,tarjeta,Mañana,FES ARAGON,Muy Alta,revisar,temporal
+CF-00567,2026-03-21 18:15:00,cafeteria anexo,CAFÉ, bebida ,,,efectivo ,Mañana, fes aragón ,MEDIA,promoción,admin
+CF-00278,2026-04-09 08:45:00, cafeteria central ,Ensalada,BEBIDA,20,3,Efectivo,mañana ,Ciudad Universitaria,Muy Alta,sin observación,emp01
+CF-00586,2026-05-13 07:30:00,cafeteria anexo,Cafe,Alimento,12,1,,noche ,FES ARAGON,baja,producto agotado,temporal
+CF-00686,2026-05-12 10:00:00,cafeteria anexo,ENSALADA,ALIMENTO,20,2,TARJETA,MANANA, ciudad universitaria ,baja,revisar,emp01
+CF-00084,2026-04-12 07:45:00,cafeteria anexo,Agua,Alimento,20,3,vale ,noche ,CU,muy alta,,temporal
+CF-00059,2026-03-13 16:45:00,Cafetería Central,Café, bebida ,60,,TARJETA,Tarde, fes aragón ,Alta,revisar,emp02
+CF-00413,2026-04-28 16:15:00,Cafetería Central,Cafe,Alimento,45,2,efectivo ,TARDE, fes aragón ,Media,promoción,emp01
+CF-00102,2026-04-24 15:45:00,CAFETERIA CENTRAL,Café, snack ,20,1,efectivo ,Mañana,CU,Media,,emp01
+CF-00487,2026-04-28 14:00:00,Cafetería Central,Cafe,BEBIDA,25,4,TARJETA,noche ,Ciudad Universitaria,baja,sin observación,emp01
+CF-00621,2026-05-30 18:15:00,CAFETERÍA ANEXO,Ensalada,Snack,60,3,Efectivo,Mañana, ciudad universitaria ,baja,producto agotado,temporal
+CF-00513,2026-05-17 08:30:00,Cafetería Central,Agua, snack ,35,2,tarjeta,MANANA,Ciudad Universitaria,MEDIA,,admin
+CF-00497,2026-06-05 07:45:00,cafeteria anexo,ENSALADA,Snack,20,2,Efectivo, tarde ,CU,baja,revisar,temporal
+CF-00429,2026-03-07 17:15:00,Cafetería Anexo,Ensalada,ALIMENTO,25,2,vale ,TARDE,CU,,,emp01
+CF-00359,2026-04-23 17:00:00,cafeteria anexo,Galletas,ALIMENTO,25,2,vale ,mañana , fes aragón ,Alta,promoción,temporal
+CF-00582,2026-06-08 20:30:00,Cafetería Central,galletas, bebida ,45,3,vale ,Mañana, fes aragón ,MEDIA,promoción,emp01
+CF-00171,2026-03-27 07:15:00,Cafetería Anexo,Café,Bebida,20,1,Efectivo,TARDE,CU,Baja ,producto agotado,admin
+CF-00335,2026-04-07 14:00:00,Cafetería Anexo,Ensalada,Snack,20,1,,Mañana,FES Aragón,baja,producto agotado,admin
+CF-00701,2026-05-12 07:45:00, cafeteria central ,ENSALADA, snack ,45,2,efectivo ,Tarde,FES ARAGON,Baja ,sin observación,temporal
+CF-00352,2026-05-04 17:00:00, cafeteria central ,agua ,Alimento,35,1,efectivo ,Noche,FES Aragón,MEDIA,,admin
+CF-00437,2026-06-09 07:45:00,cafeteria anexo,agua ,Bebida,12,1,efectivo ,MANANA,FES Aragón,MEDIA,revisar,temporal
+CF-00420,2026-04-04 11:45:00, cafeteria central ,,Bebida,,3,,mañana ,CU,alta ,producto agotado,emp02
+CF-00303,2026-04-02 18:30:00,cafeteria anexo,galletas,Alimento,,3,,Noche, fes aragón ,,producto agotado,emp01
+CF-00310,2026-05-16 10:30:00,Cafetería Anexo,Torta, snack ,15,4,Tarjeta,Tarde,Ciudad Universitaria,,,temporal
+CF-00066,2026-03-29 14:45:00,Cafetería Central,agua ,Snack,18,1,Tarjeta, tarde ,FES ARAGON,Muy Alta,producto agotado,emp02
+CF-00326,2026-04-24 14:45:00, cafeteria central ,agua ,ALIMENTO,,4,Vale,noche ,FES ARAGON,Muy Alta,revisar,emp01
+CF-00630,2026-03-23 16:00:00,Cafetería Anexo, torta ,Alimento,20,1,Vale,noche , fes aragón ,MEDIA,producto agotado,emp02
+CF-00186,2026-05-30 18:15:00,Cafetería Central, torta ,Snack,20,1,tarjeta,MANANA,Ciudad Universitaria,,producto agotado,admin
+CF-00342,2026-03-13 16:15:00,CAFETERÍA ANEXO,Agua,Snack,,,tarjeta,TARDE, ciudad universitaria ,Baja ,sin observación,emp02
+CF-00108,2026-05-28 11:30:00,Cafetería Anexo,Torta,Snack,45,3,Efectivo,MANANA,FES ARAGON,MEDIA,revisar,admin
+CF-00398,2026-04-22 14:00:00,Cafetería Central,Cafe,ALIMENTO,60,1,,mañana ,Ciudad Universitaria,baja,producto agotado,admin
+CF-00568,2026-03-11 16:00:00,Cafetería Central,CAFÉ,BEBIDA,,3,Tarjeta,MANANA, ciudad universitaria ,Alta,,emp01
+CF-00650,2026-05-15 12:30:00,CAFETERÍA ANEXO, torta , snack ,35,4,efectivo ,Noche,CU,muy alta,revisar,temporal
+CF-00239,2026-04-13 20:30:00,Cafetería Anexo,Ensalada,ALIMENTO,12,3,Tarjeta,TARDE,FES ARAGON,baja,revisar,admin
+CF-00175,2026-04-29 15:45:00, cafeteria central ,Agua, snack ,,4,TARJETA,TARDE,FES ARAGON,Baja ,producto agotado,temporal
+CF-00137,2026-03-11 16:30:00,CAFETERIA CENTRAL,Agua,Bebida,25,,Tarjeta,MANANA, fes aragón ,Alta,,emp01
+CF-00170,2026-03-20 08:45:00,Cafetería Central,galletas,BEBIDA,25,1,Tarjeta,MANANA,Ciudad Universitaria,baja,promoción,temporal
+CF-00528,2026-03-12 10:45:00,cafeteria anexo,Agua,Snack,18,1,,Noche, fes aragón ,Alta,revisar,temporal
+CF-00219,2026-04-19 13:30:00,Cafetería Anexo,galletas,Alimento,60,1,Tarjeta,MANANA,FES ARAGON,alta ,,emp02
+CF-00226,2026-04-09 19:30:00,cafeteria anexo,Café,Bebida,20,1,Vale,Noche,CU,Muy Alta,,emp02
+CF-00322,2026-05-07 15:15:00,Cafetería Anexo,ENSALADA,Snack,18,1,TARJETA,Noche,FES ARAGON,Muy Alta,producto agotado,emp02
+CF-00377,2026-05-25 07:45:00,Cafetería Central,CAFÉ,Alimento,18,1,,noche ,FES Aragón,Muy Alta,promoción,emp01
+CF-00639,2026-06-07 16:30:00, cafeteria central ,agua ,BEBIDA,45,1,Tarjeta,Mañana,FES ARAGON,Muy Alta,,temporal
+CF-00446,2026-04-23 07:30:00,Cafetería Anexo,CAFÉ, bebida ,12,1,vale ,Tarde, ciudad universitaria ,Baja ,,emp02
+CF-00546,2026-04-04 14:15:00,Cafetería Anexo,galletas,ALIMENTO,60,1,Vale,Mañana,FES Aragón,Baja ,producto agotado,emp01
+CF-00438,2026-05-07 19:45:00,CAFETERÍA ANEXO, torta ,BEBIDA,,,Tarjeta,Tarde,FES Aragón,muy alta,,admin
+CF-00540,2026-04-05 18:00:00,Cafetería Anexo,agua ,Bebida,20,3,Efectivo,Noche, fes aragón ,Muy Alta,producto agotado,emp01
+CF-00228,2026-04-19 20:30:00,Cafetería Anexo,Agua,Alimento,45,3,,MANANA, fes aragón ,Muy Alta,promoción,emp02
+CF-00376,2026-03-10 18:15:00,CAFETERIA CENTRAL,Cafe,BEBIDA,60,1,Vale,mañana ,FES ARAGON,alta ,promoción,admin
+CF-00494,2026-05-01 19:45:00,Cafetería Anexo,Agua,Alimento,12,,Vale,TARDE,FES Aragón,baja,producto agotado,temporal
+CF-00138,2026-03-05 18:00:00,cafeteria anexo,Agua,Snack,60,1,vale ,Tarde,FES Aragón,muy alta,,temporal
+CF-00393,2026-03-07 18:15:00,CAFETERÍA ANEXO,Galletas, bebida ,15,1,vale ,Mañana,CU,Baja ,promoción,emp02
+CF-00547,2026-04-03 13:30:00,Cafetería Central,galletas, snack ,25,1,Vale,mañana ,FES ARAGON,Media,revisar,emp02
+CF-00237,, cafeteria central ,galletas, snack ,60,,,Noche,FES Aragón,Media,promoción,emp02
+CF-00196,2026-05-07 17:30:00, cafeteria central ,Agua,ALIMENTO,35,1,Vale,TARDE, ciudad universitaria ,Alta,producto agotado,temporal
+CF-00620,2026-05-19 15:45:00,Cafetería Central,galletas,ALIMENTO,,3,,noche ,FES Aragón,,revisar,admin
+CF-00353,2026-04-08 13:45:00, cafeteria central ,CAFÉ,Snack,12,3,vale ,Mañana, fes aragón ,Alta,promoción,emp02
+CF-00457,2026-03-26 10:15:00,CAFETERÍA ANEXO,Cafe,BEBIDA,25,2,Vale,TARDE,FES Aragón,,revisar,emp01
+CF-00473,2026-04-18 16:45:00,CAFETERÍA ANEXO,Cafe,Alimento,60,4,tarjeta,Tarde,FES ARAGON,baja,sin observación,admin
+CF-00217,2026-06-05 11:00:00,Cafetería Central,ENSALADA,Bebida,60,3,Tarjeta,Tarde,FES Aragón,alta ,revisar,admin
+CF-00063,2026-05-26 17:30:00, cafeteria central ,ENSALADA,BEBIDA,,1,Efectivo,TARDE, fes aragón ,Media,promoción,temporal
+CF-00050,2026-03-16 10:45:00,cafeteria anexo,agua ,Snack,60,2,Tarjeta,noche ,CU,Media,sin observación,admin
+CF-00511,2026-03-18 12:30:00,CAFETERIA CENTRAL,Café,Bebida,12,1,,mañana ,Ciudad Universitaria,alta ,,admin
+CF-00094,2026-03-11 16:45:00,Cafetería Central,Agua,Snack,18,3,vale ,Tarde,CU,baja,,temporal
+CF-00443,2026-05-05 10:30:00,CAFETERIA CENTRAL, torta , bebida ,12,4,tarjeta,MANANA,FES Aragón,Media,promoción,admin
+CF-00104,2026-03-16 13:45:00,Cafetería Anexo,Galletas, bebida ,18,3,,MANANA, ciudad universitaria ,alta ,revisar,emp01
+CF-00003,2026-05-24 13:00:00,CAFETERIA CENTRAL,Agua,Bebida,12,2,,noche ,CU,Baja ,sin observación,emp01
+CF-00514,2026-04-25 18:00:00,Cafetería Central,ENSALADA, snack ,25,4,vale ,noche , ciudad universitaria ,Alta,sin observación,emp01
+CF-00166,2026-03-14 08:45:00,cafeteria anexo, torta ,Alimento,20,,Vale,Mañana,CU,baja,producto agotado,emp01
+CF-00029,2026-03-17 16:45:00,Cafetería Central,CAFÉ, bebida ,18,1,Efectivo,Noche,FES Aragón,Alta,sin observación,temporal
+CF-00263,2026-04-16 16:45:00,CAFETERIA CENTRAL,Agua,ALIMENTO,25,2,vale , tarde , ciudad universitaria ,Media,,emp01
+CF-00426,2026-05-08 11:30:00,CAFETERÍA ANEXO,Cafe,Snack,45,4,efectivo ,MANANA, ciudad universitaria ,muy alta,promoción,admin
+CF-00089,2026-05-15 12:30:00,cafeteria anexo,CAFÉ,Snack,20,4,vale , tarde ,FES ARAGON,Media,producto agotado,temporal
+CF-00169,2026-05-11 07:30:00,CAFETERIA CENTRAL,Galletas,Snack,18,2,Efectivo,noche ,FES ARAGON,alta ,sin observación,emp02
+CF-00460,2026-05-29 13:45:00,CAFETERÍA ANEXO,Agua, bebida ,,2,efectivo ,TARDE,FES ARAGON,muy alta,revisar,emp01
+CF-00682,2026-03-23 15:00:00,CAFETERIA CENTRAL,agua ,Bebida,12,1,,MANANA,Ciudad Universitaria,,producto agotado,emp01
+CF-00431,2026-04-09 13:15:00,Cafetería Anexo,agua ,Bebida,35,2,Tarjeta, tarde , fes aragón ,alta ,revisar,emp02
+CF-00544,2026-03-02 19:45:00,CAFETERIA CENTRAL,agua , snack ,15,1,Efectivo,Tarde,FES ARAGON,baja,sin observación,emp01
+CF-00703,2026-03-03 09:30:00,CAFETERÍA ANEXO,Café,Alimento,,2,vale ,mañana , ciudad universitaria ,baja,,emp01
+CF-00249,2026-05-27 12:00:00,CAFETERÍA ANEXO,Ensalada,Alimento,45,4,Tarjeta,noche , fes aragón ,,promoción,emp01
+CF-00301,2026-04-15 12:30:00,CAFETERIA CENTRAL,galletas,Alimento,25,1,vale ,Tarde,Ciudad Universitaria,Muy Alta,promoción,admin
+CF-00533,2026-04-21 15:00:00, cafeteria central ,Galletas,ALIMENTO,45,,, tarde ,CU,,promoción,admin
+CF-00542,2026-03-07 20:30:00, cafeteria central ,Café,Bebida,60,2,Vale, tarde ,CU,alta ,revisar,emp01
+CF-00259,2026-05-15 09:45:00,cafeteria anexo,Agua, bebida ,20,,vale ,TARDE,FES Aragón,MEDIA,promoción,emp01
+CF-00520,2026-03-19 14:45:00,Cafetería Anexo,Café,Alimento,15,4,Tarjeta,MANANA, fes aragón ,baja,producto agotado,emp02
+CF-00106,2026-04-11 20:00:00,Cafetería Central,Café, bebida ,20,1,Vale,MANANA,Ciudad Universitaria,alta ,producto agotado,emp01
+CF-00214,2026-06-06 15:45:00,CAFETERÍA ANEXO,CAFÉ,Snack,,1,Vale, tarde ,FES ARAGON,Muy Alta,producto agotado,admin
+CF-00604,2026-03-12 15:30:00,CAFETERÍA ANEXO,,Bebida,60,4,,MANANA, ciudad universitaria ,Baja ,,emp01
+CF-00255,2026-04-03 11:00:00,Cafetería Central, torta ,Alimento,15,,vale ,Tarde, ciudad universitaria ,Baja ,revisar,emp02
+CF-00074,2026-05-15 16:30:00,Cafetería Anexo,ENSALADA,Alimento,15,1,Vale, tarde , ciudad universitaria ,Media,promoción,emp01
+CF-00705,2026-04-22 18:45:00,Cafetería Central,Café,Snack,25,4,tarjeta,TARDE,CU,,revisar,admin
+CF-00622,2026-04-29 16:45:00,Cafetería Anexo,galletas,BEBIDA,18,3,, tarde ,FES ARAGON,Media,,emp01
+CF-00707,2026-06-01 12:15:00, cafeteria central ,Ensalada, snack ,,2,TARJETA,TARDE,FES ARAGON,Media,sin observación,emp02
+CF-00237,, cafeteria central ,galletas, snack ,60,,,Noche,FES Aragón,Media,promoción,emp02
+CF-00706,2026-06-06 16:45:00,Cafetería Central,ENSALADA,Snack,12,4,Efectivo,noche , ciudad universitaria ,Muy Alta,promoción,admin
+CF-00618,2026-04-28 15:15:00,CAFETERIA CENTRAL,Torta,BEBIDA,,1,Efectivo,mañana , fes aragón ,MEDIA,producto agotado,admin
+CF-00250,2026-03-03 13:15:00,cafeteria anexo,Cafe,BEBIDA,18,2,Efectivo,Tarde,FES ARAGON,muy alta,,admin
+CF-00417,2026-05-02 08:15:00,cafeteria anexo, torta , snack ,15,3,TARJETA,Noche,Ciudad Universitaria,baja,producto agotado,emp01
+CF-00643,2026-04-06 17:45:00,cafeteria anexo,Cafe,Snack,45,,tarjeta,TARDE, ciudad universitaria ,Media,revisar,temporal
+CF-00061,2026-03-23 19:15:00,CAFETERÍA ANEXO,agua ,Bebida,18,1,tarjeta,Mañana, fes aragón ,Baja ,sin observación,emp02
+CF-00678,2026-04-30 07:30:00,CAFETERIA CENTRAL,Galletas,Alimento,,2,Efectivo,noche , ciudad universitaria ,Muy Alta,,admin
+CF-00081,2026-05-04 08:15:00,Cafetería Anexo, torta ,Snack,12,,,Mañana,FES ARAGON,Alta,revisar,emp01
+CF-00494,2026-05-01 19:45:00,Cafetería Anexo,Agua,Alimento,12,,Vale,TARDE,FES Aragón,baja,producto agotado,temporal
+CF-00515,2026-05-25 12:15:00,CAFETERÍA ANEXO,Galletas,Bebida,,,vale ,noche ,CU,Media,producto agotado,admin
+CF-00043,2026-04-23 15:45:00,Cafetería Anexo,Ensalada,ALIMENTO,25,1,tarjeta,mañana ,FES Aragón,Media,,temporal
+CF-00154,2026-05-19 14:45:00,CAFETERÍA ANEXO,Café,Snack,15,1,,Tarde, ciudad universitaria ,,,emp01
+CF-00624,2026-05-12 16:30:00,cafeteria anexo,Torta,Alimento,60,3,efectivo ,MANANA, fes aragón ,,producto agotado,emp02
+CF-00338,2026-05-26 18:00:00, cafeteria central ,Agua,ALIMENTO,45,2,TARJETA, tarde ,CU,MEDIA,promoción,admin
+CF-00162,2026-04-19 10:30:00,cafeteria anexo,Cafe,Alimento,,4,,MANANA,FES ARAGON,Muy Alta,promoción,emp02
+CF-00409,2026-03-28 14:30:00,CAFETERIA CENTRAL,agua , snack ,25,,efectivo ,TARDE,CU,Alta,producto agotado,emp01
+CF-00230,2026-06-09 16:00:00, cafeteria central ,agua , bebida ,20,1,efectivo ,Noche, ciudad universitaria ,Muy Alta,sin observación,emp02
+CF-00667,2026-03-16 16:00:00,Cafetería Anexo,Galletas,Bebida,20,2,efectivo ,Mañana, ciudad universitaria ,alta ,producto agotado,temporal
+CF-00006,2026-06-03 12:00:00,cafeteria anexo,agua ,Alimento,35,1,Efectivo,Noche,CU,alta ,producto agotado,emp01
+CF-00465,2026-05-01 08:45:00, cafeteria central ,agua ,Bebida,,1,Tarjeta,Mañana, ciudad universitaria ,muy alta,promoción,temporal
+CF-00060,2026-05-15 20:15:00,CAFETERIA CENTRAL,Agua, bebida ,18,1,TARJETA, tarde ,Ciudad Universitaria,MEDIA,producto agotado,emp01
+CF-00480,2026-03-18 10:30:00, cafeteria central ,ENSALADA, snack ,35,,Tarjeta,TARDE,Ciudad Universitaria,,promoción,temporal
+CF-00269,2026-06-07 16:15:00,cafeteria anexo,Cafe,Alimento,20,1,,mañana , ciudad universitaria ,baja,sin observación,temporal
+CF-00458,2026-05-11 09:00:00,Cafetería Anexo,galletas,BEBIDA,20,2,Vale,mañana , fes aragón ,Muy Alta,sin observación,admin
+CF-00537,2026-04-05 20:30:00,Cafetería Central,Cafe, snack ,12,2,Tarjeta,TARDE, ciudad universitaria ,muy alta,sin observación,emp01
+CF-00153,2026-05-22 09:00:00,CAFETERÍA ANEXO,Cafe,Alimento,35,3,Tarjeta, tarde ,FES Aragón,Muy Alta,,temporal
+CF-00105,2026-05-07 19:15:00,CAFETERÍA ANEXO,Cafe,Bebida,18,4,TARJETA,noche , fes aragón ,alta ,sin observación,temporal
+CF-00131,2026-03-17 16:15:00,CAFETERIA CENTRAL,Cafe,BEBIDA,20,1,Vale,MANANA,FES ARAGON,Baja ,sin observación,emp01
+CF-00521,2026-04-12 07:30:00,CAFETERÍA ANEXO,Torta,BEBIDA,35,4,Efectivo,noche ,Ciudad Universitaria,,revisar,emp02
+CF-00692,2026-05-26 14:00:00, cafeteria central ,Torta,Alimento,20,2,TARJETA,noche ,FES Aragón,Media,producto agotado,emp02
+CF-00717,2026-06-06 14:00:00,CAFETERÍA ANEXO,agua ,Snack,15,2,vale ,MANANA,FES Aragón,,sin observación,admin
+CF-00172,2026-03-17 19:00:00,CAFETERIA CENTRAL,Café, snack ,,,,TARDE, ciudad universitaria ,muy alta,sin observación,admin
+CF-00324,2026-04-28 20:30:00,CAFETERIA CENTRAL,Ensalada,ALIMENTO,45,1,TARJETA,mañana ,CU,,promoción,emp01
+CF-00601,2026-03-05 10:30:00,CAFETERÍA ANEXO,Agua,Bebida,35,4,Tarjeta,MANANA, ciudad universitaria ,muy alta,sin observación,emp02
+CF-00658,2026-03-18 17:45:00,CAFETERIA CENTRAL,Ensalada,Snack,15,1,Vale,mañana , ciudad universitaria ,Baja ,,admin
+CF-00411,,CAFETERIA CENTRAL,Torta, snack ,18,2,efectivo ,TARDE,CU,baja,,emp02
+CF-00395,2026-05-17 08:00:00,cafeteria anexo,CAFÉ, bebida ,25,,Vale,noche , ciudad universitaria ,MEDIA,,emp01
+CF-00653,2026-05-06 19:15:00,Cafetería Anexo,galletas,ALIMENTO,45,3,tarjeta,mañana , fes aragón ,baja,,temporal
+CF-00619,2026-04-06 07:00:00,cafeteria anexo,Galletas,BEBIDA,,1,Vale,Mañana,Ciudad Universitaria,baja,sin observación,emp01
+CF-00143,2026-05-30 08:30:00,Cafetería Anexo,agua ,Snack,20,4,Efectivo,Tarde, ciudad universitaria ,Media,sin observación,admin
+CF-00365,2026-05-16 13:15:00,Cafetería Anexo,Agua,Alimento,18,2,TARJETA,Noche,FES Aragón,baja,promoción,temporal
+CF-00691,2026-03-14 12:30:00,CAFETERÍA ANEXO, torta , snack ,,4,tarjeta,mañana ,FES ARAGON,baja,promoción,temporal
+CF-00681,2026-04-14 18:15:00,Cafetería Anexo,Cafe,Snack,12,,Efectivo,noche ,FES ARAGON,alta ,sin observación,admin
+CF-00550,2026-04-27 11:30:00,Cafetería Central,agua ,Bebida,12,,tarjeta,noche ,FES Aragón,Baja ,producto agotado,temporal
+CF-00252,2026-05-07 16:15:00,CAFETERIA CENTRAL,Café, bebida ,,1,vale , tarde , fes aragón ,,,admin
+CF-00700,2026-06-04 20:00:00, cafeteria central ,galletas,Bebida,18,3,TARJETA,TARDE,CU,Muy Alta,revisar,emp01
+CF-00200,2026-03-31 07:30:00,cafeteria anexo,Agua, snack ,20,1,,Tarde, fes aragón ,Baja ,sin observación,admin
+CF-00058,2026-06-09 18:00:00,Cafetería Central,CAFÉ,Alimento,18,2,,mañana ,CU,baja,sin observación,admin
+CF-00328,2026-04-01 18:30:00, cafeteria central ,Galletas,Snack,60,2,Tarjeta,TARDE,CU,Media,sin observación,emp02
+CF-00121,2026-04-08 13:15:00,Cafetería Anexo,galletas,Snack,15,3,vale ,Tarde,Ciudad Universitaria,Alta,revisar,emp02
+CF-00017,2026-06-03 12:30:00,cafeteria anexo,Agua,BEBIDA,,2,efectivo ,Noche, ciudad universitaria ,Media,promoción,emp02
+CF-00660,2026-04-08 10:30:00,Cafetería Anexo,Agua,ALIMENTO,,1,,Mañana, ciudad universitaria ,alta ,revisar,temporal
+CF-00191,2026-04-09 09:45:00,Cafetería Anexo,Agua,Snack,,,,noche ,Ciudad Universitaria,Baja ,revisar,admin
+CF-00018,2026-06-05 07:15:00,cafeteria anexo,Café,BEBIDA,,,tarjeta,MANANA,FES Aragón,,promoción,temporal
+CF-00506,2026-04-19 19:45:00,Cafetería Central,Galletas,ALIMENTO,25,1,vale ,Mañana,FES Aragón,,producto agotado,emp02
+CF-00312,2026-04-26 08:00:00,cafeteria anexo,galletas,BEBIDA,60,2,vale ,Mañana,Ciudad Universitaria,Muy Alta,,emp02
+CF-00447,2026-06-01 09:00:00,CAFETERÍA ANEXO,CAFÉ,Snack,18,1,Vale,Mañana,FES Aragón,Baja ,revisar,admin
+CF-00030,2026-05-20 16:45:00,Cafetería Central,galletas, bebida ,60,1,tarjeta,Mañana,Ciudad Universitaria,,sin observación,emp01
+CF-00483,2026-05-04 15:15:00, cafeteria central ,agua , snack ,45,1,efectivo ,Noche, ciudad universitaria ,MEDIA,revisar,emp01
+CF-00111,2026-06-07 14:45:00,cafeteria anexo,galletas,BEBIDA,18,2,TARJETA,TARDE,CU,Muy Alta,promoción,temporal
+CF-00311,2026-06-01 13:15:00,Cafetería Anexo,CAFÉ, bebida ,12,1,vale ,Mañana, ciudad universitaria ,Alta,producto agotado,admin
+CF-00302,2026-03-16 14:45:00,CAFETERÍA ANEXO,Cafe,Snack,,2,vale ,MANANA,FES ARAGON,Alta,,admin
+CF-00688,2026-05-22 16:00:00,Cafetería Anexo,agua , snack ,,1,TARJETA,Mañana, fes aragón ,muy alta,sin observación,temporal
+CF-00517,2026-04-19 08:30:00,CAFETERIA CENTRAL,Galletas,Alimento,15,3,Efectivo,mañana ,CU,muy alta,producto agotado,emp02
+CF-00711,2026-03-10 14:45:00,Cafetería Central,ENSALADA,Snack,60,2,efectivo ,Tarde,FES Aragón,Alta,revisar,admin
+CF-00087,2026-03-02 11:15:00,CAFETERIA CENTRAL,Cafe,Alimento,60,4,Efectivo, tarde ,FES ARAGON,baja,,emp02
+CF-00512,2026-04-04 15:30:00,CAFETERÍA ANEXO,agua , bebida ,25,3,efectivo ,Mañana, ciudad universitaria ,muy alta,revisar,emp02
+CF-00680,2026-03-29 19:30:00,CAFETERIA CENTRAL,agua ,Bebida,60,3,Efectivo,Noche,FES Aragón,baja,revisar,emp01
+CF-00484,2026-03-27 11:30:00,CAFETERÍA ANEXO, torta , snack ,35,3,TARJETA,Noche,FES ARAGON,Alta,promoción,temporal
+CF-00530,2026-03-17 18:30:00,CAFETERIA CENTRAL,Agua,Bebida,35,1,Tarjeta,mañana ,Ciudad Universitaria,,,emp02
+CF-00490,2026-06-06 19:15:00,cafeteria anexo,ENSALADA,Bebida,,1,vale ,Tarde,FES ARAGON,MEDIA,promoción,admin
+CF-00256,2026-05-07 15:45:00,Cafetería Anexo,galletas,Bebida,18,2,,noche ,Ciudad Universitaria,Muy Alta,,emp02
+CF-00388,2026-04-11 09:15:00, cafeteria central ,Café, bebida ,,1,Tarjeta,Noche,FES ARAGON,MEDIA,sin observación,emp02
+CF-00669,2026-05-21 19:00:00,CAFETERIA CENTRAL,Ensalada, bebida ,35,4,TARJETA, tarde , fes aragón ,baja,sin observación,emp01
+CF-00274,2026-04-16 13:15:00,CAFETERÍA ANEXO,Galletas, bebida ,20,2,TARJETA,mañana ,Ciudad Universitaria,Media,revisar,admin
+CF-00142,2026-05-07 10:00:00,Cafetería Central,ENSALADA,Snack,60,4,Vale,Tarde,FES Aragón,alta ,promoción,temporal
+CF-00599,2026-03-06 18:00:00, cafeteria central ,galletas, snack ,18,1,tarjeta,TARDE,FES Aragón,Baja ,revisar,temporal
+CF-00266,2026-05-22 12:30:00,cafeteria anexo,Café,Alimento,15,1,Efectivo,noche ,FES ARAGON,Muy Alta,promoción,admin
+CF-00501,2026-03-23 18:45:00,cafeteria anexo,ENSALADA,Alimento,20,1,, tarde ,FES Aragón,,sin observación,temporal
+CF-00428,2026-04-12 20:15:00,cafeteria anexo,CAFÉ,Alimento,25,2,Efectivo,noche ,FES Aragón,alta ,producto agotado,admin
+CF-00013,2026-04-20 10:15:00, cafeteria central , torta ,ALIMENTO,25,1,, tarde , fes aragón ,Media,revisar,temporal
+CF-00405,2026-05-08 18:30:00,cafeteria anexo,Ensalada,BEBIDA,35,2,TARJETA,noche ,FES Aragón,muy alta,,emp02
+CF-00013,2026-04-20 10:15:00, cafeteria central , torta ,ALIMENTO,25,1,, tarde , fes aragón ,Media,revisar,temporal
+CF-00364,2026-04-18 07:45:00,CAFETERIA CENTRAL,Café,BEBIDA,15,,efectivo ,mañana , ciudad universitaria ,Media,promoción,emp01
+CF-00539,2026-03-06 11:00:00,cafeteria anexo,Agua,BEBIDA,45,2,Tarjeta,Mañana, fes aragón ,,,emp02
+CF-00437,2026-06-09 07:45:00,cafeteria anexo,agua ,Bebida,12,1,efectivo ,MANANA,FES Aragón,MEDIA,revisar,temporal
+CF-00430,2026-05-02 09:30:00,CAFETERÍA ANEXO,ENSALADA,Alimento,25,1,efectivo ,Mañana,FES ARAGON,alta ,sin observación,emp01
+CF-00500,2026-04-28 09:30:00,Cafetería Central,ENSALADA, bebida ,12,3,tarjeta, tarde ,Ciudad Universitaria,Baja ,producto agotado,admin
+CF-00557,2026-05-15 11:30:00,Cafetería Central,ENSALADA,ALIMENTO,35,,,TARDE,CU,Media,,emp01
+CF-00662,2026-03-27 09:00:00,Cafetería Anexo,Cafe, bebida ,60,,TARJETA,Mañana,CU,alta ,producto agotado,emp01
+CF-00614,2026-03-22 09:45:00, cafeteria central ,Torta,Alimento,45,,TARJETA,mañana , fes aragón ,muy alta,,admin
+CF-00233,2026-05-24 13:45:00,CAFETERÍA ANEXO,agua ,Alimento,20,1,Vale,noche ,Ciudad Universitaria,,promoción,admin
+CF-00232,2026-05-28 20:00:00,CAFETERIA CENTRAL,galletas,BEBIDA,35,3,vale ,MANANA, ciudad universitaria ,alta ,revisar,temporal
+CF-00068,2026-05-19 18:15:00,cafeteria anexo,ENSALADA,ALIMENTO,,2,Tarjeta,Tarde,FES ARAGON,alta ,sin observación,emp02
+CF-00320,2026-03-25 18:15:00,CAFETERÍA ANEXO, torta , snack ,20,3,Vale,TARDE, fes aragón ,,producto agotado,emp02
+CF-00383,2026-05-04 10:45:00, cafeteria central ,Café, bebida ,12,1,vale ,Noche,Ciudad Universitaria,,revisar,emp02
+CF-00333,2026-04-26 18:30:00,CAFETERÍA ANEXO,Cafe,ALIMENTO,60,1,,Tarde, fes aragón ,alta ,,temporal
+CF-00697,2026-03-25 10:15:00,cafeteria anexo,Ensalada,Alimento,12,2,Efectivo,noche , fes aragón ,Media,promoción,admin
+CF-00462,,Cafetería Anexo,Agua, bebida ,12,2,Tarjeta,Mañana,FES ARAGON,Media,,emp01
+CF-00234,2026-03-02 10:15:00,Cafetería Central,Torta,BEBIDA,12,4,TARJETA,noche ,FES Aragón,Alta,promoción,emp01
+CF-00418,2026-04-29 11:00:00,CAFETERIA CENTRAL, torta ,Alimento,45,2,vale ,mañana ,Ciudad Universitaria,MEDIA,promoción,emp01
+CF-00664,2026-04-24 19:45:00,Cafetería Central,Cafe, snack ,60,4,vale ,Tarde,Ciudad Universitaria,alta ,sin observación,temporal
+CF-00132,2026-04-20 09:45:00,CAFETERÍA ANEXO,Cafe,ALIMENTO,25,,Vale,Tarde,FES Aragón,,,temporal
+CF-00315,2026-03-13 11:45:00, cafeteria central ,ENSALADA, snack ,12,,,MANANA,FES ARAGON,alta ,promoción,temporal
+CF-00350,2026-05-14 15:30:00,Cafetería Anexo, torta ,ALIMENTO,,1,,noche , ciudad universitaria ,Baja ,,admin
+CF-00585,2026-06-01 18:00:00, cafeteria central ,galletas,ALIMENTO,,4,tarjeta, tarde ,Ciudad Universitaria,Alta,,temporal
+CF-00140,2026-04-21 12:15:00,Cafetería Central,ENSALADA,Alimento,18,3,tarjeta,mañana ,FES Aragón,Baja ,,emp02
+CF-00710,2026-06-02 09:00:00,CAFETERIA CENTRAL,Cafe, snack ,15,3,tarjeta,Noche,FES ARAGON,muy alta,,temporal
+CF-00698,2026-06-05 16:15:00,Cafetería Anexo,galletas,BEBIDA,,4,,MANANA,Ciudad Universitaria,MEDIA,revisar,emp02
+CF-00141,2026-04-19 11:00:00, cafeteria central ,agua ,Alimento,35,1,Vale,noche ,FES ARAGON,Muy Alta,promoción,admin
+CF-00598,2026-05-04 07:00:00,CAFETERÍA ANEXO,CAFÉ,Snack,15,1,Efectivo,Noche,CU,MEDIA,revisar,admin
+CF-00298,2026-06-01 09:00:00,Cafetería Central,Galletas,Alimento,15,1,, tarde ,Ciudad Universitaria,baja,,emp01
+CF-00486,2026-05-02 12:45:00,Cafetería Central,agua ,ALIMENTO,12,2,TARJETA, tarde ,Ciudad Universitaria,baja,,temporal
+CF-00394,2026-03-05 15:45:00,Cafetería Anexo,Cafe, snack ,,,efectivo , tarde ,FES ARAGON,alta ,sin observación,temporal
+CF-00128,2026-03-08 16:45:00,CAFETERIA CENTRAL,Cafe, snack ,18,3,,Mañana, ciudad universitaria ,Muy Alta,revisar,emp02
+CF-00481,2026-04-29 15:00:00,Cafetería Central,ENSALADA,Snack,,3,Vale,Noche,FES ARAGON,Muy Alta,promoción,emp01
+CF-00379,2026-06-05 19:00:00,CAFETERÍA ANEXO,agua , bebida ,15,2,tarjeta,Tarde, fes aragón ,Muy Alta,revisar,admin
+CF-00317,2026-05-01 19:00:00, cafeteria central ,Torta,BEBIDA,,1,efectivo ,mañana ,FES Aragón,Muy Alta,promoción,emp01
+CF-00505,2026-03-18 17:00:00,Cafetería Anexo,Cafe,Bebida,20,4,,mañana ,FES ARAGON,,,emp02
+CF-00638,2026-03-12 18:00:00,CAFETERÍA ANEXO,galletas, snack ,60,1,efectivo ,noche ,FES Aragón,alta ,sin observación,emp02
+CF-00570,2026-03-22 18:00:00,cafeteria anexo,agua ,Alimento,60,2,Vale,mañana , ciudad universitaria ,Baja ,,temporal
+CF-00593,2026-05-13 10:30:00,Cafetería Central,ENSALADA,Snack,,2,efectivo ,Noche,Ciudad Universitaria,MEDIA,,admin
+CF-00161,2026-03-21 13:15:00,Cafetería Anexo, torta ,Snack,20,4,Vale, tarde ,FES Aragón,,producto agotado,emp02
+CF-00687,,cafeteria anexo,Agua,ALIMENTO,20,1,Efectivo, tarde ,Ciudad Universitaria,MEDIA,revisar,emp01
+CF-00304,2026-04-26 15:00:00,CAFETERIA CENTRAL,Café,Snack,,2,,mañana ,FES Aragón,Muy Alta,producto agotado,emp02
+CF-00390,2026-04-23 18:45:00,Cafetería Central,ENSALADA,Snack,25,1,Efectivo,Mañana, ciudad universitaria ,,producto agotado,temporal
+CF-00360,2026-04-23 12:45:00,cafeteria anexo,agua ,BEBIDA,18,1,tarjeta,Mañana,CU,alta ,revisar,temporal
+CF-00236,2026-04-22 07:30:00,Cafetería Anexo,Cafe, snack ,18,,efectivo ,Mañana, ciudad universitaria ,muy alta,producto agotado,emp02
+CF-00282,2026-04-30 10:30:00, cafeteria central ,Torta,Snack,45,2,TARJETA,noche ,FES Aragón,Muy Alta,sin observación,temporal
+CF-00535,2026-05-25 20:30:00,Cafetería Anexo,Torta,ALIMENTO,12,3,Tarjeta,mañana ,FES Aragón,muy alta,revisar,emp02
+CF-00559,2026-05-17 18:30:00,cafeteria anexo,Ensalada, bebida ,20,1,Efectivo,Noche,FES ARAGON,baja,,temporal
+CF-00008,2026-06-04 16:45:00,CAFETERIA CENTRAL,CAFÉ,Alimento,35,,Tarjeta,Mañana,FES Aragón,Baja ,sin observación,emp01
+CF-00071,2026-04-04 20:00:00,CAFETERÍA ANEXO,Torta,ALIMENTO,12,1,efectivo ,Noche, fes aragón ,Muy Alta,sin observación,temporal
+CF-00053,2026-06-08 19:00:00,Cafetería Anexo,Galletas,Snack,25,4,Efectivo,Noche,Ciudad Universitaria,Alta,,emp02
+CF-00283,2026-06-05 20:15:00,cafeteria anexo,galletas,BEBIDA,20,3,tarjeta,Tarde, ciudad universitaria ,Baja ,producto agotado,admin
+CF-00587,2026-06-04 08:00:00,Cafetería Central,Ensalada,ALIMENTO,20,2,, tarde ,FES Aragón,,producto agotado,admin
+CF-00385,2026-04-02 14:45:00,cafeteria anexo,agua ,ALIMENTO,18,1,Vale,noche ,FES ARAGON,Muy Alta,producto agotado,emp02
+CF-00719,2026-04-13 14:15:00,cafeteria anexo,Galletas,BEBIDA,20,1,, tarde ,FES Aragón,Alta,sin observación,emp01
+CF-00366,2026-04-09 07:15:00,CAFETERIA CENTRAL,agua ,BEBIDA,,1,,Tarde,Ciudad Universitaria,Baja ,sin observación,emp01
+CF-00708,2026-03-11 20:15:00,CAFETERIA CENTRAL,ENSALADA,Alimento,12,2,tarjeta,mañana ,FES Aragón,,sin observación,emp02
+CF-00100,2026-03-11 08:15:00,cafeteria anexo,Galletas,Bebida,45,2,Vale,Tarde, fes aragón ,Media,promoción,emp01
+CF-00319,2026-05-16 18:00:00,cafeteria anexo,CAFÉ,Snack,15,1,Efectivo,TARDE,Ciudad Universitaria,,,emp01
+CF-00167,2026-03-29 07:15:00,cafeteria anexo,agua ,BEBIDA,15,1,vale , tarde ,Ciudad Universitaria,,promoción,temporal
+CF-00229,2026-03-30 13:15:00,CAFETERÍA ANEXO,CAFÉ,Snack,18,4,,TARDE,FES Aragón,Muy Alta,producto agotado,emp02
+CF-00375,2026-05-26 08:00:00,Cafetería Anexo,CAFÉ,Bebida,35,1,,noche , ciudad universitaria ,Alta,,admin
+CF-00695,2026-03-08 13:30:00,Cafetería Anexo,Cafe, snack ,,4,Efectivo,Noche,Ciudad Universitaria,Media,revisar,emp02
+CF-00432,2026-05-26 19:15:00,cafeteria anexo,Cafe,Snack,,2,Efectivo,MANANA,CU,MEDIA,sin observación,emp02
+CF-00507,2026-03-13 07:30:00,CAFETERIA CENTRAL,Galletas,Alimento,12,1,Efectivo,noche , ciudad universitaria ,alta ,producto agotado,emp02
+CF-00248,2026-05-17 09:15:00,CAFETERIA CENTRAL,Cafe,BEBIDA,60,1,vale ,Mañana,CU,Alta,revisar,emp02
+CF-00657,2026-03-27 10:30:00,CAFETERÍA ANEXO,ENSALADA,BEBIDA,12,,tarjeta,Noche,CU,Muy Alta,producto agotado,admin
+CF-00234,2026-03-02 10:15:00,Cafetería Central,Torta,BEBIDA,12,4,TARJETA,noche ,FES Aragón,Alta,promoción,emp01
+CF-00471,2026-03-07 12:45:00,Cafetería Anexo,Cafe,Snack,,1,Efectivo,TARDE, fes aragón ,baja,,emp02
+CF-00128,2026-03-08 16:45:00,CAFETERIA CENTRAL,Cafe, snack ,18,3,,Mañana, ciudad universitaria ,Muy Alta,revisar,emp02
+CF-00024,2026-04-05 17:15:00,CAFETERÍA ANEXO,CAFÉ,Alimento,25,,Vale,Noche, ciudad universitaria ,alta ,producto agotado,temporal
+CF-00209,2026-03-28 07:15:00, cafeteria central ,agua ,BEBIDA,18,1,Vale,Noche,FES ARAGON,Alta,,emp02
+CF-00419,2026-05-19 19:15:00,CAFETERIA CENTRAL,Galletas, snack ,15,1,vale ,TARDE,FES ARAGON,MEDIA,promoción,temporal
+CF-00037,2026-04-12 17:15:00,CAFETERIA CENTRAL,Torta,Bebida,35,1,Vale,noche ,CU,Muy Alta,promoción,admin
+CF-00472,2026-04-27 20:15:00,Cafetería Anexo,Agua,Snack,18,1,Vale, tarde ,Ciudad Universitaria,baja,,emp01
+CF-00020,2026-04-16 15:45:00,Cafetería Central,Cafe, bebida ,12,1,,mañana ,FES ARAGON,baja,revisar,temporal
+CF-00118,2026-03-18 15:45:00,cafeteria anexo,Galletas,ALIMENTO,12,1,TARJETA,Noche,CU,,producto agotado,temporal
+CF-00223,2026-05-26 10:45:00,Cafetería Anexo,ENSALADA, bebida ,20,3,Efectivo,noche , fes aragón ,,,emp02
+CF-00290,2026-03-01 08:45:00,CAFETERIA CENTRAL,Agua,Alimento,18,1,vale ,noche , ciudad universitaria ,,revisar,admin
+CF-00545,2026-05-30 08:45:00,CAFETERÍA ANEXO,ENSALADA,Snack,45,1,tarjeta,noche ,Ciudad Universitaria,Baja ,producto agotado,emp01
+CF-00114,2026-04-07 08:45:00, cafeteria central ,Galletas,Snack,20,2,tarjeta,TARDE,FES ARAGON,MEDIA,revisar,emp02
+CF-00594,2026-05-27 16:45:00,Cafetería Central,ENSALADA,ALIMENTO,12,2,TARJETA,MANANA,CU,,sin observación,admin
+CF-00001,2026-04-29 19:45:00,cafeteria anexo,ENSALADA, bebida ,20,1,vale ,mañana ,FES ARAGON,Muy Alta,promoción,emp01
+CF-00260,2026-04-21 07:30:00,Cafetería Central,Galletas,Bebida,20,1,,TARDE,Ciudad Universitaria,alta ,sin observación,emp01
+CF-00693,2026-03-19 10:15:00,Cafetería Central,galletas,BEBIDA,20,,efectivo , tarde ,Ciudad Universitaria,alta ,promoción,emp02
+CF-00098,2026-05-17 09:15:00, cafeteria central ,Torta, bebida ,60,3,tarjeta, tarde ,Ciudad Universitaria,alta ,promoción,emp01
+CF-00607,2026-06-03 16:15:00,Cafetería Anexo,Torta, bebida ,18,1,Efectivo,noche , ciudad universitaria ,Baja ,promoción,temporal
+CF-00578,2026-05-31 15:00:00,Cafetería Anexo,Café, bebida ,,,efectivo ,Tarde, fes aragón ,Alta,revisar,admin
+CF-00199,2026-04-05 11:30:00,Cafetería Anexo,ENSALADA,ALIMENTO,12,2,Vale, tarde , fes aragón ,,sin observación,admin
+CF-00569,2026-03-05 14:30:00,Cafetería Central,Ensalada, snack ,15,1,tarjeta, tarde , fes aragón ,,producto agotado,emp01
+CF-00016,2026-04-10 07:00:00,CAFETERÍA ANEXO,Café,Alimento,20,2,Vale,mañana , ciudad universitaria ,Baja ,sin observación,temporal
+CF-00519,2026-04-01 13:00:00, cafeteria central ,CAFÉ, snack ,,2,Tarjeta,Tarde, ciudad universitaria ,baja,sin observación,emp02
+CF-00052,2026-03-05 19:45:00,Cafetería Central,Torta,Bebida,15,2,,Noche,FES ARAGON,,revisar,temporal
+CF-00286,2026-04-14 13:45:00,CAFETERIA CENTRAL, torta , snack ,,,Vale, tarde ,Ciudad Universitaria,MEDIA,producto agotado,emp01
+CF-00110,2026-03-28 19:00:00,cafeteria anexo,galletas,Snack,,3,Vale, tarde ,FES Aragón,baja,revisar,emp02
+CF-00088,2026-05-02 11:15:00, cafeteria central ,Ensalada, bebida ,15,1,Vale,Noche, ciudad universitaria ,baja,revisar,emp02
+CF-00255,2026-04-03 11:00:00,Cafetería Central, torta ,Alimento,15,,vale ,Tarde, ciudad universitaria ,Baja ,revisar,emp02
+CF-00009,2026-04-13 20:30:00,CAFETERIA CENTRAL,Ensalada,Alimento,60,4,TARJETA, tarde ,Ciudad Universitaria,muy alta,sin observación,emp02
+CF-00225,2026-03-01 10:15:00,Cafetería Anexo,Cafe, bebida ,25,1,,MANANA,FES Aragón,Baja ,sin observación,emp02
+CF-00065,2026-04-15 13:15:00, cafeteria central ,Cafe, bebida ,25,1,,TARDE,Ciudad Universitaria,Alta,revisar,temporal
+CF-00069,2026-04-03 14:00:00,CAFETERÍA ANEXO,, snack ,60,,efectivo ,Mañana,FES Aragón,Muy Alta,producto agotado,emp01
+CF-00423,2026-05-01 13:00:00,CAFETERIA CENTRAL,Galletas, bebida ,,,Efectivo,mañana ,FES Aragón,Alta,producto agotado,emp02
+CF-00551,2026-04-30 19:30:00,CAFETERIA CENTRAL,Cafe,Snack,60,2,TARJETA,Noche,FES ARAGON,alta ,producto agotado,emp01
+CF-00318,2026-05-05 08:00:00, cafeteria central ,galletas,Alimento,18,1,Efectivo,noche ,Ciudad Universitaria,Alta,promoción,admin
+CF-00334,2026-05-18 17:45:00,CAFETERÍA ANEXO,Cafe, bebida ,,1,tarjeta,mañana , ciudad universitaria ,Alta,,emp01
+CF-00235,2026-04-26 12:00:00,Cafetería Anexo,agua , bebida ,,1,efectivo ,noche ,FES Aragón,Media,revisar,temporal
+CF-00566,2026-04-13 19:15:00,Cafetería Central, torta ,Snack,45,,tarjeta,mañana , ciudad universitaria ,Media,revisar,admin
+CF-00064,2026-05-02 19:30:00, cafeteria central ,Torta,Bebida,18,2,Tarjeta,MANANA, ciudad universitaria ,,promoción,emp01
+CF-00479,2026-06-07 09:30:00,cafeteria anexo,Ensalada,Alimento,20,1,, tarde , fes aragón ,Alta,promoción,temporal
+CF-00464,2026-03-26 10:15:00,Cafetería Anexo,galletas,Alimento,60,1,vale ,Noche, ciudad universitaria ,Media,,admin
+CF-00346,2026-03-09 15:15:00,cafeteria anexo,agua , bebida ,60,1,Tarjeta,mañana ,FES Aragón,Alta,sin observación,admin
+CF-00045,2026-05-29 09:45:00,Cafetería Anexo,galletas,ALIMENTO,25,2,Efectivo,MANANA,FES ARAGON,alta ,sin observación,emp02
+CF-00354,2026-03-04 20:00:00,cafeteria anexo,Torta, snack ,12,1,efectivo ,Mañana, fes aragón ,baja,revisar,temporal
+CF-00685,2026-03-02 14:30:00,Cafetería Anexo,Galletas, snack ,20,1,Vale,MANANA,CU,alta ,producto agotado,temporal
+CF-00623,2026-06-05 10:00:00,Cafetería Anexo,Café,BEBIDA,12,1,TARJETA,noche ,Ciudad Universitaria,Baja ,sin observación,temporal
+CF-00205,2026-05-30 17:15:00,Cafetería Central,agua ,BEBIDA,12,,efectivo ,noche ,CU,Muy Alta,producto agotado,emp02
+CF-00406,2026-03-16 18:00:00,cafeteria anexo,galletas,BEBIDA,25,2,Efectivo, tarde ,FES Aragón,alta ,revisar,admin
+CF-00339,2026-03-18 11:15:00,Cafetería Central,Galletas,Bebida,,3,Vale,MANANA, ciudad universitaria ,,promoción,emp02
+CF-00449,2026-04-12 07:00:00,cafeteria anexo,CAFÉ, snack ,25,,tarjeta,noche , ciudad universitaria ,Muy Alta,,temporal
+CF-00203,2026-05-15 11:00:00,Cafetería Anexo,Ensalada,ALIMENTO,60,3,efectivo ,Mañana, fes aragón ,MEDIA,producto agotado,temporal
+CF-00362,2026-05-19 09:45:00,Cafetería Anexo,CAFÉ,ALIMENTO,20,3,,Noche,CU,Alta,promoción,emp01
+CF-00676,2026-03-14 17:45:00,CAFETERÍA ANEXO,Agua,Bebida,15,1,Tarjeta,mañana , ciudad universitaria ,alta ,producto agotado,emp01
+CF-00299,2026-04-24 16:00:00, cafeteria central ,CAFÉ, bebida ,35,3,TARJETA,noche ,FES Aragón,MEDIA,producto agotado,emp02
+CF-00177,2026-05-10 07:45:00, cafeteria central ,agua , bebida ,15,1,Efectivo, tarde , fes aragón ,alta ,,emp01
+CF-00019,2026-03-29 17:30:00,CAFETERÍA ANEXO,Torta, bebida ,60,2,efectivo ,MANANA,Ciudad Universitaria,alta ,,admin
+CF-00441,2026-03-07 12:00:00,cafeteria anexo,agua ,ALIMENTO,35,2,Vale,Noche, ciudad universitaria ,Baja ,sin observación,admin
+CF-00257,2026-06-05 20:00:00,CAFETERIA CENTRAL,Galletas, bebida ,25,1,tarjeta,mañana , fes aragón ,,sin observación,admin
+CF-00647,2026-05-24 14:00:00,Cafetería Anexo,Café,Alimento,18,1,Tarjeta,TARDE,CU,,producto agotado,admin
+CF-00406,2026-03-16 18:00:00,cafeteria anexo,galletas,BEBIDA,25,2,Efectivo, tarde ,FES Aragón,alta ,revisar,admin
+CF-00564,2026-03-21 09:00:00,Cafetería Central,Cafe, bebida ,,1,Efectivo, tarde ,FES ARAGON,Media,promoción,admin
+CF-00413,2026-04-28 16:15:00,Cafetería Central,Cafe,Alimento,45,2,efectivo ,TARDE, fes aragón ,Media,promoción,emp01
+CF-00492,2026-06-05 12:00:00,CAFETERÍA ANEXO,Cafe, bebida ,12,4,Vale,Noche,Ciudad Universitaria,alta ,,temporal
+CF-00012,2026-03-07 16:30:00,CAFETERIA CENTRAL,Galletas,BEBIDA,45,2,Efectivo,noche ,FES Aragón,baja,revisar,emp01
+CF-00168,2026-05-16 16:45:00,Cafetería Anexo,galletas,Bebida,12,1,Tarjeta,Noche,FES Aragón,Muy Alta,promoción,admin
+CF-00178,2026-03-26 14:30:00,cafeteria anexo,ENSALADA,BEBIDA,15,1,tarjeta,Noche,Ciudad Universitaria,MEDIA,revisar,temporal
+CF-00488,2026-05-25 08:15:00,Cafetería Central,Café, snack ,60,1,Efectivo,noche , ciudad universitaria ,Alta,promoción,emp02
+CF-00425,2026-05-14 14:30:00, cafeteria central ,Cafe,Snack,60,1,efectivo ,TARDE, fes aragón ,Media,revisar,temporal
+CF-00078,2026-03-03 14:00:00,Cafetería Central,Galletas, bebida ,60,,Efectivo,mañana , fes aragón ,Muy Alta,revisar,admin
+CF-00299,2026-04-24 16:00:00, cafeteria central ,CAFÉ, bebida ,35,3,TARJETA,noche ,FES Aragón,MEDIA,producto agotado,emp02
+CF-00159,,CAFETERÍA ANEXO,galletas,ALIMENTO,15,3,vale , tarde ,FES ARAGON,baja,promoción,emp01
+CF-00613,2026-06-01 20:45:00,CAFETERÍA ANEXO,Agua,Snack,18,1,vale ,Noche, fes aragón ,,promoción,admin
+CF-00675,2026-04-05 18:30:00,Cafetería Central,agua ,Alimento,15,3,Tarjeta,TARDE,FES ARAGON,,promoción,admin
+CF-00370,2026-04-03 19:30:00, cafeteria central ,,Snack,15,4,Efectivo,Mañana,CU,muy alta,promoción,emp01
+CF-00293,2026-03-01 16:45:00,cafeteria anexo,galletas, snack ,25,2,Efectivo,MANANA, fes aragón ,,producto agotado,emp01
+CF-00028,2026-05-11 15:45:00,Cafetería Central,Ensalada,Bebida,12,4,,Noche, fes aragón ,alta ,sin observación,admin
+CF-00672,2026-03-09 09:00:00,Cafetería Central,Cafe, snack ,20,2,Tarjeta, tarde , ciudad universitaria ,Baja ,promoción,temporal
+CF-00134,2026-03-06 15:15:00,cafeteria anexo, torta ,BEBIDA,18,1,Vale,noche ,FES ARAGON,Alta,revisar,temporal
+CF-00634,2026-05-09 18:15:00, cafeteria central ,Agua,BEBIDA,,1,Efectivo,Tarde,FES ARAGON,Media,sin observación,emp02
+CF-00466,2026-04-01 18:00:00, cafeteria central ,galletas,ALIMENTO,12,1,Efectivo,MANANA, fes aragón ,muy alta,promoción,emp02
+CF-00179,2026-04-16 20:15:00,CAFETERIA CENTRAL,CAFÉ,Snack,45,1,Tarjeta,mañana , ciudad universitaria ,Media,producto agotado,emp02
+CF-00103,2026-03-31 17:45:00, cafeteria central ,Torta,Bebida,15,2,vale ,Tarde,FES ARAGON,Baja ,promoción,admin
+CF-00130,2026-05-07 18:15:00,CAFETERÍA ANEXO,galletas,Snack,20,1,vale ,Noche, ciudad universitaria ,,,admin
+CF-00149,2026-04-14 14:00:00, cafeteria central ,ENSALADA,Alimento,25,1,Tarjeta,Noche,CU,muy alta,sin observación,temporal
+CF-00651,2026-04-03 18:45:00,CAFETERÍA ANEXO,ENSALADA,Bebida,15,1,TARJETA, tarde , fes aragón ,baja,sin observación,temporal
+CF-00402,2026-04-24 12:45:00, cafeteria central ,Café,Alimento,18,2,,noche ,FES Aragón,MEDIA,sin observación,emp01
+CF-00266,2026-05-22 12:30:00,cafeteria anexo,Café,Alimento,15,1,Efectivo,noche ,FES ARAGON,Muy Alta,promoción,admin
+CF-00348,2026-03-18 10:00:00,CAFETERIA CENTRAL,Agua,Snack,12,3,Efectivo, tarde ,FES Aragón,,sin observación,emp02
+CF-00704,2026-05-22 20:30:00,CAFETERIA CENTRAL,Café, bebida ,60,2,Vale,Mañana,FES ARAGON,baja,revisar,emp02

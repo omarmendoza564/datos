@@ -1,0 +1,706 @@
+﻿venta_id,fecha_venta,sucursal,ciudad,region,plataforma,videojuego,categoria,precio,unidades,metodo_pago,satisfaccion,comentarios,codigo_interno,usuario_captura
+VJ-00247,2026-05-15,sucursal centro ,ciudad de mexico, centro ,PC,Zelda,Accion,0,1,Efectivo,Baja ,revisar captura,INT-9243,capturista2
+VJ-00617,2026-03-05,Sucursal Sur,monterrey ,occidente,NINTENDO,Halo,Accion,999,2,efectivo ,Alta,revisar captura,INT-4291,usuario_tmp
+VJ-00653,2026-01-17,Sucursal Centro, Ciudad de México ,Occidente,xbox,Spider-Man,Deportes,799,1,TARJETA,MEDIA,,INT-6969,capturista2
+VJ-00015,2026-04-17,SUCURSAL CENTRO,CDMX,Centro,PLAYSTATION,FIFA,estrategia ,1799,1,Transferencia,,revisar captura,INT-3069,capturista2
+VJ-00523,2026-04-05,Sucursal Centro,CIUDAD DE MÉXICO,Centro,PLAYSTATION,Minecraft,Aventura,999,3,tarjeta,Media,promoción,INT-6344,capturista2
+VJ-00409,2026-02-10,Sucursal Sur,CDMX,Norte,xbox,Zelda,Aventura,599,2,,Media,cliente frecuente,INT-2159,capturista2
+VJ-00225,2026-05-09,sucursal centro ,monterrey ,occidente, XBOX ,Spider-Man,DEPORTES,0,2,efectivo ,,,INT-3226,admin
+VJ-00219,2026-06-07,Sucursal Sur, Ciudad de México ,Norte, pc ,Zelda,estrategia ,1199,3,Transferencia,muy alta,sin comentario,INT-2689,capturista2
+VJ-00078,2026-06-27,sucursal norte, Ciudad de México , centro ,xbox,God of War,Acción,599,1,Efectivo,Media,revisar captura,INT-7432,capturista2
+VJ-00573,2026-02-09,Sucursal Centro, Ciudad de México ,Centro, nintendo ,Zelda, aventura ,599,3,Transferencia,,promoción,INT-1633,usuario_tmp
+VJ-00394,2026-06-22,SUCURSAL CENTRO, Ciudad de México ,, pc ,Pokemon,Deportes,1499,,,Muy Alta,,INT-4653,capturista2
+VJ-00249,2026-04-30,Sucursal Sur,ciudad de mexico,norte , pc ,Fortnite,Estrategia,1199,1,,,sin comentario,INT-8730,usuario_tmp
+VJ-00618,2026-04-22,SUCURSAL CENTRO,Monterrey,norte ,xbox,Fortnite, aventura ,1199,4,Transferencia,Baja ,cliente frecuente,INT-2817,capturista1
+VJ-00658,2026-01-16,Sucursal Norte,Guadalajara,CENTRO, nintendo ,Minecraft,Deportes,1199,1,,muy alta,,INT-8537,capturista2
+VJ-00648,2026-05-01,Sucursal Norte,Monterrey,Occidente, nintendo ,Call of Duty,estrategia ,1799,,TARJETA,muy alta,promoción,INT-4843,capturista1
+VJ-00032,2026-05-01,Sucursal Sur,Guadalajara,Centro,Xbox,Mario Kart,DEPORTES,599,3, transferencia ,MEDIA,,INT-4485,capturista2
+VJ-00103,2026-06-14,sucursal norte,monterrey , centro , playstation ,Minecraft,estrategia ,1199,4,,muy alta,promoción,INT-7671,capturista2
+VJ-00567,2026-03-03,SUCURSAL CENTRO,Guadalajara,Centro,Nintendo,Call of Duty, aventura ,999,1,tarjeta,muy alta,,INT-1718,capturista2
+VJ-00423,2026-05-13,Sucursal Norte,GUADALAJARA,Occidente,xbox,Halo,DEPORTES,,2,Tarjeta,MEDIA,sin comentario,INT-3922,capturista1
+VJ-00032,2026-05-01,Sucursal Sur,Guadalajara,Centro,Xbox,Mario Kart,DEPORTES,599,3, transferencia ,MEDIA,,INT-4485,capturista2
+VJ-00014,2026-06-05,sucursal norte, Ciudad de México ,norte , XBOX ,Fortnite,Acción,599,3, transferencia ,baja,cliente frecuente,INT-3004,capturista2
+VJ-00551,2026-06-02,sucursal centro ,monterrey ,occidente, playstation ,Mario Kart,Accion,799,3,,,cliente frecuente,INT-7977,capturista2
+VJ-00322,2026-04-30,Sucursal Centro,Monterrey,Norte,NINTENDO,Fortnite, aventura ,999,1,,MEDIA,,INT-9505,admin
+VJ-00007,2026-01-31,Sucursal Sur,CDMX,occidente,NINTENDO,FIFA,estrategia ,599,2,Tarjeta,MEDIA,revisar captura,INT-5762,admin
+VJ-00311,2026-04-01,,Monterrey, centro ,Nintendo,Spider-Man, aventura ,799,1,tarjeta,Alta,promoción,INT-6084,capturista2
+VJ-00559,2026-03-21,Sucursal Centro,CIUDAD DE MÉXICO,Centro,xbox,Call of Duty,Aventura,599,1,Tarjeta,Muy Alta,cliente frecuente,INT-9150,usuario_tmp
+VJ-00191,2026-04-11,SUCURSAL CENTRO,,occidente, pc ,Mario Kart,Aventura,1199,,TARJETA,baja,cliente frecuente,INT-1855,usuario_tmp
+VJ-00422,2026-04-27,Sucursal Centro,CIUDAD DE MÉXICO,CENTRO,NINTENDO,Halo,Estrategia,1799,2,efectivo ,Media,promoción,INT-6573,capturista2
+VJ-00080,2026-02-13,SUCURSAL CENTRO,CDMX,occidente,,Mario Kart,Deportes,1499,3,tarjeta,Muy Alta,promoción,INT-1410,capturista1
+VJ-00471,2026-05-28,sucursal centro ,GUADALAJARA,CENTRO,xbox,Zelda,DEPORTES,0,1,Transferencia,Media,,INT-7002,capturista1
+VJ-00668,2026-05-30,sucursal centro ,GUADALAJARA,norte ,,Zelda,DEPORTES,599,2,Transferencia,Muy Alta,cliente frecuente,INT-5841,capturista1
+VJ-00030,2026-04-04,sucursal norte,ciudad de mexico, centro , pc ,Zelda, aventura ,0,2,tarjeta,MEDIA,revisar captura,INT-6843,capturista1
+VJ-00204,2026-04-02,SUCURSAL CENTRO,monterrey ,Occidente, nintendo ,God of War,DEPORTES,,4,tarjeta,Alta,promoción,INT-6072,usuario_tmp
+VJ-00221,2026-03-28,sucursal centro ,CIUDAD DE MÉXICO, centro ,Xbox,Halo,Estrategia,1499,2,Transferencia,muy alta,,INT-2831,admin
+VJ-00016,2026-04-17,sucursal centro ,CDMX,occidente,Nintendo,FIFA,Aventura,0,4,,,cliente frecuente,INT-6156,capturista1
+VJ-00131,2026-02-10,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Centro, nintendo ,Minecraft, aventura ,,1,Tarjeta,Muy Alta,sin comentario,INT-1523,admin
+VJ-00147,2026-06-18,Sucursal Centro, Ciudad de México ,Occidente,PlayStation,FIFA,DEPORTES,,2,Transferencia,muy alta,promoción,INT-7984,usuario_tmp
+VJ-00420,2026-06-14,Sucursal Centro,CDMX,norte ,PLAYSTATION,God of War,estrategia ,0,1, transferencia ,Media,cliente frecuente,INT-2737,capturista1
+VJ-00599,2026-03-13,Sucursal Norte, Ciudad de México ,occidente,Nintendo,Call of Duty,ACCION,1799,1,Tarjeta,alta ,sin comentario,INT-6374,admin
+VJ-00576,2026-01-03,,CDMX, centro ,NINTENDO,Minecraft,estrategia ,1499,,,,cliente frecuente,INT-1408,capturista1
+VJ-00188,2026-05-09,Sucursal Sur,monterrey ,Centro,PlayStation,God of War,Accion,1799,,Transferencia,baja,,INT-9467,capturista1
+VJ-00107,2026-02-27,Sucursal Centro,CDMX,Occidente, nintendo ,Call of Duty,Accion,999,2,tarjeta,Media,sin comentario,INT-9385,capturista1
+VJ-00337,2026-01-20,sucursal centro ,CDMX,norte ,Xbox,Fortnite,Aventura,999,4,efectivo ,Media,revisar captura,INT-5541,capturista2
+VJ-00404,2026-04-05,SUCURSAL CENTRO,Monterrey, centro , pc ,God of War, aventura ,999,,TARJETA,,promoción,INT-2672,capturista1
+VJ-00557,2026-04-22,Sucursal Sur,ciudad de mexico,norte ,NINTENDO,Halo,Deportes,,1,,,promoción,INT-9912,capturista2
+VJ-00160,2026-06-22,SUCURSAL CENTRO,CIUDAD DE MÉXICO,occidente,Xbox,FIFA,DEPORTES,0,3,Tarjeta,Muy Alta,revisar captura,INT-7313,admin
+VJ-00132,2026-02-11,Sucursal Norte, Ciudad de México ,Centro,xbox,Call of Duty,ACCION,799,1,TARJETA,Alta,sin comentario,INT-2466,capturista2
+VJ-00574,2026-06-18,Sucursal Sur,GUADALAJARA,norte ,PlayStation,Pokemon,estrategia ,0,1,Transferencia,Muy Alta,promoción,INT-6403,capturista1
+VJ-00450,2026-01-24,Sucursal Centro,CDMX,Occidente,PLAYSTATION,God of War,Accion,999,1, transferencia ,MEDIA,cliente frecuente,INT-8819,admin
+VJ-00033,2026-02-10,Sucursal Sur,Guadalajara,Occidente, nintendo ,Mario Kart,Aventura,0,,Tarjeta,alta ,revisar captura,INT-3589,admin
+VJ-00044,2026-05-17,sucursal centro , Ciudad de México ,Occidente, playstation ,Spider-Man,Estrategia,599,3,efectivo ,Alta,cliente frecuente,INT-3418,usuario_tmp
+VJ-00109,2026-06-12,Sucursal Sur,Monterrey,norte ,xbox,Fortnite,Acción,999,1,TARJETA,,cliente frecuente,INT-3395,usuario_tmp
+VJ-00177,2026-05-08,Sucursal Norte,monterrey ,CENTRO,NINTENDO,Halo,Estrategia,,2,,Media,cliente frecuente,INT-9293,admin
+VJ-00236,2026-01-15,sucursal norte,CDMX, centro ,xbox,Zelda,Aventura,1499,,tarjeta,muy alta,sin comentario,INT-1569,usuario_tmp
+VJ-00087,2026-05-27,Sucursal Centro,monterrey ,Centro, nintendo ,FIFA,Acción,1799,,,alta ,,INT-3372,capturista2
+VJ-00038,2026-05-16,Sucursal Centro,ciudad de mexico,norte , XBOX ,Pokemon,Acción,599,2,Transferencia,,revisar captura,INT-3001,capturista2
+VJ-00253,2026-06-22,sucursal norte,CIUDAD DE MÉXICO,Centro, playstation ,Fortnite,Estrategia,1199,1,Transferencia,Muy Alta,revisar captura,INT-8339,capturista2
+VJ-00193,2026-02-05,Sucursal Centro,monterrey ,Centro,NINTENDO,Mario Kart,Deportes,,2,Efectivo,Baja ,sin comentario,INT-9176,admin
+VJ-00578,2026-06-07,sucursal norte,GUADALAJARA,Norte,PLAYSTATION,God of War,Aventura,1799,4,tarjeta,Muy Alta,sin comentario,INT-1489,capturista1
+VJ-00638,2026-06-20,sucursal norte, Ciudad de México ,norte , playstation ,Fortnite,DEPORTES,,,Efectivo,MEDIA,,INT-7568,capturista2
+VJ-00151,2026-06-07,Sucursal Centro,monterrey ,CENTRO, playstation ,Halo,ACCION,1799,1,efectivo ,baja,sin comentario,INT-4839,capturista2
+VJ-00041,2026-05-01,sucursal norte,CIUDAD DE MÉXICO,Centro,Xbox,God of War,Accion,1499,1,,Muy Alta,sin comentario,INT-8227,capturista1
+VJ-00533,2026-02-26,sucursal centro ,CDMX, centro , nintendo ,Zelda,Accion,,, transferencia ,baja,cliente frecuente,INT-1591,usuario_tmp
+VJ-00620,2026-03-02,sucursal norte,GUADALAJARA,norte ,Nintendo,FIFA,Accion,,,,baja,,INT-8514,capturista1
+VJ-00338,2026-01-19,sucursal norte,ciudad de mexico,Occidente,PLAYSTATION,Call of Duty,ACCION,1499,1,,baja,revisar captura,INT-7777,capturista2
+VJ-00644,2026-03-26,Sucursal Sur,CIUDAD DE MÉXICO,occidente,xbox,Pokemon,Aventura,1199,2,efectivo ,Baja ,,INT-6920,capturista2
+VJ-00029,2026-03-23,sucursal centro ,Monterrey,occidente,PlayStation,Call of Duty,DEPORTES,1799,1,TARJETA,baja,,INT-3239,capturista2
+VJ-00633,2026-04-21,SUCURSAL CENTRO,CIUDAD DE MÉXICO,CENTRO,PLAYSTATION,Halo,Accion,1799,,tarjeta,Baja ,promoción,INT-6068,usuario_tmp
+VJ-00251,2026-05-24,sucursal norte,CIUDAD DE MÉXICO,occidente,,Call of Duty,Aventura,999,4,Tarjeta,MEDIA,sin comentario,INT-5081,capturista1
+VJ-00181,2026-06-19,Sucursal Sur,ciudad de mexico,Norte,Nintendo,FIFA,ACCION,1799,,,MEDIA,revisar captura,INT-6595,capturista2
+VJ-00102,2026-05-05,sucursal norte,Monterrey,Centro,NINTENDO,Fortnite,Deportes,0,,,,cliente frecuente,INT-6889,capturista2
+VJ-00481,2026-05-14,SUCURSAL CENTRO,ciudad de mexico,norte , XBOX ,Halo,Aventura,,,TARJETA,Media,cliente frecuente,INT-6689,capturista2
+VJ-00283,2026-02-17,SUCURSAL CENTRO,GUADALAJARA,Occidente,Nintendo,Fortnite,Acción,0,2,Tarjeta,,sin comentario,INT-6711,capturista2
+VJ-00630,2026-01-05,SUCURSAL CENTRO,Guadalajara, centro ,xbox,Minecraft,Aventura,599,3,TARJETA,Alta,promoción,INT-1618,capturista1
+VJ-00025,2026-04-19,Sucursal Sur,Guadalajara,CENTRO,PC,Halo,Estrategia,1799,1,,Alta,sin comentario,INT-5401,capturista2
+VJ-00299,2026-04-10,Sucursal Sur,CDMX,CENTRO, nintendo ,Mario Kart, aventura ,1199,,,alta ,promoción,INT-6005,admin
+VJ-00491,2026-03-07,Sucursal Sur,monterrey ,occidente, XBOX ,Fortnite, aventura ,,2,tarjeta,muy alta,,INT-7813,usuario_tmp
+VJ-00010,2026-05-04,sucursal norte,ciudad de mexico,norte , XBOX ,Halo,Accion,599,2, transferencia ,Baja ,,INT-9152,usuario_tmp
+VJ-00636,2026-03-23,sucursal norte,monterrey ,Norte,Xbox,Halo,estrategia ,0,,TARJETA,,revisar captura,INT-3832,usuario_tmp
+VJ-00400,2026-05-09,Sucursal Norte,monterrey ,Centro, playstation ,Fortnite,ACCION,0,2,Efectivo,muy alta,,INT-7567,capturista1
+VJ-00469,2026-06-08,sucursal centro , Ciudad de México , centro ,NINTENDO,Halo,Aventura,999,1,Efectivo,Muy Alta,,INT-1669,capturista1
+VJ-00024,2026-03-10,sucursal centro , Ciudad de México ,occidente,Nintendo,Spider-Man,Deportes,,2, transferencia ,muy alta,revisar captura,INT-9465,capturista1
+VJ-00465,2026-05-31,sucursal norte,CIUDAD DE MÉXICO,CENTRO,NINTENDO,FIFA,estrategia ,999,2,Transferencia,alta ,sin comentario,INT-6565,usuario_tmp
+VJ-00334,2026-01-04,sucursal centro , Ciudad de México ,CENTRO,Nintendo,Zelda,DEPORTES,1799,4,Transferencia,baja,sin comentario,INT-5407,capturista1
+VJ-00202,2026-01-14,SUCURSAL CENTRO, Ciudad de México ,Norte, playstation ,Zelda,ACCION,0,2,Tarjeta,,,INT-5673,admin
+VJ-00418,2026-03-02,Sucursal Sur,monterrey ,norte , nintendo ,Minecraft,ACCION,,2,,,sin comentario,INT-6506,admin
+VJ-00452,2026-04-10,Sucursal Norte,ciudad de mexico,Occidente,xbox,Fortnite,DEPORTES,799,2,efectivo ,,sin comentario,INT-5088,usuario_tmp
+VJ-00524,2026-02-05,sucursal norte,Guadalajara,occidente, playstation ,Fortnite,Acción,999,1, transferencia ,Muy Alta,,INT-8281,capturista2
+VJ-00368,2026-01-16,Sucursal Norte,CIUDAD DE MÉXICO,Occidente, pc ,Spider-Man,DEPORTES,799,1, transferencia ,muy alta,sin comentario,INT-6652,capturista2
+VJ-00582,2026-01-09,Sucursal Centro,monterrey ,norte ,,God of War,ACCION,,1,Transferencia,Baja ,cliente frecuente,INT-8026,usuario_tmp
+VJ-00588,2026-05-08,SUCURSAL CENTRO,ciudad de mexico,Norte,PC,Spider-Man, aventura ,,3,TARJETA,Baja ,sin comentario,INT-5769,usuario_tmp
+VJ-00171,2026-05-20,Sucursal Sur,CDMX,CENTRO,Nintendo,Minecraft,Accion,1499,2,Tarjeta,Alta,cliente frecuente,INT-5063,usuario_tmp
+VJ-00511,2026-04-25,Sucursal Centro,ciudad de mexico, centro ,PC,FIFA, aventura ,0,2,efectivo ,alta ,promoción,INT-2809,admin
+VJ-00522,2026-01-27,Sucursal Sur,CDMX,Norte,PC,Fortnite,DEPORTES,799,3,Efectivo,Media,revisar captura,INT-4005,admin
+VJ-00254,2026-01-01,Sucursal Centro,CIUDAD DE MÉXICO,norte ,PLAYSTATION,Halo, aventura ,,2,,Alta,sin comentario,INT-9573,capturista2
+VJ-00142,2026-05-25,sucursal centro ,CIUDAD DE MÉXICO,occidente,PlayStation,FIFA,DEPORTES,599,1,tarjeta,Alta,sin comentario,INT-9560,usuario_tmp
+VJ-00006,2026-02-16,Sucursal Sur,monterrey , centro ,Nintendo,Zelda,Accion,0,,Efectivo,,sin comentario,INT-4257,capturista1
+VJ-00468,2026-06-10,Sucursal Norte,CDMX,Occidente,PlayStation,God of War,Estrategia,799,4,tarjeta,Media,revisar captura,INT-1575,admin
+VJ-00526,2026-04-18,Sucursal Norte, Ciudad de México ,Occidente,PLAYSTATION,Zelda,estrategia ,1199,1,efectivo ,MEDIA,promoción,INT-6525,admin
+VJ-00203,2026-05-01,sucursal centro ,GUADALAJARA, centro ,NINTENDO,Mario Kart,ACCION,,,efectivo ,Alta,cliente frecuente,INT-1200,capturista2
+VJ-00635,2026-03-17,SUCURSAL CENTRO,ciudad de mexico,Occidente, nintendo ,Pokemon,estrategia ,,2, transferencia ,alta ,,INT-4896,capturista2
+VJ-00140,2026-01-26,Sucursal Centro,CIUDAD DE MÉXICO,Occidente, pc ,Zelda,Acción,1799,,efectivo ,Alta,,INT-6300,capturista1
+VJ-00645,2026-02-02,sucursal norte,GUADALAJARA,occidente, nintendo ,Mario Kart,Acción,599,2,Tarjeta,Alta,cliente frecuente,INT-9985,capturista2
+VJ-00111,2026-05-14,Sucursal Sur,CDMX,occidente,Xbox,Minecraft,Aventura,,1,Efectivo,Baja ,revisar captura,INT-1048,usuario_tmp
+VJ-00657,2026-06-20,Sucursal Centro,GUADALAJARA,CENTRO,Nintendo,Zelda,Accion,799,3,TARJETA,baja,sin comentario,INT-1339,usuario_tmp
+VJ-00459,2026-06-30,sucursal norte,CIUDAD DE MÉXICO,occidente, XBOX ,Fortnite,ACCION,,3, transferencia ,baja,revisar captura,INT-2935,usuario_tmp
+VJ-00035,2026-02-06,Sucursal Sur,GUADALAJARA,Norte,NINTENDO,Spider-Man,estrategia ,1199,,efectivo ,,revisar captura,INT-1686,admin
+VJ-00387,2026-06-06,SUCURSAL CENTRO,Monterrey,occidente,xbox,Mario Kart,Acción,,2, transferencia ,MEDIA,cliente frecuente,INT-1810,usuario_tmp
+VJ-00388,2026-02-02,sucursal norte,CDMX,CENTRO,Nintendo,God of War,Accion,,1,Efectivo,baja,revisar captura,INT-2236,admin
+VJ-00365,2026-05-07,SUCURSAL CENTRO,Guadalajara, centro ,xbox,Spider-Man,Deportes,1499,4,Tarjeta,Muy Alta,cliente frecuente,INT-9769,capturista1
+VJ-00125,2026-02-08,Sucursal Norte,Monterrey,CENTRO,PC,Minecraft,Estrategia,1799,4,Efectivo,muy alta,sin comentario,INT-4849,usuario_tmp
+VJ-00498,2026-06-11,Sucursal Centro,monterrey ,Norte, nintendo ,Spider-Man,Accion,599,4,TARJETA,,,INT-3504,admin
+VJ-00407,2026-02-10,Sucursal Sur,CIUDAD DE MÉXICO,occidente,Xbox,Spider-Man,estrategia ,0,3,Tarjeta,Media,promoción,INT-1116,capturista1
+VJ-00408,2026-05-08,Sucursal Norte, Ciudad de México ,Centro,xbox,Call of Duty,Acción,0,1,TARJETA,,,INT-7822,admin
+VJ-00167,2026-02-14,SUCURSAL CENTRO,GUADALAJARA,Norte,PlayStation,Zelda,ACCION,799,1,TARJETA,MEDIA,cliente frecuente,INT-6149,usuario_tmp
+VJ-00460,2026-04-25,SUCURSAL CENTRO,Guadalajara,Centro, playstation ,Halo,estrategia ,1799,1,,Muy Alta,promoción,INT-5086,capturista1
+VJ-00464,2026-02-20,Sucursal Centro,CIUDAD DE MÉXICO,Norte,Nintendo,God of War,Deportes,799,,Transferencia,,revisar captura,INT-2326,admin
+VJ-00192,2026-05-14,SUCURSAL CENTRO,Monterrey, centro , pc ,Fortnite, aventura ,1199,1,Efectivo,muy alta,cliente frecuente,INT-1320,admin
+VJ-00028,2026-01-06,Sucursal Norte,Guadalajara,Norte,Xbox,Halo,Accion,,2,tarjeta,alta ,revisar captura,INT-6326,usuario_tmp
+VJ-00145,2026-02-08,Sucursal Norte,Guadalajara,Centro, XBOX ,Spider-Man,Accion,,1,Transferencia,baja,sin comentario,INT-1576,capturista1
+VJ-00554,2026-05-12,SUCURSAL CENTRO,CIUDAD DE MÉXICO,occidente, pc ,Fortnite,DEPORTES,599,1,tarjeta,baja,,INT-6604,capturista2
+VJ-00640,2026-03-28,Sucursal Sur,CIUDAD DE MÉXICO,Centro,PlayStation,Call of Duty,Aventura,799,1,Transferencia,baja,revisar captura,INT-6501,admin
+VJ-00126,2026-03-28,sucursal norte,ciudad de mexico, centro , playstation ,FIFA,Accion,599,,,Alta,revisar captura,INT-9110,capturista2
+VJ-00112,2026-01-30,sucursal centro ,Guadalajara, centro , XBOX ,Minecraft,Deportes,999,,efectivo ,Baja ,cliente frecuente,INT-4116,capturista1
+VJ-00475,2026-03-30,SUCURSAL CENTRO,Monterrey,norte ,PLAYSTATION,God of War,ACCION,0,2, transferencia ,Muy Alta,revisar captura,INT-9335,capturista2
+VJ-00598,2026-04-28,Sucursal Norte,CIUDAD DE MÉXICO,norte , playstation ,FIFA,Accion,0,3,,,cliente frecuente,INT-3616,capturista2
+VJ-00046,2026-06-09,Sucursal Centro,CDMX,Norte,Nintendo,Fortnite,ACCION,0,3,efectivo ,MEDIA,revisar captura,INT-7465,capturista1
+VJ-00318,2026-06-25,Sucursal Norte,GUADALAJARA,Centro, XBOX ,Mario Kart,Acción,799,2,TARJETA,alta ,sin comentario,INT-4134,capturista1
+VJ-00133,2026-04-15,Sucursal Norte,ciudad de mexico,Centro, pc ,Mario Kart, aventura ,1799,1, transferencia ,,promoción,INT-6529,capturista1
+VJ-00458,2026-01-25,Sucursal Norte,CIUDAD DE MÉXICO,Norte,Xbox,Minecraft,Deportes,1199,3,Tarjeta,MEDIA,promoción,INT-5683,capturista1
+VJ-00378,2026-06-25,sucursal centro ,monterrey ,occidente, XBOX ,God of War, aventura ,,2,Tarjeta,,cliente frecuente,INT-9708,capturista2
+VJ-00664,2026-01-15,sucursal norte,CDMX,occidente,PC,Mario Kart,Estrategia,1799,2,Efectivo,Muy Alta,cliente frecuente,INT-1479,capturista1
+VJ-00449,,Sucursal Centro,,Occidente,PC,Halo,Acción,0,2,TARJETA,,,INT-4473,capturista1
+VJ-00288,2026-02-12,SUCURSAL CENTRO,GUADALAJARA,Centro,PC,Call of Duty,Deportes,,, transferencia ,Alta,cliente frecuente,INT-2969,capturista1
+VJ-00397,2026-06-16,SUCURSAL CENTRO,ciudad de mexico,Norte,PC,Minecraft,DEPORTES,1499,1,efectivo ,baja,,INT-9191,capturista2
+VJ-00155,2026-01-27,SUCURSAL CENTRO,CDMX,norte , playstation ,Zelda,ACCION,,1,tarjeta,,sin comentario,INT-6322,usuario_tmp
+VJ-00508,2026-04-18,Sucursal Centro,monterrey ,Norte,Xbox,Minecraft,Estrategia,1799,3,tarjeta,Alta,revisar captura,INT-4594,admin
+VJ-00319,2026-03-17,Sucursal Centro,monterrey ,CENTRO,NINTENDO,Zelda,Accion,1799,3,tarjeta,Media,promoción,INT-7090,capturista1
+VJ-00248,2026-02-17,Sucursal Norte, Ciudad de México ,CENTRO,,Call of Duty,Acción,,,efectivo ,Media,sin comentario,INT-5994,admin
+VJ-00361,2026-03-12,sucursal centro ,monterrey , centro , pc ,Fortnite,Estrategia,1799,3,Tarjeta,Alta,cliente frecuente,INT-4865,capturista1
+VJ-00488,2026-01-17,Sucursal Sur,CDMX,Norte, playstation ,Minecraft,Estrategia,1199,2,Efectivo,,,INT-7300,capturista1
+VJ-00418,2026-03-02,Sucursal Sur,monterrey ,norte , nintendo ,Minecraft,ACCION,,2,,,sin comentario,INT-6506,admin
+VJ-00443,2026-06-30,SUCURSAL CENTRO,GUADALAJARA, centro , XBOX ,Halo,Aventura,,2,Efectivo,Baja ,promoción,INT-2833,usuario_tmp
+VJ-00245,2026-03-16,Sucursal Centro,CDMX,Occidente, pc ,FIFA,Accion,599,4,Transferencia,MEDIA,sin comentario,INT-4724,usuario_tmp
+VJ-00232,2026-04-02,Sucursal Centro,CDMX,CENTRO, XBOX ,Call of Duty,Aventura,1799,2,TARJETA,muy alta,sin comentario,INT-5242,capturista1
+VJ-00502,2026-05-20,Sucursal Sur,CDMX,Occidente,PLAYSTATION,Halo,Estrategia,1499,2,tarjeta,Muy Alta,promoción,INT-6726,admin
+VJ-00637,2026-01-06,sucursal norte,monterrey ,occidente, pc ,Halo,Acción,799,2,Transferencia,Media,revisar captura,INT-8926,usuario_tmp
+VJ-00021,2026-05-13,Sucursal Centro,CDMX,Centro,Xbox,Pokemon,Aventura,599,1,TARJETA,Baja ,sin comentario,INT-7245,capturista2
+VJ-00650,2026-05-31,sucursal centro ,GUADALAJARA,Occidente, playstation ,Fortnite,Deportes,1799,2, transferencia ,,,INT-3127,admin
+VJ-00350,2026-01-14,Sucursal Centro,,CENTRO,NINTENDO,Mario Kart,estrategia ,1499,1,Tarjeta,Muy Alta,,INT-6869,usuario_tmp
+VJ-00218,2026-06-10,SUCURSAL CENTRO, Ciudad de México ,CENTRO, nintendo ,Pokemon, aventura ,1199,1,TARJETA,Muy Alta,,INT-7261,capturista2
+VJ-00646,2026-04-05,Sucursal Norte,CIUDAD DE MÉXICO,Centro,,Zelda,Aventura,0,3,Efectivo,alta ,cliente frecuente,INT-3810,capturista2
+VJ-00325,2026-05-27,Sucursal Norte,ciudad de mexico,Norte, XBOX ,Spider-Man,Acción,999,1,,Muy Alta,promoción,INT-6809,capturista1
+VJ-00172,2026-03-07,Sucursal Centro,Guadalajara,CENTRO,PC,Halo,Acción,,4, transferencia ,MEDIA,sin comentario,INT-9123,capturista1
+VJ-00269,2026-06-12,SUCURSAL CENTRO, Ciudad de México ,occidente,xbox,Fortnite,Deportes,1199,,,MEDIA,sin comentario,INT-2208,usuario_tmp
+VJ-00510,2026-05-22,sucursal centro ,GUADALAJARA,Occidente, XBOX ,Halo, aventura ,1799,3,efectivo ,Alta,,INT-6754,usuario_tmp
+VJ-00314,2026-02-19,SUCURSAL CENTRO,monterrey ,Norte,PC,FIFA,Estrategia,1799,2,TARJETA,baja,promoción,INT-3966,capturista1
+VJ-00610,2026-06-28,Sucursal Centro,GUADALAJARA, centro ,Xbox,Spider-Man, aventura ,799,,Transferencia,Muy Alta,revisar captura,INT-8941,capturista2
+VJ-00602,2026-04-28,sucursal norte,CDMX,occidente, nintendo ,Halo,Acción,,,tarjeta,Muy Alta,revisar captura,INT-1441,usuario_tmp
+VJ-00562,2026-02-15,Sucursal Sur, Ciudad de México ,occidente,PlayStation,Pokemon,Acción,999,1,,alta ,sin comentario,INT-2879,capturista1
+VJ-00306,2026-04-14,sucursal norte,ciudad de mexico,Centro,Nintendo,Spider-Man,Aventura,1799,1,efectivo ,Media,promoción,INT-5833,usuario_tmp
+VJ-00606,2026-02-14,Sucursal Sur, Ciudad de México ,Norte,xbox,Zelda,Accion,1199,1,tarjeta,Muy Alta,promoción,INT-2842,usuario_tmp
+VJ-00662,2026-04-08,sucursal centro ,CDMX,Centro, XBOX ,Minecraft,Acción,1499,,tarjeta,muy alta,promoción,INT-8898,admin
+VJ-00613,2026-06-11,sucursal centro ,monterrey ,Norte, pc ,Mario Kart,Estrategia,1199,1, transferencia ,baja,sin comentario,INT-2634,usuario_tmp
+VJ-00399,2026-04-26,Sucursal Sur,Monterrey,norte ,PC,Mario Kart,Estrategia,1199,1,TARJETA,Baja ,sin comentario,INT-5253,capturista1
+VJ-00384,2026-06-27,sucursal norte,GUADALAJARA,Norte,,God of War,DEPORTES,1499,2, transferencia ,Muy Alta,,INT-9730,capturista1
+VJ-00037,2026-03-27,Sucursal Sur,CIUDAD DE MÉXICO,occidente,xbox,God of War,Aventura,999,,TARJETA,alta ,revisar captura,INT-7252,usuario_tmp
+VJ-00108,2026-05-11,SUCURSAL CENTRO,Guadalajara,norte , nintendo ,FIFA,Estrategia,799,3,efectivo ,Baja ,promoción,INT-1389,capturista2
+VJ-00071,2026-03-03,sucursal centro ,CDMX,,,Zelda, aventura ,1799,1,TARJETA,muy alta,,INT-9069,admin
+VJ-00293,2026-02-01,Sucursal Sur,ciudad de mexico, centro , pc ,Minecraft,ACCION,799,3,TARJETA,Alta,promoción,INT-9117,capturista1
+VJ-00210,2026-05-30,SUCURSAL CENTRO,Monterrey,Occidente, pc ,Fortnite,Acción,1499,, transferencia ,Muy Alta,sin comentario,INT-2435,capturista2
+VJ-00056,,sucursal centro ,CIUDAD DE MÉXICO,Norte,PC,Mario Kart,estrategia ,0,2,Efectivo,alta ,promoción,INT-2909,admin
+VJ-00233,2026-01-22,Sucursal Norte,Guadalajara,occidente,NINTENDO,Minecraft,Deportes,599,1,,Muy Alta,sin comentario,INT-8841,capturista1
+VJ-00489,2026-06-01,Sucursal Norte,monterrey ,occidente, playstation ,Pokemon, aventura ,999,3,TARJETA,Muy Alta,promoción,INT-6141,admin
+VJ-00307,2026-05-10,sucursal norte,ciudad de mexico,Occidente,PLAYSTATION,FIFA,Acción,,3,tarjeta,alta ,cliente frecuente,INT-4839,capturista1
+VJ-00246,2026-05-08,sucursal norte,GUADALAJARA,Centro,,Mario Kart, aventura ,0,1,tarjeta,baja,promoción,INT-1283,admin
+VJ-00501,2026-02-04,, Ciudad de México ,Occidente,Xbox,Fortnite, aventura ,1499,2,Transferencia,muy alta,revisar captura,INT-8179,capturista2
+VJ-00049,2026-05-24,sucursal centro ,Monterrey,norte , nintendo ,Zelda,estrategia ,0,1,efectivo ,alta ,sin comentario,INT-8493,capturista2
+VJ-00180,2026-06-29,SUCURSAL CENTRO,CIUDAD DE MÉXICO,norte ,Xbox,Pokemon,ACCION,0,2, transferencia ,,,INT-3798,admin
+VJ-00351,2026-05-20,Sucursal Norte,GUADALAJARA,Occidente,NINTENDO,God of War,DEPORTES,,3,Transferencia,,cliente frecuente,INT-8899,usuario_tmp
+VJ-00429,2026-03-08,sucursal norte,ciudad de mexico, centro , pc ,Spider-Man,ACCION,799,2,Transferencia,MEDIA,revisar captura,INT-5447,capturista2
+VJ-00011,2026-03-15,sucursal norte,Guadalajara,norte ,PlayStation,God of War,Deportes,,, transferencia ,MEDIA,cliente frecuente,INT-3568,capturista2
+VJ-00581,2026-05-22,sucursal norte,monterrey ,,PlayStation,God of War,Accion,799,2, transferencia ,baja,,INT-5299,usuario_tmp
+VJ-00601,2026-03-15,SUCURSAL CENTRO,CDMX,CENTRO,Nintendo,Fortnite,Accion,1499,1,efectivo ,MEDIA,sin comentario,INT-8070,capturista1
+VJ-00240,2026-04-07,SUCURSAL CENTRO, Ciudad de México ,Centro,Nintendo,Halo,ACCION,1799,1,,,revisar captura,INT-3024,usuario_tmp
+VJ-00217,2026-06-06,Sucursal Centro,Monterrey,Norte, playstation ,Zelda,Aventura,1199,,tarjeta,,sin comentario,INT-5119,admin
+VJ-00271,2026-04-04,Sucursal Sur,Guadalajara,Occidente,Xbox,Pokemon,Aventura,1799,3,,,promoción,INT-7027,admin
+VJ-00364,2026-05-29,sucursal centro ,monterrey ,Centro,PLAYSTATION,FIFA,Aventura,0,3,Transferencia,Media,promoción,INT-1803,usuario_tmp
+VJ-00412,2026-04-26,Sucursal Sur,monterrey , centro ,Nintendo,Zelda,ACCION,599,2,,,revisar captura,INT-2021,capturista1
+VJ-00571,2026-02-03,sucursal centro ,ciudad de mexico,Occidente,NINTENDO,Zelda,ACCION,,2,efectivo ,Baja ,sin comentario,INT-7050,capturista1
+VJ-00096,2026-06-10,Sucursal Norte, Ciudad de México ,CENTRO, XBOX ,God of War, aventura ,1199,4,tarjeta,,revisar captura,INT-5375,admin
+VJ-00453,2026-02-15,Sucursal Centro,CIUDAD DE MÉXICO, centro ,PLAYSTATION,God of War,Aventura,1199,3,TARJETA,Media,sin comentario,INT-8154,usuario_tmp
+VJ-00478,2026-04-29,Sucursal Norte,Guadalajara,norte , pc ,Mario Kart,Aventura,1199,4,TARJETA,Media,,INT-1651,admin
+VJ-00379,2026-02-07,sucursal norte, Ciudad de México ,CENTRO,Xbox,Call of Duty,Acción,999,1,efectivo ,muy alta,promoción,INT-1984,admin
+VJ-00148,2026-04-02,sucursal centro ,Monterrey,norte ,Xbox,FIFA,Estrategia,1199,2,Transferencia,Baja ,promoción,INT-5153,usuario_tmp
+VJ-00389,2026-02-01,Sucursal Sur,CIUDAD DE MÉXICO,CENTRO,Xbox,FIFA,Deportes,,1,,Alta,revisar captura,INT-3364,admin
+VJ-00241,2026-02-16,sucursal norte,GUADALAJARA,occidente,PlayStation,Zelda, aventura ,0,1,tarjeta,baja,revisar captura,INT-9820,admin
+VJ-00528,2026-03-27,sucursal centro ,Monterrey,norte ,Nintendo,Pokemon,Estrategia,,,Transferencia,Alta,sin comentario,INT-7301,capturista1
+VJ-00603,2026-05-04,Sucursal Centro,monterrey ,norte , nintendo ,Spider-Man,Accion,0,4,,,revisar captura,INT-6788,capturista1
+VJ-00649,2026-02-04,Sucursal Sur,Monterrey,Centro, XBOX ,Mario Kart,Acción,999,1, transferencia ,,sin comentario,INT-2612,admin
+VJ-00154,2026-01-13,SUCURSAL CENTRO,Guadalajara, centro , nintendo ,Spider-Man,estrategia ,0,,efectivo ,Muy Alta,sin comentario,INT-8834,admin
+VJ-00130,,Sucursal Centro,CIUDAD DE MÉXICO,occidente,Xbox,Fortnite, aventura ,,1,,muy alta,promoción,INT-9139,usuario_tmp
+VJ-00170,2026-02-12,Sucursal Sur,Guadalajara,norte , playstation ,Zelda,Aventura,1499,1,Transferencia,,cliente frecuente,INT-8232,admin
+VJ-00305,,Sucursal Norte,CDMX,occidente,NINTENDO,Minecraft,Acción,599,,Efectivo,Alta,,INT-1022,capturista1
+VJ-00047,2026-06-07,SUCURSAL CENTRO,monterrey ,occidente,PC,Minecraft,ACCION,1499,4, transferencia ,MEDIA,,INT-9141,admin
+VJ-00437,2026-05-03,Sucursal Sur,GUADALAJARA,Occidente, nintendo ,FIFA,estrategia ,1799,3,Transferencia,Media,sin comentario,INT-7272,capturista2
+VJ-00521,2026-01-05,Sucursal Centro,CIUDAD DE MÉXICO,norte ,Nintendo,Zelda, aventura ,0,2,Transferencia,muy alta,cliente frecuente,INT-2540,admin
+VJ-00548,2026-06-29,Sucursal Sur,Guadalajara, centro ,PC,Mario Kart,DEPORTES,1199,1,efectivo ,alta ,cliente frecuente,INT-3515,capturista2
+VJ-00473,2026-02-14,sucursal centro , Ciudad de México ,Centro,Xbox,God of War,ACCION,1499,1,tarjeta,muy alta,promoción,INT-2393,usuario_tmp
+VJ-00242,2026-05-21,SUCURSAL CENTRO,Monterrey, centro ,xbox,Zelda,Accion,1199,1,,Baja ,revisar captura,INT-6329,admin
+VJ-00117,2026-02-10,sucursal norte, Ciudad de México ,Occidente,Nintendo,Halo,DEPORTES,599,,,baja,,INT-8423,capturista1
+VJ-00455,2026-04-24,sucursal norte,,Centro, XBOX ,Call of Duty,Aventura,1799,,,Muy Alta,revisar captura,INT-9337,capturista2
+VJ-00008,2026-04-17,Sucursal Norte,CIUDAD DE MÉXICO,Centro,PLAYSTATION,Fortnite,Deportes,999,2,,muy alta,cliente frecuente,INT-8375,capturista2
+VJ-00129,2026-05-10,SUCURSAL CENTRO,monterrey ,Centro,PlayStation,Pokemon,Estrategia,799,3,,Baja ,revisar captura,INT-9725,usuario_tmp
+VJ-00538,2026-03-09,Sucursal Centro,Monterrey,Centro, nintendo ,Minecraft,Deportes,999,4,,Media,,INT-9621,capturista1
+VJ-00290,2026-03-01,Sucursal Sur,CIUDAD DE MÉXICO, centro ,Xbox,Minecraft, aventura ,1499,2, transferencia ,,cliente frecuente,INT-6749,capturista1
+VJ-00677,2026-05-15,sucursal centro ,GUADALAJARA,Occidente, pc ,Pokemon, aventura ,799,1,TARJETA,Alta,cliente frecuente,INT-4523,admin
+VJ-00435,2026-02-22,sucursal centro ,Guadalajara,Centro,Xbox,Pokemon,Acción,799,,Transferencia,baja,revisar captura,INT-4299,capturista1
+VJ-00158,2026-02-01,sucursal norte,Guadalajara,norte , playstation ,God of War,Accion,999,3, transferencia ,baja,,INT-9490,capturista2
+VJ-00570,2026-05-21,Sucursal Norte,CDMX,Occidente,PC,Halo,DEPORTES,799,1, transferencia ,Alta,cliente frecuente,INT-1008,capturista1
+VJ-00143,2026-06-04,Sucursal Norte, Ciudad de México ,norte ,Nintendo,Halo,Estrategia,1799,4,Transferencia,muy alta,,INT-5829,capturista1
+VJ-00665,2026-06-03,Sucursal Norte,,,,Mario Kart,Acción,,2,efectivo ,Media,revisar captura,INT-5799,capturista1
+VJ-00476,2026-02-02,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Norte,NINTENDO,Pokemon,Acción,1499,4,efectivo ,Media,,INT-1538,admin
+VJ-00373,2026-02-13,SUCURSAL CENTRO,GUADALAJARA,occidente,PLAYSTATION,Halo,Accion,799,1,TARJETA,Media,revisar captura,INT-1967,capturista2
+VJ-00433,2026-05-17,SUCURSAL CENTRO,Guadalajara,norte , nintendo ,Pokemon,Accion,0,4,efectivo ,,revisar captura,INT-1143,capturista1
+VJ-00530,2026-01-13,sucursal centro ,monterrey ,Occidente, nintendo ,Mario Kart,Deportes,0,2,Tarjeta,Baja ,revisar captura,INT-5832,usuario_tmp
+VJ-00463,2026-04-25,Sucursal Sur,CIUDAD DE MÉXICO,norte ,PC,Minecraft,Aventura,1199,3,Efectivo,baja,promoción,INT-3471,capturista1
+VJ-00390,2026-05-21,sucursal centro , Ciudad de México ,occidente,PlayStation,Mario Kart,DEPORTES,1199,1,tarjeta,Media,revisar captura,INT-7647,capturista2
+VJ-00586,2026-01-05,Sucursal Norte,GUADALAJARA,Centro,Xbox,Fortnite,estrategia ,1799,1,tarjeta,baja,revisar captura,INT-9139,admin
+VJ-00676,,Sucursal Centro,Monterrey,, XBOX ,FIFA,Aventura,,1,Efectivo,Baja ,revisar captura,INT-6024,capturista2
+VJ-00634,2026-03-11,SUCURSAL CENTRO,Guadalajara,Norte,PlayStation,Zelda, aventura ,599,2,Transferencia,baja,sin comentario,INT-7170,capturista2
+VJ-00213,2026-02-13,Sucursal Centro,CIUDAD DE MÉXICO,CENTRO, playstation ,Zelda,estrategia ,1799,2,Efectivo,,promoción,INT-3149,capturista1
+VJ-00027,2026-01-28,sucursal norte,CIUDAD DE MÉXICO,Occidente,xbox,Fortnite,Estrategia,599,4,tarjeta,Baja ,sin comentario,INT-9028,capturista1
+VJ-00427,2026-04-30,Sucursal Sur,,Centro,xbox,Fortnite,Acción,599,,efectivo ,baja,promoción,INT-3550,admin
+VJ-00292,2026-03-01,,CDMX,Centro, pc ,Minecraft,Aventura,999,3,Efectivo,Muy Alta,cliente frecuente,INT-9097,admin
+VJ-00074,2026-03-22,Sucursal Norte,CIUDAD DE MÉXICO,Centro,Nintendo,Spider-Man,ACCION,1499,3,Transferencia,Media,sin comentario,INT-3263,capturista2
+VJ-00234,2026-06-21,sucursal centro ,, centro ,PlayStation,Call of Duty,Estrategia,599,1,efectivo ,baja,promoción,INT-5272,capturista2
+VJ-00430,2026-05-11,sucursal norte,GUADALAJARA,CENTRO,Xbox,God of War,Accion,,2, transferencia ,,sin comentario,INT-6405,admin
+VJ-00593,2026-05-12,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Occidente, playstation ,Spider-Man, aventura ,1499,1,TARJETA,muy alta,sin comentario,INT-9329,capturista1
+VJ-00098,2026-02-25,sucursal norte,ciudad de mexico,Occidente, nintendo ,Minecraft,Aventura,1799,3,Tarjeta,alta ,promoción,INT-1463,usuario_tmp
+VJ-00097,2026-04-07,Sucursal Sur,ciudad de mexico, centro ,xbox,Halo,Accion,1799,3, transferencia ,,cliente frecuente,INT-7536,admin
+VJ-00590,2026-01-30,sucursal norte, Ciudad de México , centro ,PlayStation,Call of Duty,estrategia ,999,4,,alta ,revisar captura,INT-2858,usuario_tmp
+VJ-00485,2026-02-08,SUCURSAL CENTRO,CDMX,Norte,PLAYSTATION,Fortnite,Aventura,,4,TARJETA,baja,promoción,INT-2478,capturista2
+VJ-00031,2026-04-28,Sucursal Sur,monterrey ,Centro, nintendo ,Spider-Man,Accion,999,1,,Muy Alta,cliente frecuente,INT-3386,admin
+VJ-00110,2026-04-01,Sucursal Sur,,norte ,NINTENDO,Halo,Deportes,1499,3,Transferencia,muy alta,promoción,INT-4367,capturista2
+VJ-00381,2026-03-13,Sucursal Centro, Ciudad de México ,Norte,PC,Call of Duty,Aventura,,,Transferencia,MEDIA,promoción,INT-8551,capturista2
+VJ-00515,2026-02-03,sucursal centro ,Monterrey,Centro,xbox,Pokemon,Estrategia,,2,TARJETA,Baja ,cliente frecuente,INT-9944,capturista1
+VJ-00446,2026-04-17,Sucursal Sur,monterrey ,occidente,PLAYSTATION,Minecraft,Aventura,1199,2,Tarjeta,,promoción,INT-5804,capturista1
+VJ-00264,2026-02-13,Sucursal Norte,CIUDAD DE MÉXICO,norte ,PLAYSTATION,Fortnite,Deportes,1199,3,TARJETA,,cliente frecuente,INT-6881,capturista1
+VJ-00447,2026-06-28,sucursal norte,CIUDAD DE MÉXICO,Centro,PlayStation,Fortnite, aventura ,,, transferencia ,Baja ,sin comentario,INT-9234,admin
+VJ-00086,2026-06-23,Sucursal Norte,Monterrey,occidente, nintendo ,Zelda,Aventura,599,4, transferencia ,,revisar captura,INT-8233,usuario_tmp
+VJ-00239,2026-01-17,Sucursal Norte,ciudad de mexico,CENTRO, pc ,Mario Kart,Aventura,599,1,Tarjeta,Baja ,revisar captura,INT-5912,capturista1
+VJ-00477,2026-06-29,SUCURSAL CENTRO,ciudad de mexico,Norte, pc ,Call of Duty,Estrategia,1199,1,TARJETA,MEDIA,promoción,INT-8746,usuario_tmp
+VJ-00136,2026-02-06,Sucursal Centro,monterrey ,occidente, XBOX ,Fortnite,DEPORTES,799,1,,Muy Alta,sin comentario,INT-2199,capturista1
+VJ-00002,2026-06-25,SUCURSAL CENTRO,GUADALAJARA,Norte,PLAYSTATION,Mario Kart,estrategia ,,2,tarjeta,MEDIA,revisar captura,INT-6062,admin
+VJ-00587,2026-05-03,sucursal centro ,GUADALAJARA,Norte,PLAYSTATION,Fortnite,DEPORTES,599,1,Efectivo,Media,promoción,INT-1270,usuario_tmp
+VJ-00052,2026-02-16,sucursal norte, Ciudad de México ,, playstation ,Minecraft, aventura ,0,2, transferencia ,Media,sin comentario,INT-7725,admin
+VJ-00487,2026-05-21,Sucursal Sur,Guadalajara,Norte,PlayStation,Spider-Man,estrategia ,0,2,,Media,revisar captura,INT-9918,capturista2
+VJ-00206,2026-04-30,sucursal norte,ciudad de mexico,Centro, playstation ,God of War,Estrategia,1499,, transferencia ,Media,revisar captura,INT-9058,capturista1
+VJ-00431,2026-05-28,sucursal centro ,Monterrey,norte ,Xbox,Pokemon,Accion,,1,,baja,promoción,INT-5546,usuario_tmp
+VJ-00263,2026-04-03,SUCURSAL CENTRO,Monterrey,CENTRO,,Spider-Man,Deportes,599,3,TARJETA,,revisar captura,INT-6415,capturista2
+VJ-00445,2026-03-25,sucursal centro ,CDMX,Occidente,PlayStation,FIFA,estrategia ,1499,1, transferencia ,muy alta,sin comentario,INT-4788,usuario_tmp
+VJ-00461,,sucursal centro ,Monterrey,Centro, pc ,God of War,ACCION,999,4,Tarjeta,,cliente frecuente,INT-2620,capturista1
+VJ-00035,2026-02-06,Sucursal Sur,GUADALAJARA,Norte,NINTENDO,Spider-Man,estrategia ,1199,,efectivo ,,revisar captura,INT-1686,admin
+VJ-00659,2026-01-29,Sucursal Sur,GUADALAJARA,occidente,Nintendo,Spider-Man,DEPORTES,0,3, transferencia ,Muy Alta,promoción,INT-4521,usuario_tmp
+VJ-00656,2026-06-25,sucursal centro ,Monterrey,Centro,NINTENDO,Mario Kart,Estrategia,599,,,Alta,,INT-6747,usuario_tmp
+VJ-00432,2026-03-12,SUCURSAL CENTRO,GUADALAJARA,Norte,PLAYSTATION,Call of Duty,Estrategia,1499,,efectivo ,alta ,sin comentario,INT-2725,usuario_tmp
+VJ-00235,2026-03-12,sucursal centro ,CIUDAD DE MÉXICO,occidente,PC,FIFA,Estrategia,599,2,Transferencia,alta ,promoción,INT-3591,admin
+VJ-00399,2026-04-26,Sucursal Sur,Monterrey,norte ,PC,Mario Kart,Estrategia,1199,1,TARJETA,Baja ,sin comentario,INT-5253,capturista1
+VJ-00641,2026-05-06,SUCURSAL CENTRO,Monterrey,occidente,Xbox,FIFA, aventura ,,2,tarjeta,muy alta,sin comentario,INT-6187,usuario_tmp
+VJ-00104,2026-01-11,Sucursal Norte,ciudad de mexico, centro ,NINTENDO,Fortnite,estrategia ,1199,1,Efectivo,muy alta,cliente frecuente,INT-5948,capturista2
+VJ-00609,2026-03-29,SUCURSAL CENTRO, Ciudad de México ,Occidente,Xbox,Pokemon,Acción,0,3,Tarjeta,alta ,cliente frecuente,INT-7189,capturista1
+VJ-00483,2026-02-01,sucursal norte,CDMX,Occidente, pc ,Minecraft,Deportes,1199,2,TARJETA,baja,revisar captura,INT-9338,admin
+VJ-00340,2026-03-16,Sucursal Sur, Ciudad de México ,Norte,NINTENDO,Fortnite,Estrategia,,2,Efectivo,alta ,promoción,INT-3717,usuario_tmp
+VJ-00535,2026-05-19,sucursal centro , Ciudad de México ,Norte,Nintendo,God of War,Estrategia,1499,, transferencia ,Media,promoción,INT-3939,usuario_tmp
+VJ-00150,2026-05-06,Sucursal Sur,ciudad de mexico,CENTRO,PC,Spider-Man,Aventura,1799,1,TARJETA,Muy Alta,promoción,INT-2697,admin
+VJ-00545,2026-05-16,Sucursal Sur,CIUDAD DE MÉXICO,Occidente,PLAYSTATION,FIFA, aventura ,1199,,Efectivo,Muy Alta,,INT-1767,capturista2
+VJ-00572,2026-02-01,SUCURSAL CENTRO,Monterrey,occidente, playstation ,Call of Duty,Estrategia,599,3,Efectivo,baja,revisar captura,INT-7132,capturista1
+VJ-00252,2026-05-08,Sucursal Norte,CIUDAD DE MÉXICO,occidente, nintendo ,Mario Kart,Estrategia,599,,Tarjeta,Muy Alta,promoción,INT-1712,admin
+VJ-00212,2026-02-02,Sucursal Sur,ciudad de mexico,CENTRO,Nintendo,Fortnite,Aventura,599,,tarjeta,baja,sin comentario,INT-3012,admin
+VJ-00273,2026-05-08,sucursal centro ,CDMX,Norte,xbox,Halo, aventura ,1499,4, transferencia ,Baja ,sin comentario,INT-8389,capturista2
+VJ-00357,2026-06-28,Sucursal Sur,CDMX,CENTRO,PLAYSTATION,Zelda,ACCION,1799,2, transferencia ,MEDIA,promoción,INT-7924,capturista1
+VJ-00279,2026-05-27,sucursal norte,Guadalajara,occidente,PlayStation,Spider-Man, aventura ,799,1,Efectivo,Media,promoción,INT-8372,capturista2
+VJ-00022,2026-06-07,Sucursal Norte,CIUDAD DE MÉXICO,Norte,PC,Mario Kart,Accion,1499,3,,baja,promoción,INT-3758,capturista2
+VJ-00196,2026-03-19,Sucursal Centro,monterrey ,Centro,PC,FIFA,Estrategia,1199,2,,Baja ,sin comentario,INT-8773,capturista2
+VJ-00287,2026-04-13,Sucursal Norte,CIUDAD DE MÉXICO,norte ,PLAYSTATION,Minecraft,Estrategia,,,efectivo ,Muy Alta,revisar captura,INT-4444,admin
+VJ-00213,2026-02-13,Sucursal Centro,CIUDAD DE MÉXICO,CENTRO, playstation ,Zelda,estrategia ,1799,2,Efectivo,,promoción,INT-3149,capturista1
+VJ-00161,2026-03-11,SUCURSAL CENTRO,Monterrey,Norte,PLAYSTATION,God of War, aventura ,599,1,Tarjeta,Alta,,INT-1900,usuario_tmp
+VJ-00563,2026-06-02,Sucursal Sur,,occidente,Xbox,Call of Duty, aventura ,799,3,efectivo ,Media,cliente frecuente,INT-7776,admin
+VJ-00156,,Sucursal Centro,Monterrey,Occidente, nintendo ,Mario Kart,estrategia ,1499,4,tarjeta,alta ,promoción,INT-1120,capturista1
+VJ-00244,2026-03-19,Sucursal Sur,ciudad de mexico,CENTRO, pc ,God of War,Aventura,,1, transferencia ,Muy Alta,cliente frecuente,INT-7965,capturista1
+VJ-00452,2026-04-10,Sucursal Norte,ciudad de mexico,Occidente,xbox,Fortnite,DEPORTES,799,2,efectivo ,,sin comentario,INT-5088,usuario_tmp
+VJ-00081,2026-02-15,, Ciudad de México ,occidente,PC,Mario Kart,estrategia ,,1,Tarjeta,Alta,promoción,INT-4508,usuario_tmp
+VJ-00277,2026-03-28,sucursal centro ,Guadalajara,occidente,PLAYSTATION,Mario Kart,Estrategia,799,2,TARJETA,Alta,revisar captura,INT-4166,capturista1
+VJ-00403,2026-02-06,SUCURSAL CENTRO,ciudad de mexico,Norte, playstation ,Fortnite,Acción,0,1,Efectivo,Media,sin comentario,INT-2352,capturista1
+VJ-00333,2026-05-28,Sucursal Sur, Ciudad de México ,occidente,xbox,Mario Kart,DEPORTES,799,3,Efectivo,baja,sin comentario,INT-7335,capturista1
+VJ-00034,2026-02-14,Sucursal Norte,ciudad de mexico,Norte, XBOX ,Halo,Acción,1199,2,,baja,,INT-3260,admin
+VJ-00062,2026-01-19,Sucursal Sur,CDMX,CENTRO,PLAYSTATION,Call of Duty,estrategia ,,2,,Baja ,cliente frecuente,INT-2536,capturista2
+VJ-00462,2026-06-07,Sucursal Sur,CDMX,occidente,Xbox,Pokemon,ACCION,599,1,TARJETA,Muy Alta,revisar captura,INT-7203,admin
+VJ-00517,2026-05-04,Sucursal Sur,monterrey ,occidente, pc ,Fortnite,ACCION,599,1,Efectivo,Baja ,promoción,INT-6497,admin
+VJ-00197,2026-05-01,sucursal norte,CIUDAD DE MÉXICO,norte ,PC,Mario Kart,estrategia ,999,3,Tarjeta,,promoción,INT-4584,usuario_tmp
+VJ-00256,2026-03-10,Sucursal Norte,CIUDAD DE MÉXICO,Occidente,PlayStation,Call of Duty,Deportes,0,1,Tarjeta,Alta,,INT-8663,capturista1
+VJ-00507,2026-02-20,SUCURSAL CENTRO, Ciudad de México ,Norte, nintendo ,Spider-Man,Accion,1499,2,tarjeta,muy alta,promoción,INT-2149,capturista1
+VJ-00654,2026-06-10,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Centro,PC,Pokemon, aventura ,0,1,TARJETA,muy alta,cliente frecuente,INT-1143,admin
+VJ-00376,2026-06-03,sucursal norte, Ciudad de México , centro ,NINTENDO,FIFA,estrategia ,999,1,TARJETA,Baja ,cliente frecuente,INT-8981,capturista1
+VJ-00537,2026-05-11,sucursal centro ,Guadalajara,norte , XBOX ,Fortnite, aventura ,0,,Tarjeta,,cliente frecuente,INT-8470,capturista2
+VJ-00060,2026-06-26,sucursal centro ,CIUDAD DE MÉXICO,Norte, XBOX ,God of War,Deportes,1199,3,Tarjeta,MEDIA,,INT-2058,capturista1
+VJ-00486,2026-05-29,SUCURSAL CENTRO,ciudad de mexico,Centro, XBOX ,Mario Kart,Estrategia,1199,3,tarjeta,MEDIA,revisar captura,INT-7686,admin
+VJ-00480,2026-01-23,sucursal norte,CIUDAD DE MÉXICO,occidente, XBOX ,Call of Duty, aventura ,1199,2,,Media,sin comentario,INT-4396,usuario_tmp
+VJ-00532,2026-04-07,sucursal centro ,ciudad de mexico,CENTRO,Xbox,FIFA,Aventura,599,1, transferencia ,Media,,INT-4840,capturista1
+VJ-00639,2026-02-26,Sucursal Sur,CDMX,Centro,xbox,Minecraft,Accion,799,4,tarjeta,Muy Alta,cliente frecuente,INT-9816,admin
+VJ-00425,2026-02-16,sucursal centro ,Guadalajara,, playstation ,Spider-Man,DEPORTES,999,3,TARJETA,alta ,cliente frecuente,INT-7883,usuario_tmp
+VJ-00591,2026-01-04,sucursal centro ,CIUDAD DE MÉXICO,CENTRO,xbox,Pokemon,estrategia ,1499,2,efectivo ,MEDIA,,INT-9964,capturista1
+VJ-00183,2026-03-06,Sucursal Sur,monterrey ,Norte, nintendo ,Minecraft,Accion,1199,2,Transferencia,,revisar captura,INT-2070,admin
+VJ-00398,2026-05-16,sucursal centro ,Guadalajara, centro ,Xbox,Pokemon,Deportes,1199,,Transferencia,alta ,promoción,INT-9368,capturista1
+VJ-00572,2026-02-01,SUCURSAL CENTRO,Monterrey,occidente, playstation ,Call of Duty,Estrategia,599,3,Efectivo,baja,revisar captura,INT-7132,capturista1
+VJ-00605,2026-01-25,Sucursal Norte,monterrey ,Norte,Nintendo,God of War,ACCION,999,1,Tarjeta,alta ,,INT-8558,capturista2
+VJ-00555,2026-05-06,SUCURSAL CENTRO,Guadalajara, centro ,PlayStation,Zelda, aventura ,799,1,tarjeta,muy alta,promoción,INT-2313,capturista2
+VJ-00115,2026-02-27,Sucursal Norte,CIUDAD DE MÉXICO,occidente, XBOX ,Zelda, aventura ,999,2,efectivo ,Muy Alta,promoción,INT-3754,capturista2
+VJ-00376,2026-06-03,sucursal norte, Ciudad de México , centro ,NINTENDO,FIFA,estrategia ,999,1,TARJETA,Baja ,cliente frecuente,INT-8981,capturista1
+VJ-00069,2026-03-10,sucursal norte,CDMX,Centro,PlayStation,Zelda,Deportes,,4,,muy alta,sin comentario,INT-2773,usuario_tmp
+VJ-00546,2026-05-13,Sucursal Sur,ciudad de mexico,Occidente,PC,Fortnite, aventura ,,2,efectivo ,alta ,,INT-5481,admin
+VJ-00495,2026-01-18,sucursal norte, Ciudad de México ,occidente,xbox,Minecraft,Deportes,999,1,efectivo ,alta ,cliente frecuente,INT-4235,admin
+VJ-00615,2026-06-25,Sucursal Centro,CIUDAD DE MÉXICO,Occidente, XBOX ,Spider-Man, aventura ,0,3,efectivo ,,promoción,INT-5985,capturista2
+VJ-00120,2026-05-10,Sucursal Centro,CDMX,Norte,PLAYSTATION,FIFA,Accion,1199,, transferencia ,,revisar captura,INT-5708,capturista2
+VJ-00568,2026-06-07,SUCURSAL CENTRO,Monterrey,Norte, pc ,Zelda,Estrategia,,1,,alta ,promoción,INT-2811,usuario_tmp
+VJ-00608,2026-01-11,sucursal norte,monterrey ,Centro,Xbox,Call of Duty,Acción,,,Tarjeta,muy alta,revisar captura,INT-3364,capturista2
+VJ-00680,2026-05-15,SUCURSAL CENTRO,ciudad de mexico,Centro, nintendo ,Zelda,estrategia ,0,3, transferencia ,MEDIA,promoción,INT-6021,capturista1
+VJ-00541,2026-05-29,sucursal centro , Ciudad de México ,Norte,PLAYSTATION,Halo,Acción,599,,efectivo ,alta ,cliente frecuente,INT-9371,admin
+VJ-00141,2026-01-12,Sucursal Sur,CIUDAD DE MÉXICO,norte ,,God of War,ACCION,,1,,muy alta,cliente frecuente,INT-6222,capturista2
+VJ-00560,2026-02-17,Sucursal Centro, Ciudad de México ,Occidente, pc ,Zelda,Acción,1199,2,Transferencia,alta ,sin comentario,INT-5580,capturista1
+VJ-00176,2026-05-01,sucursal centro ,Monterrey,Occidente,Nintendo,Spider-Man,Acción,1199,4,,alta ,cliente frecuente,INT-3604,admin
+VJ-00595,2026-01-29,sucursal centro ,,CENTRO,NINTENDO,Zelda,estrategia ,799,3,tarjeta,Muy Alta,cliente frecuente,INT-2657,capturista1
+VJ-00329,2026-03-12,Sucursal Norte,Monterrey,norte , playstation ,Mario Kart,estrategia ,599,4,,Alta,sin comentario,INT-2398,usuario_tmp
+VJ-00101,2026-04-13,Sucursal Centro,Guadalajara, centro ,xbox,Zelda,ACCION,1499,1,Transferencia,muy alta,,INT-9759,admin
+VJ-00628,2026-04-21,Sucursal Centro, Ciudad de México ,Occidente,xbox,FIFA,ACCION,,1,Transferencia,MEDIA,sin comentario,INT-4499,admin
+VJ-00317,2026-01-28,Sucursal Sur,CIUDAD DE MÉXICO,Centro, XBOX ,Halo,Acción,1499,1,Transferencia,Media,cliente frecuente,INT-2288,admin
+VJ-00296,2026-05-24,SUCURSAL CENTRO,monterrey , centro ,NINTENDO,Halo, aventura ,,3,tarjeta,,promoción,INT-9746,capturista2
+VJ-00395,2026-02-09,sucursal centro ,monterrey ,Occidente, nintendo ,Zelda,DEPORTES,1199,, transferencia ,MEDIA,revisar captura,INT-1893,admin
+VJ-00157,2026-03-29,Sucursal Centro,,CENTRO, nintendo ,Zelda, aventura ,1499,1,TARJETA,baja,,INT-1239,admin
+VJ-00380,2026-06-26,Sucursal Sur,CDMX,Occidente,PlayStation,Zelda,Accion,999,4,,muy alta,revisar captura,INT-3477,capturista2
+VJ-00300,2026-03-19,Sucursal Sur,ciudad de mexico,Centro,xbox,FIFA,Acción,0,1,,Baja ,revisar captura,INT-9213,usuario_tmp
+VJ-00137,2026-06-23,Sucursal Norte,Guadalajara,occidente, XBOX ,Pokemon,Deportes,799,1,,Media,sin comentario,INT-9775,capturista1
+VJ-00553,2026-01-23,Sucursal Sur,monterrey ,norte , pc ,Mario Kart,Accion,0,1,Transferencia,MEDIA,sin comentario,INT-9441,capturista1
+VJ-00335,2026-05-07,Sucursal Norte,CDMX,Occidente,Nintendo,Halo,Aventura,,3,efectivo ,Alta,promoción,INT-9427,usuario_tmp
+VJ-00153,2026-04-16,SUCURSAL CENTRO,GUADALAJARA,Occidente,PLAYSTATION,Call of Duty, aventura ,999,4,Tarjeta,,,INT-8464,admin
+VJ-00441,2026-04-07,Sucursal Centro, Ciudad de México ,norte ,PlayStation,God of War,Deportes,1499,2, transferencia ,Media,cliente frecuente,INT-2122,capturista1
+VJ-00671,2026-01-15,Sucursal Centro,Monterrey, centro , nintendo ,God of War,Deportes,,2,efectivo ,muy alta,promoción,INT-9825,capturista2
+VJ-00492,2026-01-25,SUCURSAL CENTRO,GUADALAJARA,Centro, playstation ,Call of Duty,Deportes,1499,2,Tarjeta,,promoción,INT-6562,capturista2
+VJ-00127,2026-03-28,Sucursal Sur,Guadalajara, centro , pc ,Zelda, aventura ,1499,1,Tarjeta,alta ,revisar captura,INT-8182,usuario_tmp
+VJ-00315,2026-01-31,Sucursal Centro,Monterrey,Centro,xbox,Zelda,ACCION,1499,2,tarjeta,muy alta,revisar captura,INT-3554,usuario_tmp
+VJ-00342,2026-02-03,SUCURSAL CENTRO,ciudad de mexico,CENTRO,Nintendo,Call of Duty,Estrategia,,2,tarjeta,Muy Alta,sin comentario,INT-2794,admin
+VJ-00539,2026-04-23,Sucursal Sur,CDMX, centro , playstation ,Spider-Man,Aventura,599,2,,Alta,,INT-3499,usuario_tmp
+VJ-00428,2026-04-18,Sucursal Sur,monterrey ,Occidente,PC,Spider-Man,Aventura,1199,3, transferencia ,Muy Alta,promoción,INT-9935,capturista1
+VJ-00054,,sucursal centro ,GUADALAJARA,Norte, pc ,Fortnite,DEPORTES,799,2, transferencia ,Muy Alta,cliente frecuente,INT-8054,usuario_tmp
+VJ-00565,2026-04-09,sucursal norte,CDMX,Occidente,NINTENDO,Zelda,ACCION,,2, transferencia ,Media,revisar captura,INT-2843,capturista2
+VJ-00405,2026-04-10,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Norte,PLAYSTATION,God of War,Acción,599,, transferencia ,Alta,cliente frecuente,INT-2808,capturista1
+VJ-00280,2026-03-22,SUCURSAL CENTRO,GUADALAJARA,CENTRO,Xbox,Fortnite,estrategia ,599,1,Transferencia,,cliente frecuente,INT-6721,capturista2
+VJ-00217,2026-06-06,Sucursal Centro,Monterrey,Norte, playstation ,Zelda,Aventura,1199,,tarjeta,,sin comentario,INT-5119,admin
+VJ-00589,,Sucursal Sur,GUADALAJARA,occidente, nintendo ,Halo,DEPORTES,599,1, transferencia ,baja,promoción,INT-1889,capturista2
+VJ-00616,2026-06-18,SUCURSAL CENTRO,Guadalajara,norte , pc ,God of War, aventura ,,,Transferencia,Alta,revisar captura,INT-4217,capturista1
+VJ-00577,2026-03-02,Sucursal Norte,GUADALAJARA,Occidente,NINTENDO,Minecraft,Accion,1499,2,TARJETA,Media,,INT-3258,usuario_tmp
+VJ-00019,2026-06-13,SUCURSAL CENTRO, Ciudad de México ,Centro,PC,Zelda,DEPORTES,999,3, transferencia ,,promoción,INT-9335,admin
+VJ-00222,2026-02-04,Sucursal Centro,Monterrey,Occidente, XBOX ,Minecraft,Accion,1199,1,Transferencia,Muy Alta,cliente frecuente,INT-4525,usuario_tmp
+VJ-00424,2026-01-13,SUCURSAL CENTRO,Guadalajara,Occidente,NINTENDO,Spider-Man,Deportes,599,1, transferencia ,baja,revisar captura,INT-3178,admin
+VJ-00289,2026-01-26,Sucursal Sur,Monterrey,Norte,PLAYSTATION,Spider-Man, aventura ,999,2,Transferencia,Media,cliente frecuente,INT-6755,admin
+VJ-00410,2026-02-11,Sucursal Centro,monterrey ,Norte,PC,Halo,Accion,799,4,tarjeta,,revisar captura,INT-7710,capturista2
+VJ-00327,2026-05-03,Sucursal Norte,CIUDAD DE MÉXICO,Norte, playstation ,Pokemon,Estrategia,1799,2,Transferencia,,revisar captura,INT-1914,admin
+VJ-00149,2026-06-29,sucursal centro ,Monterrey,Centro,NINTENDO,God of War,Accion,599,1,Efectivo,MEDIA,sin comentario,INT-9959,capturista2
+VJ-00660,2026-01-10,sucursal norte,Guadalajara, centro ,PLAYSTATION,FIFA,Deportes,1499,2,TARJETA,MEDIA,sin comentario,INT-3100,capturista1
+VJ-00585,2026-02-21,Sucursal Centro, Ciudad de México ,Centro, pc ,Pokemon,estrategia ,799,4,,Muy Alta,revisar captura,INT-9248,admin
+VJ-00516,2026-06-02,SUCURSAL CENTRO,Guadalajara,Centro,PlayStation,God of War,estrategia ,1199,2,Efectivo,baja,cliente frecuente,INT-2209,capturista2
+VJ-00159,2026-06-05,Sucursal Norte, Ciudad de México ,occidente,PlayStation,Fortnite, aventura ,0,1, transferencia ,,cliente frecuente,INT-9945,capturista2
+VJ-00045,2026-03-06,Sucursal Norte,CDMX,Centro,xbox,Mario Kart,DEPORTES,599,2,tarjeta,muy alta,cliente frecuente,INT-5110,usuario_tmp
+VJ-00386,2026-01-15,sucursal centro ,CIUDAD DE MÉXICO,,Nintendo,Mario Kart,Aventura,1199,1,TARJETA,,sin comentario,INT-5102,capturista1
+VJ-00320,2026-01-19,sucursal centro , Ciudad de México ,Norte,PlayStation,Call of Duty,Acción,1499,1,,Muy Alta,cliente frecuente,INT-4939,capturista2
+VJ-00362,2026-03-08,Sucursal Norte, Ciudad de México ,Centro,PLAYSTATION,Spider-Man,Estrategia,,3,Tarjeta,Baja ,cliente frecuente,INT-4413,capturista1
+VJ-00163,2026-05-01,Sucursal Sur,GUADALAJARA,CENTRO,PlayStation,Pokemon,Deportes,599,4,Efectivo,MEDIA,promoción,INT-4779,admin
+VJ-00626,2026-01-09,sucursal norte,monterrey ,Centro,PLAYSTATION,Call of Duty,Accion,,2,Transferencia,muy alta,cliente frecuente,INT-6700,usuario_tmp
+VJ-00493,2026-05-01,Sucursal Norte,monterrey ,CENTRO,Xbox,FIFA,Aventura,0,4, transferencia ,Alta,,INT-7805,capturista1
+VJ-00597,2026-01-01,Sucursal Sur,Guadalajara, centro ,Xbox,Zelda,Aventura,,3,Efectivo,Baja ,,INT-2912,capturista2
+VJ-00091,2026-01-24,sucursal norte,ciudad de mexico,CENTRO,Nintendo,God of War,estrategia ,1799,1,Tarjeta,muy alta,promoción,INT-5861,capturista2
+VJ-00328,2026-06-27,sucursal norte,Monterrey,occidente,PLAYSTATION,Pokemon,estrategia ,,2,Efectivo,baja,sin comentario,INT-1416,usuario_tmp
+VJ-00498,2026-06-11,Sucursal Centro,monterrey ,Norte, nintendo ,Spider-Man,Accion,599,4,TARJETA,,,INT-3504,admin
+VJ-00139,2026-03-30,Sucursal Centro,Monterrey,Centro, pc ,Spider-Man, aventura ,1199,1,,Media,,INT-7257,capturista2
+VJ-00226,2026-03-14,Sucursal Norte,ciudad de mexico,norte , playstation ,Pokemon,Accion,0,3,Tarjeta,Alta,sin comentario,INT-3595,capturista2
+VJ-00358,2026-02-26,Sucursal Sur,Monterrey,Occidente,PC,FIFA,DEPORTES,1199,1, transferencia ,,promoción,INT-6886,capturista2
+VJ-00003,2026-04-05,sucursal norte, Ciudad de México ,norte ,PC,Halo,estrategia ,1799,1,tarjeta,muy alta,sin comentario,INT-4678,capturista1
+VJ-00647,2026-03-14,Sucursal Sur,ciudad de mexico, centro ,xbox,FIFA,Acción,999,1,Efectivo,,sin comentario,INT-1284,usuario_tmp
+VJ-00114,2026-06-24,sucursal centro ,ciudad de mexico,Occidente,Xbox,God of War,Aventura,1199,,Efectivo,Alta,promoción,INT-8313,usuario_tmp
+VJ-00261,2026-02-16,sucursal norte,ciudad de mexico,norte ,Nintendo,Halo,DEPORTES,1199,1, transferencia ,Muy Alta,cliente frecuente,INT-7316,admin
+VJ-00053,2026-05-28,sucursal norte,Monterrey,occidente, nintendo ,Halo, aventura ,1499,2,Tarjeta,muy alta,revisar captura,INT-6062,capturista2
+VJ-00298,2026-01-18,Sucursal Centro,Monterrey,norte ,NINTENDO,Fortnite,estrategia ,599,2,tarjeta,baja,cliente frecuente,INT-6754,capturista1
+VJ-00604,2026-06-15,Sucursal Norte,Guadalajara,Occidente, playstation ,Halo,Acción,999,1,,Alta,revisar captura,INT-3605,admin
+VJ-00621,2026-02-16,SUCURSAL CENTRO,Monterrey, centro ,Xbox,Fortnite,Aventura,1799,1,,baja,sin comentario,INT-8813,usuario_tmp
+VJ-00272,2026-01-15,sucursal centro ,CIUDAD DE MÉXICO,CENTRO,PlayStation,Zelda,DEPORTES,0,3,Tarjeta,alta ,cliente frecuente,INT-2911,admin
+VJ-00673,2026-06-18,Sucursal Sur,Monterrey,CENTRO,Nintendo,Spider-Man,Estrategia,0,2,Tarjeta,Baja ,cliente frecuente,INT-8819,admin
+VJ-00282,2026-02-11,Sucursal Centro,ciudad de mexico, centro ,xbox,Mario Kart,ACCION,599,4,,alta ,,INT-7029,admin
+VJ-00584,2026-03-06,Sucursal Centro,ciudad de mexico,norte ,xbox,Fortnite,DEPORTES,799,1,efectivo ,muy alta,,INT-3163,capturista2
+VJ-00259,2026-06-11,Sucursal Norte,ciudad de mexico, centro ,Nintendo,God of War,DEPORTES,799,3,Tarjeta,Baja ,,INT-2971,capturista1
+VJ-00490,2026-05-11,sucursal norte,GUADALAJARA,Occidente,xbox,Halo,Aventura,0,1,tarjeta,muy alta,revisar captura,INT-9876,capturista1
+VJ-00383,,SUCURSAL CENTRO,ciudad de mexico,norte , nintendo ,Pokemon, aventura ,1199,2,Transferencia,alta ,,INT-3077,usuario_tmp
+VJ-00194,2026-03-21,Sucursal Sur,CDMX,CENTRO, XBOX ,Fortnite,ACCION,799,4, transferencia ,baja,revisar captura,INT-4522,usuario_tmp
+VJ-00342,2026-02-03,SUCURSAL CENTRO,ciudad de mexico,CENTRO,Nintendo,Call of Duty,Estrategia,,2,tarjeta,Muy Alta,sin comentario,INT-2794,admin
+VJ-00366,2026-04-17,Sucursal Norte,CDMX,occidente, pc ,Minecraft,Estrategia,599,1,,Muy Alta,promoción,INT-7887,admin
+VJ-00504,2026-06-28,SUCURSAL CENTRO,Monterrey,Centro,NINTENDO,Minecraft,Deportes,,3,tarjeta,MEDIA,revisar captura,INT-5176,capturista1
+VJ-00566,2026-06-24,Sucursal Sur,GUADALAJARA, centro ,NINTENDO,Mario Kart,ACCION,799,3,Tarjeta,Alta,revisar captura,INT-3452,capturista2
+VJ-00434,2026-03-06,SUCURSAL CENTRO, Ciudad de México ,CENTRO, XBOX ,Zelda,ACCION,1799,1,Tarjeta,,sin comentario,INT-9181,capturista1
+VJ-00457,2026-01-13,SUCURSAL CENTRO,CDMX,CENTRO,NINTENDO,God of War,estrategia ,,1, transferencia ,Media,revisar captura,INT-2720,usuario_tmp
+VJ-00118,2026-05-08,Sucursal Norte,CDMX,CENTRO,Xbox,Pokemon,DEPORTES,0,1, transferencia ,Muy Alta,promoción,INT-8188,capturista2
+VJ-00152,2026-02-25,SUCURSAL CENTRO,Monterrey,Centro, XBOX ,Fortnite,estrategia ,1799,4, transferencia ,MEDIA,revisar captura,INT-7360,admin
+VJ-00675,2026-03-13,sucursal norte,monterrey ,, playstation ,Spider-Man,Aventura,1499,2,Transferencia,Baja ,promoción,INT-6768,capturista1
+VJ-00512,2026-05-30,Sucursal Centro,monterrey ,CENTRO,xbox,Call of Duty, aventura ,0,1,,MEDIA,cliente frecuente,INT-8894,capturista1
+VJ-00655,2026-04-23,Sucursal Norte,CDMX,Occidente,PLAYSTATION,FIFA,estrategia ,0,1,Tarjeta,MEDIA,revisar captura,INT-4740,admin
+VJ-00363,2026-01-30,Sucursal Norte,GUADALAJARA,Norte,PLAYSTATION,Mario Kart,Acción,,2,TARJETA,MEDIA,revisar captura,INT-6396,admin
+VJ-00466,2026-02-04,SUCURSAL CENTRO,Monterrey,Occidente, nintendo ,Spider-Man,estrategia ,0,2,Transferencia,Muy Alta,revisar captura,INT-3998,capturista2
+VJ-00099,2026-03-12,sucursal norte,Monterrey,Centro, XBOX ,Minecraft,Accion,,4, transferencia ,Media,cliente frecuente,INT-1751,usuario_tmp
+VJ-00454,2026-05-18,Sucursal Sur,monterrey , centro ,xbox,Spider-Man,Estrategia,1799,3,Transferencia,,,INT-4906,usuario_tmp
+VJ-00552,2026-03-04,sucursal centro ,GUADALAJARA, centro , playstation ,Fortnite,Estrategia,799,4, transferencia ,Muy Alta,promoción,INT-5386,capturista1
+VJ-00652,,SUCURSAL CENTRO,Monterrey,Centro, playstation ,Mario Kart,Acción,,3,tarjeta,Alta,cliente frecuente,INT-5669,admin
+VJ-00275,2026-04-27,Sucursal Centro,CIUDAD DE MÉXICO,CENTRO,Nintendo,Minecraft,Acción,0,2,,MEDIA,promoción,INT-2290,capturista1
+VJ-00472,2026-06-11,Sucursal Sur,ciudad de mexico,occidente,PlayStation,Zelda,Deportes,599,4,,alta ,promoción,INT-5231,usuario_tmp
+VJ-00611,2026-02-12,Sucursal Norte,CDMX,Occidente,xbox,Minecraft,Estrategia,999,1, transferencia ,baja,cliente frecuente,INT-5317,capturista2
+VJ-00385,2026-04-20,sucursal centro ,CDMX,Centro,Xbox,Fortnite, aventura ,,4,tarjeta,muy alta,,INT-2283,usuario_tmp
+VJ-00497,2026-04-06,SUCURSAL CENTRO,Guadalajara, centro ,PlayStation,Halo,Deportes,1799,3,Tarjeta,alta ,sin comentario,INT-4671,capturista1
+VJ-00494,2026-05-07,Sucursal Sur,GUADALAJARA,norte , pc ,Fortnite,Deportes,1499,3, transferencia ,baja,cliente frecuente,INT-9188,usuario_tmp
+VJ-00207,2026-03-06,sucursal centro ,GUADALAJARA,CENTRO,NINTENDO,Zelda,ACCION,0,4,TARJETA,baja,sin comentario,INT-4196,capturista2
+VJ-00185,2026-04-29,SUCURSAL CENTRO,ciudad de mexico,Centro,Xbox,Fortnite,estrategia ,1199,2,Tarjeta,Baja ,cliente frecuente,INT-4537,capturista2
+VJ-00043,2026-05-07,Sucursal Sur,Monterrey,CENTRO,xbox,Pokemon,Acción,799,4,tarjeta,Muy Alta,cliente frecuente,INT-3943,capturista2
+VJ-00456,2026-04-12,sucursal norte,CDMX,Occidente, nintendo ,Fortnite,Aventura,599,4,efectivo ,Baja ,sin comentario,INT-2398,capturista1
+VJ-00278,2026-02-25,Sucursal Norte,CDMX,CENTRO,Nintendo,Minecraft,Aventura,,1,Efectivo,MEDIA,sin comentario,INT-2335,usuario_tmp
+VJ-00518,2026-05-01,Sucursal Norte,GUADALAJARA,occidente, pc ,Call of Duty,Deportes,799,1,TARJETA,alta ,promoción,INT-2833,capturista1
+VJ-00304,2026-01-24,Sucursal Sur,monterrey ,occidente, nintendo ,Mario Kart,DEPORTES,999,4, transferencia ,Media,revisar captura,INT-8792,capturista2
+VJ-00534,2026-04-23,sucursal norte,CDMX,CENTRO,PlayStation,Minecraft,DEPORTES,999,1,TARJETA,muy alta,promoción,INT-4280,capturista2
+VJ-00070,2026-01-14,sucursal centro ,monterrey ,Centro, nintendo ,Spider-Man,Accion,1199,1, transferencia ,Muy Alta,sin comentario,INT-6007,usuario_tmp
+VJ-00085,2026-04-10,sucursal norte,Guadalajara,norte ,PlayStation,God of War,ACCION,,1,Efectivo,,promoción,INT-7895,usuario_tmp
+VJ-00402,2026-02-15,Sucursal Centro,CIUDAD DE MÉXICO,occidente,xbox,Fortnite, aventura ,,3,tarjeta,baja,promoción,INT-1393,admin
+VJ-00007,2026-01-31,Sucursal Sur,CDMX,occidente,NINTENDO,FIFA,estrategia ,599,2,Tarjeta,MEDIA,revisar captura,INT-5762,admin
+VJ-00285,2026-04-18,sucursal centro ,Monterrey,occidente, XBOX ,Halo,Aventura,599,1,,,revisar captura,INT-3574,admin
+VJ-00413,2026-01-11,SUCURSAL CENTRO,GUADALAJARA,Norte,Xbox,Mario Kart,DEPORTES,999,1,efectivo ,Media,cliente frecuente,INT-7396,admin
+VJ-00622,2026-04-12,sucursal centro ,Guadalajara,Centro,PlayStation,Halo,estrategia ,599,1,Efectivo,alta ,cliente frecuente,INT-3019,admin
+VJ-00205,2026-04-21,Sucursal Centro, Ciudad de México ,CENTRO,NINTENDO,God of War,ACCION,999,4,efectivo ,MEDIA,promoción,INT-7767,usuario_tmp
+VJ-00470,2026-04-17,sucursal norte,monterrey ,occidente,Xbox,God of War,Aventura,1499,2, transferencia ,Muy Alta,sin comentario,INT-5343,capturista2
+VJ-00345,2026-01-28,Sucursal Sur,Guadalajara, centro ,Nintendo,Mario Kart,estrategia ,1199,3,Tarjeta,,revisar captura,INT-9054,usuario_tmp
+VJ-00067,2026-04-30,Sucursal Sur,Guadalajara,Norte,NINTENDO,Mario Kart,DEPORTES,,2, transferencia ,Muy Alta,cliente frecuente,INT-2952,admin
+VJ-00268,2026-06-17,Sucursal Norte,ciudad de mexico, centro ,Xbox,FIFA,Deportes,0,,Efectivo,muy alta,cliente frecuente,INT-8847,capturista1
+VJ-00513,2026-02-07,SUCURSAL CENTRO,Monterrey,Centro,PlayStation,Mario Kart,Estrategia,799,2, transferencia ,Muy Alta,promoción,INT-5358,usuario_tmp
+VJ-00294,,sucursal centro ,Monterrey, centro , playstation ,Fortnite,Aventura,,2,Tarjeta,baja,cliente frecuente,INT-4079,admin
+VJ-00182,2026-01-23,sucursal centro ,Guadalajara,Norte,Xbox,Fortnite, aventura ,599,1,efectivo ,Baja ,revisar captura,INT-4301,capturista1
+VJ-00663,2026-03-23,sucursal centro ,Monterrey,Norte,Nintendo,Spider-Man, aventura ,999,1,tarjeta,Alta,sin comentario,INT-2659,capturista1
+VJ-00496,2026-01-20,sucursal centro , Ciudad de México ,CENTRO,Nintendo,Fortnite,Aventura,1199,1,,Baja ,,INT-9589,usuario_tmp
+VJ-00519,2026-04-01,Sucursal Norte,monterrey ,Centro,NINTENDO,Fortnite,estrategia ,0,2,,MEDIA,sin comentario,INT-7494,usuario_tmp
+VJ-00569,2026-01-19,Sucursal Centro,GUADALAJARA,Norte,NINTENDO,Zelda,Estrategia,,1,Efectivo,alta ,revisar captura,INT-9358,admin
+VJ-00369,2026-03-20,Sucursal Norte,Monterrey, centro ,xbox,Call of Duty,Accion,,1,Transferencia,Baja ,,INT-9006,admin
+VJ-00116,2026-01-27,Sucursal Sur,Monterrey,norte , playstation ,Zelda,Deportes,1799,1,efectivo ,,revisar captura,INT-4184,capturista1
+VJ-00075,2026-01-31,sucursal centro ,Monterrey, centro , playstation ,Pokemon,ACCION,,1,Efectivo,MEDIA,cliente frecuente,INT-3528,capturista1
+VJ-00169,2026-03-29,sucursal norte,CIUDAD DE MÉXICO,Norte,Xbox,Minecraft,estrategia ,1199,2,Transferencia,alta ,revisar captura,INT-3399,capturista1
+VJ-00291,2026-01-19,Sucursal Norte,Monterrey,occidente,,Mario Kart,DEPORTES,999,, transferencia ,alta ,sin comentario,INT-7615,admin
+VJ-00059,2026-02-10,Sucursal Norte,Monterrey,norte ,xbox,Mario Kart, aventura ,,1,Tarjeta,baja,revisar captura,INT-2822,admin
+VJ-00216,2026-03-24,sucursal centro ,Guadalajara,Centro,xbox,God of War, aventura ,0,1,efectivo ,Media,sin comentario,INT-3964,capturista1
+VJ-00661,2026-03-13,SUCURSAL CENTRO,Monterrey,Centro,PC,Pokemon,DEPORTES,0,,Efectivo,,promoción,INT-4461,capturista1
+VJ-00482,2026-05-19,Sucursal Sur,Monterrey, centro ,xbox,Fortnite,Acción,1799,, transferencia ,Baja ,cliente frecuente,INT-3811,admin
+VJ-00208,2026-01-24,SUCURSAL CENTRO,CIUDAD DE MÉXICO,,PlayStation,Mario Kart,ACCION,,2,Transferencia,Alta,,INT-6852,capturista1
+VJ-00255,2026-03-05,sucursal norte,CIUDAD DE MÉXICO, centro ,PLAYSTATION,Minecraft,Estrategia,1799,3,efectivo ,,,INT-1442,usuario_tmp
+VJ-00020,2026-01-22,SUCURSAL CENTRO,CIUDAD DE MÉXICO,CENTRO, XBOX ,Halo,Aventura,999,3,Efectivo,muy alta,cliente frecuente,INT-9804,capturista1
+VJ-00415,2026-04-19,Sucursal Sur,ciudad de mexico, centro ,Xbox,Fortnite,estrategia ,1499,2,,Baja ,revisar captura,INT-8528,admin
+VJ-00122,2026-02-02,sucursal centro ,ciudad de mexico, centro ,NINTENDO,God of War,DEPORTES,0,1, transferencia ,muy alta,,INT-8920,capturista1
+VJ-00540,2026-04-17,sucursal centro ,CDMX,,Nintendo,Spider-Man,Deportes,999,1,TARJETA,MEDIA,revisar captura,INT-1917,usuario_tmp
+VJ-00377,2026-02-10,sucursal norte,GUADALAJARA,Centro,Xbox,Mario Kart,Deportes,,1, transferencia ,,revisar captura,INT-2734,capturista2
+VJ-00529,2026-04-13,Sucursal Norte,CDMX,Norte,NINTENDO,FIFA,Accion,1499,1,Transferencia,alta ,,INT-3305,capturista1
+VJ-00190,2026-04-04,sucursal centro ,CIUDAD DE MÉXICO,norte ,PC,Call of Duty,ACCION,799,1,,Alta,revisar captura,INT-6776,usuario_tmp
+VJ-00146,2026-03-11,sucursal norte,GUADALAJARA,Occidente,PC,Call of Duty,DEPORTES,599,1,Tarjeta,Baja ,promoción,INT-7750,capturista2
+VJ-00262,2026-05-04,Sucursal Centro,CIUDAD DE MÉXICO,occidente,PC,God of War,Acción,599,,TARJETA,muy alta,promoción,INT-8295,capturista2
+VJ-00679,2026-05-26,sucursal norte,CIUDAD DE MÉXICO,CENTRO,xbox,Zelda,ACCION,1799,1,Tarjeta,alta ,promoción,INT-6250,usuario_tmp
+VJ-00543,2026-05-12,Sucursal Sur,Monterrey,Centro,PLAYSTATION,Halo,Deportes,,4,Efectivo,baja,sin comentario,INT-7543,capturista2
+VJ-00596,2026-06-09,Sucursal Centro,Monterrey,norte ,NINTENDO,FIFA,Estrategia,599,1,Transferencia,Baja ,revisar captura,INT-2620,capturista1
+VJ-00326,2026-06-15,Sucursal Norte, Ciudad de México ,CENTRO,Xbox,Pokemon,Estrategia,0,,tarjeta,,revisar captura,INT-4261,usuario_tmp
+VJ-00354,2026-02-01,sucursal centro ,Monterrey,Occidente,xbox,Halo,DEPORTES,799,1,TARJETA,MEDIA,cliente frecuente,INT-1718,capturista1
+VJ-00348,2026-05-30,Sucursal Norte, Ciudad de México ,CENTRO,PC,FIFA,Acción,999,,efectivo ,Muy Alta,,INT-8211,usuario_tmp
+VJ-00005,2026-01-09,Sucursal Norte,CIUDAD DE MÉXICO,Occidente,NINTENDO,Spider-Man,Acción,999,,tarjeta,alta ,revisar captura,INT-5240,usuario_tmp
+VJ-00346,2026-05-09,Sucursal Norte,Monterrey, centro ,NINTENDO,Fortnite,Accion,0,1,TARJETA,Media,sin comentario,INT-9012,capturista2
+VJ-00043,2026-05-07,Sucursal Sur,Monterrey,CENTRO,xbox,Pokemon,Acción,799,4,tarjeta,Muy Alta,cliente frecuente,INT-3943,capturista2
+VJ-00600,2026-01-10,sucursal norte,Guadalajara,occidente,Nintendo,Mario Kart,DEPORTES,1799,4,Tarjeta,,cliente frecuente,INT-3745,capturista2
+VJ-00065,2026-04-28,Sucursal Norte,ciudad de mexico,Norte, playstation ,Halo, aventura ,599,, transferencia ,,sin comentario,INT-7496,usuario_tmp
+VJ-00168,2026-03-25,SUCURSAL CENTRO,CIUDAD DE MÉXICO,, XBOX ,Mario Kart,ACCION,599,2,tarjeta,alta ,cliente frecuente,INT-6207,usuario_tmp
+VJ-00499,2026-02-05,sucursal centro ,Monterrey,CENTRO,Xbox,Zelda, aventura ,799,3,tarjeta,muy alta,cliente frecuente,INT-8903,capturista2
+VJ-00297,2026-01-15,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Centro, playstation ,Halo, aventura ,999,2,TARJETA,,cliente frecuente,INT-8252,usuario_tmp
+VJ-00367,2026-01-21,SUCURSAL CENTRO,CIUDAD DE MÉXICO, centro ,PlayStation,Fortnite,Aventura,799,1,,alta ,,INT-8570,admin
+VJ-00066,2026-04-05,SUCURSAL CENTRO,CIUDAD DE MÉXICO,norte ,xbox,Call of Duty, aventura ,1199,,TARJETA,MEDIA,promoción,INT-6058,usuario_tmp
+VJ-00072,2026-03-28,Sucursal Centro,ciudad de mexico,Centro,PLAYSTATION,Pokemon,Estrategia,1799,2,,Baja ,revisar captura,INT-3838,capturista1
+VJ-00312,2026-06-04,Sucursal Sur,CDMX, centro ,NINTENDO,Fortnite,Estrategia,1799,,,alta ,promoción,INT-9866,capturista2
+VJ-00089,2026-04-23,Sucursal Sur,CIUDAD DE MÉXICO,norte , XBOX ,Pokemon,DEPORTES,,1,,Baja ,sin comentario,INT-9712,admin
+VJ-00426,2026-03-25,SUCURSAL CENTRO, Ciudad de México ,norte , nintendo ,Call of Duty,Acción,1799,1,tarjeta,,sin comentario,INT-6772,admin
+VJ-00391,2026-01-20,Sucursal Norte,Guadalajara,Norte,PC,Spider-Man,Acción,1199,,TARJETA,Muy Alta,,INT-7409,admin
+VJ-00079,2026-02-22,Sucursal Norte,GUADALAJARA, centro ,xbox,Zelda,DEPORTES,1499,,Tarjeta,muy alta,,INT-2189,admin
+VJ-00401,2026-06-11,Sucursal Centro,monterrey ,CENTRO,Xbox,Fortnite, aventura ,1199,3,Efectivo,Muy Alta,cliente frecuente,INT-1433,capturista2
+VJ-00265,2026-06-30,SUCURSAL CENTRO,ciudad de mexico,,NINTENDO,Fortnite,Estrategia,0,2,,alta ,,INT-7477,capturista1
+VJ-00579,2026-04-11,Sucursal Sur,Monterrey,occidente,Xbox,Fortnite,Deportes,1499,2, transferencia ,,cliente frecuente,INT-6768,admin
+VJ-00310,2026-05-12,sucursal norte,Guadalajara,Norte,Xbox,FIFA,DEPORTES,1499,1,TARJETA,,cliente frecuente,INT-5378,usuario_tmp
+VJ-00012,2026-05-24,sucursal norte,Guadalajara,Norte,PLAYSTATION,Mario Kart,DEPORTES,1199,2,TARJETA,Alta,promoción,INT-2741,capturista2
+VJ-00444,2026-02-16,sucursal norte,Monterrey,CENTRO, nintendo ,Halo,DEPORTES,,1, transferencia ,alta ,sin comentario,INT-5918,capturista1
+VJ-00583,2026-02-26,sucursal centro ,GUADALAJARA,occidente,NINTENDO,Fortnite,Deportes,1499,4,efectivo ,Media,sin comentario,INT-7098,usuario_tmp
+VJ-00064,2026-05-18,Sucursal Sur,CDMX,norte ,Nintendo,Fortnite,Accion,799,1,tarjeta,Muy Alta,promoción,INT-5559,capturista1
+VJ-00276,2026-06-27,sucursal centro ,CDMX,Centro,PLAYSTATION,Call of Duty,ACCION,1199,1,TARJETA,,,INT-3312,capturista1
+VJ-00550,2026-03-04,sucursal norte,GUADALAJARA,occidente,xbox,Zelda,Accion,,1,efectivo ,Alta,,INT-5107,capturista1
+VJ-00414,2026-01-30,SUCURSAL CENTRO,ciudad de mexico,Centro, XBOX ,Halo,Acción,1199,1,Efectivo,alta ,sin comentario,INT-2948,capturista2
+VJ-00001,2026-01-31,sucursal norte,Monterrey,occidente,NINTENDO,Pokemon,Estrategia,1799,1,,alta ,sin comentario,INT-8367,admin
+VJ-00175,2026-03-08,SUCURSAL CENTRO,Monterrey,Centro,Xbox,Mario Kart, aventura ,1499,2,efectivo ,Media,cliente frecuente,INT-1948,admin
+VJ-00124,2026-03-06,Sucursal Sur,CDMX,occidente,PC,Fortnite,Acción,,2,tarjeta,muy alta,cliente frecuente,INT-5870,admin
+VJ-00094,2026-06-05,Sucursal Centro, Ciudad de México ,norte , XBOX ,Minecraft,DEPORTES,1799,4,efectivo ,Baja ,cliente frecuente,INT-5052,capturista1
+VJ-00138,2026-06-01,Sucursal Centro, Ciudad de México ,Occidente, XBOX ,Minecraft,ACCION,1499,2,Efectivo,baja,cliente frecuente,INT-2027,admin
+VJ-00134,2026-06-15,Sucursal Sur,CIUDAD DE MÉXICO, centro ,PLAYSTATION,Zelda,ACCION,999,4,tarjeta,MEDIA,cliente frecuente,INT-3621,admin
+VJ-00462,2026-06-07,Sucursal Sur,CDMX,occidente,Xbox,Pokemon,ACCION,599,1,TARJETA,Muy Alta,revisar captura,INT-7203,admin
+VJ-00017,2026-06-10,sucursal norte,GUADALAJARA,norte ,PlayStation,Zelda,Aventura,799,1,,Media,promoción,INT-7538,capturista2
+VJ-00160,2026-06-22,SUCURSAL CENTRO,CIUDAD DE MÉXICO,occidente,Xbox,FIFA,DEPORTES,0,3,Tarjeta,Muy Alta,revisar captura,INT-7313,admin
+VJ-00200,2026-05-30,SUCURSAL CENTRO,monterrey ,Occidente,Nintendo,Zelda,Acción,1199,2,efectivo ,Media,,INT-2457,admin
+VJ-00063,2026-05-08,Sucursal Sur,monterrey ,Occidente,PlayStation,Fortnite,Deportes,0,2,Tarjeta,baja,revisar captura,INT-6642,usuario_tmp
+VJ-00440,2026-04-10,Sucursal Sur,,Occidente, pc ,Mario Kart,ACCION,,1,,,revisar captura,INT-4000,capturista2
+VJ-00004,2026-01-13,Sucursal Norte, Ciudad de México ,Occidente, nintendo ,Halo, aventura ,799,4,,Muy Alta,cliente frecuente,INT-5407,admin
+VJ-00055,,SUCURSAL CENTRO,GUADALAJARA,norte ,xbox,Zelda,Acción,1799,3,tarjeta,,sin comentario,INT-6420,usuario_tmp
+VJ-00042,2026-02-13,SUCURSAL CENTRO,ciudad de mexico,Centro, playstation ,Pokemon,estrategia ,1199,2,Tarjeta,muy alta,promoción,INT-6282,capturista1
+VJ-00165,2026-06-06,Sucursal Centro,GUADALAJARA,occidente,Xbox,FIFA,estrategia ,1199,1,tarjeta,alta ,promoción,INT-8383,usuario_tmp
+VJ-00323,2026-04-14,Sucursal Norte,Guadalajara,Norte,PC,Minecraft,Deportes,1799,3, transferencia ,alta ,sin comentario,INT-4108,capturista2
+VJ-00076,2026-01-07,Sucursal Norte,CDMX,Norte, pc ,Zelda,DEPORTES,1499,1,Efectivo,alta ,revisar captura,INT-8368,admin
+VJ-00360,2026-04-05,SUCURSAL CENTRO,GUADALAJARA,norte , nintendo ,Call of Duty,Acción,599,,,Muy Alta,,INT-9677,admin
+VJ-00448,2026-05-08,Sucursal Centro,monterrey , centro ,PlayStation,Zelda,Aventura,999,1,Tarjeta,MEDIA,cliente frecuente,INT-3412,capturista1
+VJ-00037,2026-03-27,Sucursal Sur,CIUDAD DE MÉXICO,occidente,xbox,God of War,Aventura,999,,TARJETA,alta ,revisar captura,INT-7252,usuario_tmp
+VJ-00189,2026-04-02,sucursal norte,GUADALAJARA,Centro, nintendo ,Zelda,Aventura,599,4,,,promoción,INT-2384,admin
+VJ-00623,2026-01-18,sucursal norte, Ciudad de México ,Norte,Xbox,Call of Duty,Deportes,799,,efectivo ,Media,cliente frecuente,INT-1593,capturista2
+VJ-00564,2026-05-13,sucursal centro ,Guadalajara,norte ,PLAYSTATION,Zelda, aventura ,999,1,tarjeta,Media,,INT-1040,capturista2
+VJ-00077,2026-03-18,Sucursal Centro,CIUDAD DE MÉXICO,Norte, playstation ,Fortnite,DEPORTES,799,,Tarjeta,muy alta,promoción,INT-8664,usuario_tmp
+VJ-00128,2026-01-12,Sucursal Norte, Ciudad de México ,occidente,PC,Halo,estrategia ,1499,2,efectivo ,Muy Alta,sin comentario,INT-1260,capturista2
+VJ-00503,2026-05-29,Sucursal Centro,Guadalajara, centro ,Nintendo,FIFA,ACCION,1199,1,Efectivo,muy alta,sin comentario,INT-7351,admin
+VJ-00321,,Sucursal Norte,CIUDAD DE MÉXICO,Norte, XBOX ,Halo, aventura ,0,4,Tarjeta,Muy Alta,,INT-5994,capturista2
+VJ-00343,2026-06-01,sucursal centro ,ciudad de mexico,Occidente,Xbox,FIFA,Acción,999,2,,Baja ,cliente frecuente,INT-1316,capturista2
+VJ-00438,2026-01-28,Sucursal Centro,GUADALAJARA,CENTRO, pc ,God of War, aventura ,1499,3,efectivo ,muy alta,promoción,INT-3297,admin
+VJ-00417,2026-01-12,SUCURSAL CENTRO,GUADALAJARA,Centro,Xbox,Pokemon,Accion,,2,efectivo ,Baja ,sin comentario,INT-3333,admin
+VJ-00073,2026-02-22,Sucursal Centro,monterrey ,Centro,PLAYSTATION,Mario Kart,ACCION,799,2,efectivo ,muy alta,,INT-8713,capturista2
+VJ-00157,2026-03-29,Sucursal Centro,,CENTRO, nintendo ,Zelda, aventura ,1499,1,TARJETA,baja,,INT-1239,admin
+VJ-00178,2026-01-07,Sucursal Sur,Monterrey,CENTRO, XBOX ,Minecraft,Aventura,999,2,Tarjeta,baja,sin comentario,INT-5017,admin
+VJ-00352,2026-05-06,Sucursal Norte,monterrey , centro ,xbox,Pokemon,Deportes,,2, transferencia ,Baja ,promoción,INT-5183,capturista2
+VJ-00642,2026-04-14,Sucursal Sur,CIUDAD DE MÉXICO, centro ,NINTENDO,God of War,Deportes,1199,2,efectivo ,Media,sin comentario,INT-7956,usuario_tmp
+VJ-00332,2026-06-06,sucursal centro ,monterrey ,Centro,PLAYSTATION,Mario Kart,Aventura,0,1,Tarjeta,Baja ,promoción,INT-3012,capturista2
+VJ-00607,2026-03-05,Sucursal Norte, Ciudad de México ,Occidente,xbox,Spider-Man,ACCION,0,1, transferencia ,muy alta,sin comentario,INT-2085,capturista1
+VJ-00088,2026-03-21,Sucursal Norte,ciudad de mexico,CENTRO,NINTENDO,Minecraft,DEPORTES,999,1, transferencia ,MEDIA,sin comentario,INT-8076,usuario_tmp
+VJ-00509,2026-01-04,sucursal centro ,CIUDAD DE MÉXICO,norte ,PC,Zelda,DEPORTES,1499,1,efectivo ,MEDIA,revisar captura,INT-6796,capturista2
+VJ-00266,2026-03-06,Sucursal Sur,CDMX,Centro, pc ,God of War,Acción,0,2,efectivo ,muy alta,sin comentario,INT-7155,admin
+VJ-00231,2026-05-26,Sucursal Sur,ciudad de mexico,Norte,Nintendo,Fortnite, aventura ,1199,1,Efectivo,Baja ,,INT-4540,capturista1
+VJ-00341,2026-01-12,sucursal norte,CDMX,occidente, XBOX ,Zelda,DEPORTES,799,3,tarjeta,muy alta,cliente frecuente,INT-5719,usuario_tmp
+VJ-00184,2026-06-28,Sucursal Norte,monterrey ,Norte, XBOX ,Halo, aventura ,0,,Tarjeta,baja,,INT-4016,admin
+VJ-00442,2026-01-06,SUCURSAL CENTRO, Ciudad de México ,occidente,Nintendo,Spider-Man,Aventura,599,3,efectivo ,Muy Alta,sin comentario,INT-5624,admin
+VJ-00316,2026-06-25,Sucursal Sur,GUADALAJARA,norte ,NINTENDO,Zelda,Aventura,0,3,Efectivo,,cliente frecuente,INT-1245,capturista2
+VJ-00580,2026-03-11,Sucursal Centro,ciudad de mexico,CENTRO, pc ,Fortnite,Deportes,0,1,Efectivo,Media,sin comentario,INT-7227,admin
+VJ-00113,2026-06-02,Sucursal Centro,monterrey ,Norte,xbox,Halo,estrategia ,799,2,Efectivo,,sin comentario,INT-6373,admin
+VJ-00512,2026-05-30,Sucursal Centro,monterrey ,CENTRO,xbox,Call of Duty, aventura ,0,1,,MEDIA,cliente frecuente,INT-8894,capturista1
+VJ-00260,2026-02-16,sucursal centro ,CIUDAD DE MÉXICO,Centro,Nintendo,Call of Duty,Estrategia,599,2,tarjeta,muy alta,cliente frecuente,INT-2198,capturista2
+VJ-00527,2026-02-22,Sucursal Norte,GUADALAJARA,norte ,xbox,Pokemon,Deportes,1199,2,Transferencia,,revisar captura,INT-3286,usuario_tmp
+VJ-00144,2026-02-02,sucursal centro ,GUADALAJARA,CENTRO, pc ,Zelda,Acción,799,,,Media,cliente frecuente,INT-4589,capturista2
+VJ-00561,2026-05-09,sucursal centro ,ciudad de mexico,Occidente, pc ,Pokemon,Deportes,1499,1,Transferencia,Baja ,sin comentario,INT-6581,admin
+VJ-00195,2026-01-15,Sucursal Sur,ciudad de mexico,Norte,NINTENDO,Pokemon,Deportes,1199,4,tarjeta,muy alta,promoción,INT-8128,capturista2
+VJ-00090,2026-02-23,Sucursal Sur,Monterrey, centro , playstation ,Mario Kart,Aventura,1199,1,Tarjeta,alta ,revisar captura,INT-5474,usuario_tmp
+VJ-00173,2026-03-31,Sucursal Norte, Ciudad de México ,norte ,PlayStation,Halo,Acción,1199,4,TARJETA,Media,sin comentario,INT-2769,capturista2
+VJ-00258,2026-01-16,Sucursal Centro,GUADALAJARA,occidente,PLAYSTATION,Minecraft,Aventura,1499,3,Transferencia,baja,,INT-5003,admin
+VJ-00220,2026-05-16,sucursal centro ,monterrey ,CENTRO,PlayStation,Minecraft, aventura ,1799,1,Transferencia,alta ,revisar captura,INT-6786,admin
+VJ-00624,2026-02-03,sucursal centro ,Guadalajara,Centro, playstation ,God of War, aventura ,1199,3,Transferencia,Muy Alta,cliente frecuente,INT-2301,usuario_tmp
+VJ-00257,2026-01-07,Sucursal Norte,CDMX,norte ,PLAYSTATION,Pokemon,Deportes,1499,3,Transferencia,Alta,promoción,INT-2819,admin
+VJ-00339,2026-05-16,sucursal centro ,CIUDAD DE MÉXICO,norte ,xbox,Halo,Accion,1199,4, transferencia ,baja,cliente frecuente,INT-9051,admin
+VJ-00594,2026-06-11,SUCURSAL CENTRO,GUADALAJARA,CENTRO,Xbox,Call of Duty,Estrategia,1799,3,Transferencia,Media,cliente frecuente,INT-9243,admin
+VJ-00288,2026-02-12,SUCURSAL CENTRO,GUADALAJARA,Centro,PC,Call of Duty,Deportes,,, transferencia ,Alta,cliente frecuente,INT-2969,capturista1
+VJ-00506,2026-06-14,SUCURSAL CENTRO,CIUDAD DE MÉXICO,occidente,Xbox,Pokemon,ACCION,0,2,tarjeta,Muy Alta,promoción,INT-2325,usuario_tmp
+VJ-00051,2026-04-24,sucursal norte,Monterrey, centro , pc ,Mario Kart,Estrategia,,1,,muy alta,sin comentario,INT-1770,usuario_tmp
+VJ-00520,2026-02-05,SUCURSAL CENTRO,ciudad de mexico,CENTRO,,Pokemon,ACCION,599,,Efectivo,alta ,promoción,INT-7738,capturista2
+VJ-00666,2026-06-14,Sucursal Norte,monterrey ,Centro, playstation ,Zelda,Accion,599,1,TARJETA,Alta,sin comentario,INT-3887,capturista2
+VJ-00179,2026-03-08,SUCURSAL CENTRO,,Occidente,PLAYSTATION,Call of Duty,DEPORTES,1499,,TARJETA,Media,cliente frecuente,INT-7222,admin
+VJ-00406,2026-03-26,Sucursal Norte,CIUDAD DE MÉXICO,CENTRO,Xbox,God of War,Estrategia,999,4,Tarjeta,MEDIA,revisar captura,INT-2768,capturista2
+VJ-00050,2026-06-12,Sucursal Centro, Ciudad de México ,Norte, pc ,Mario Kart,Aventura,799,3,,MEDIA,cliente frecuente,INT-4878,capturista1
+VJ-00411,2026-01-27,Sucursal Centro,GUADALAJARA, centro ,PLAYSTATION,Call of Duty,Deportes,1799,1,efectivo ,Muy Alta,cliente frecuente,INT-6976,capturista1
+VJ-00274,2026-01-20,sucursal centro ,ciudad de mexico,occidente,PC,Mario Kart,Estrategia,799,1,efectivo ,,cliente frecuente,INT-9234,capturista1
+VJ-00198,2026-03-03,sucursal centro , Ciudad de México ,norte , pc ,Zelda,ACCION,1199,3,TARJETA,muy alta,,INT-8371,usuario_tmp
+VJ-00627,2026-04-20,Sucursal Sur,CIUDAD DE MÉXICO,CENTRO, pc ,Zelda,ACCION,799,1,Transferencia,,cliente frecuente,INT-6074,capturista2
+VJ-00308,2026-06-13,SUCURSAL CENTRO,Guadalajara,Norte,PC,Halo,Deportes,0,2,,MEDIA,sin comentario,INT-7973,capturista2
+VJ-00330,2026-02-17,sucursal centro ,ciudad de mexico,CENTRO,NINTENDO,Fortnite,ACCION,599,,,Alta,,INT-7280,usuario_tmp
+VJ-00224,2026-03-20,Sucursal Norte,Guadalajara,norte ,PLAYSTATION,FIFA,Aventura,999,4,TARJETA,baja,cliente frecuente,INT-6245,usuario_tmp
+VJ-00184,2026-06-28,Sucursal Norte,monterrey ,Norte, XBOX ,Halo, aventura ,0,,Tarjeta,baja,,INT-4016,admin
+VJ-00674,2026-02-15,SUCURSAL CENTRO,CDMX,norte ,xbox,Pokemon,Deportes,1799,1,TARJETA,MEDIA,sin comentario,INT-6329,capturista1
+VJ-00396,2026-01-30,Sucursal Sur,ciudad de mexico, centro ,PlayStation,Minecraft,Estrategia,1499,2,Efectivo,MEDIA,sin comentario,INT-9028,capturista2
+VJ-00392,2026-01-24,Sucursal Sur,CDMX,, XBOX ,FIFA,Accion,599,2,Efectivo,baja,cliente frecuente,INT-2147,capturista1
+VJ-00355,2026-01-14,Sucursal Sur,GUADALAJARA,norte , XBOX ,Mario Kart,Acción,,2, transferencia ,,promoción,INT-5064,capturista1
+VJ-00531,2026-05-31,Sucursal Sur,GUADALAJARA,occidente, XBOX ,Mario Kart,DEPORTES,799,3, transferencia ,Muy Alta,,INT-4343,capturista1
+VJ-00525,2026-01-27,SUCURSAL CENTRO,Guadalajara,norte ,PC,Fortnite,Acción,0,,Tarjeta,Muy Alta,promoción,INT-8359,capturista1
+VJ-00215,2026-06-29,Sucursal Norte,CIUDAD DE MÉXICO,Occidente,PLAYSTATION,Spider-Man,Estrategia,1199,,TARJETA,muy alta,sin comentario,INT-6868,capturista1
+VJ-00484,2026-04-18,sucursal norte,CIUDAD DE MÉXICO, centro , nintendo ,Mario Kart,Estrategia,599,1,efectivo ,alta ,sin comentario,INT-3184,usuario_tmp
+VJ-00068,2026-05-14,SUCURSAL CENTRO,Guadalajara,, XBOX ,Pokemon, aventura ,999,3,,,sin comentario,INT-3111,capturista2
+VJ-00238,2026-03-29,Sucursal Norte,Monterrey,Centro,NINTENDO,Zelda, aventura ,1499,4,,Baja ,cliente frecuente,INT-1889,usuario_tmp
+VJ-00359,2026-02-24,SUCURSAL CENTRO, Ciudad de México ,occidente,xbox,Halo,estrategia ,999,,Efectivo,muy alta,cliente frecuente,INT-4655,capturista2
+VJ-00505,2026-03-01,sucursal centro , Ciudad de México ,CENTRO, pc ,Minecraft,estrategia ,1199,1,efectivo ,,cliente frecuente,INT-4117,capturista1
+VJ-00651,2026-02-12,SUCURSAL CENTRO, Ciudad de México , centro ,PlayStation,Zelda,Deportes,,2,tarjeta,Muy Alta,promoción,INT-9997,capturista1
+VJ-00201,2026-05-26,Sucursal Norte,CIUDAD DE MÉXICO,CENTRO,PLAYSTATION,Fortnite,Estrategia,799,1,efectivo ,Muy Alta,,INT-2883,admin
+VJ-00230,2026-04-04,Sucursal Norte,Guadalajara, centro ,PlayStation,Halo, aventura ,0,1,Efectivo,alta ,sin comentario,INT-7904,capturista2
+VJ-00018,2026-03-01,Sucursal Norte,monterrey ,Norte,Xbox,Halo,ACCION,1499,2,,Baja ,revisar captura,INT-7690,admin
+VJ-00229,2026-01-29,SUCURSAL CENTRO,CIUDAD DE MÉXICO,occidente,PC,Halo,Accion,1499,3,TARJETA,Media,sin comentario,INT-7993,admin
+VJ-00349,2026-06-07,Sucursal Norte,Guadalajara,Norte,PLAYSTATION,Pokemon,DEPORTES,0,,efectivo ,Media,,INT-8911,capturista1
+VJ-00547,2026-05-05,Sucursal Sur,CIUDAD DE MÉXICO,occidente,NINTENDO,Zelda,Acción,799,2,efectivo ,Media,cliente frecuente,INT-7518,admin
+VJ-00620,2026-03-02,sucursal norte,GUADALAJARA,norte ,Nintendo,FIFA,Accion,,,,baja,,INT-8514,capturista1
+VJ-00619,2026-02-06,sucursal norte,GUADALAJARA,CENTRO,NINTENDO,God of War, aventura ,0,1,efectivo ,muy alta,promoción,INT-8260,admin
+VJ-00375,2026-03-25,sucursal norte,Monterrey,occidente, nintendo ,Spider-Man,estrategia ,599,2,Transferencia,Media,sin comentario,INT-1209,usuario_tmp
+VJ-00115,2026-02-27,Sucursal Norte,CIUDAD DE MÉXICO,occidente, XBOX ,Zelda, aventura ,999,2,efectivo ,Muy Alta,promoción,INT-3754,capturista2
+VJ-00556,2026-06-06,Sucursal Norte,CDMX,occidente,PC,Spider-Man,Accion,1799,4,TARJETA,MEDIA,sin comentario,INT-5091,capturista2
+VJ-00009,2026-02-01,sucursal norte,GUADALAJARA, centro ,PLAYSTATION,Zelda,Aventura,,1,TARJETA,,sin comentario,INT-8402,capturista1
+VJ-00284,2026-05-20,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Norte,NINTENDO,Mario Kart,ACCION,799,1,efectivo ,alta ,revisar captura,INT-3830,admin
+VJ-00023,2026-04-21,sucursal centro ,monterrey ,Norte,xbox,Pokemon,DEPORTES,1799,,Tarjeta,MEDIA,cliente frecuente,INT-2930,capturista2
+VJ-00106,2026-05-28,Sucursal Norte,Guadalajara,CENTRO,Xbox,Mario Kart,ACCION,1199,,tarjeta,,,INT-8842,admin
+VJ-00286,2026-03-11,Sucursal Norte,CIUDAD DE MÉXICO,CENTRO, pc ,Halo,ACCION,,1,TARJETA,Baja ,revisar captura,INT-6588,capturista1
+VJ-00133,2026-04-15,Sucursal Norte,ciudad de mexico,Centro, pc ,Mario Kart, aventura ,1799,1, transferencia ,,promoción,INT-6529,capturista1
+VJ-00370,2026-01-27,Sucursal Centro,CDMX,CENTRO, pc ,Spider-Man,Acción,1499,1,Transferencia,muy alta,cliente frecuente,INT-4844,capturista2
+VJ-00678,2026-03-08,sucursal norte,Monterrey,Occidente,Nintendo,God of War,Acción,,,Tarjeta,,sin comentario,INT-2617,capturista2
+VJ-00228,2026-03-23,Sucursal Norte,CDMX,norte ,xbox,Spider-Man,DEPORTES,1799,3,TARJETA,MEDIA,,INT-4807,capturista1
+VJ-00084,2026-01-23,Sucursal Sur,CDMX,Occidente,,Halo,Acción,1199,4,Transferencia,Media,revisar captura,INT-8628,capturista1
+VJ-00667,2026-06-12,sucursal centro ,Guadalajara, centro , nintendo ,Minecraft,ACCION,599,, transferencia ,alta ,cliente frecuente,INT-5318,capturista1
+VJ-00372,2026-06-24,Sucursal Norte,Guadalajara,, pc ,God of War, aventura ,1199,2,tarjeta,Muy Alta,,INT-7621,capturista2
+VJ-00123,2026-01-19,Sucursal Sur,CDMX,occidente,NINTENDO,God of War, aventura ,0,1, transferencia ,MEDIA,revisar captura,INT-1171,admin
+VJ-00295,2026-05-21,sucursal centro ,Monterrey,Centro, playstation ,Spider-Man,estrategia ,1799,3, transferencia ,alta ,sin comentario,INT-6941,admin
+VJ-00058,2026-01-13,Sucursal Norte,ciudad de mexico,CENTRO,PLAYSTATION,Halo,Aventura,799,4,tarjeta,muy alta,promoción,INT-4367,capturista2
+VJ-00643,2026-01-23,Sucursal Sur,CIUDAD DE MÉXICO,occidente,Xbox,Fortnite,Estrategia,799,2,efectivo ,Baja ,cliente frecuente,INT-6411,admin
+VJ-00421,2026-01-05,Sucursal Sur,Monterrey,CENTRO,NINTENDO,Zelda,Acción,,1,tarjeta,Muy Alta,sin comentario,INT-3091,admin
+VJ-00544,2026-04-17,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Occidente,NINTENDO,Mario Kart,Estrategia,1799,1,efectivo ,,sin comentario,INT-1878,capturista2
+VJ-00061,2026-06-09,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Occidente,PlayStation,FIFA, aventura ,1499,1,,alta ,sin comentario,INT-5234,usuario_tmp
+VJ-00629,2026-06-10,Sucursal Norte,Monterrey, centro , playstation ,Zelda,ACCION,0,4,efectivo ,,sin comentario,INT-9372,capturista1
+VJ-00374,2026-04-13,Sucursal Centro,Guadalajara,Norte, XBOX ,Minecraft,Aventura,0,4,efectivo ,Baja ,,INT-7479,capturista2
+VJ-00631,2026-03-29,SUCURSAL CENTRO,monterrey ,Centro,PC,Minecraft,Accion,799,2,efectivo ,alta ,revisar captura,INT-1293,usuario_tmp
+VJ-00474,2026-05-31,sucursal centro ,GUADALAJARA,Norte,PLAYSTATION,Minecraft,Acción,1199,1,tarjeta,muy alta,promoción,INT-5434,capturista2
+VJ-00500,2026-06-22,sucursal norte,GUADALAJARA,Occidente, playstation ,Fortnite,Accion,1799,1,efectivo ,,promoción,INT-2404,capturista1
+VJ-00303,2026-06-19,Sucursal Norte, Ciudad de México ,Norte, nintendo ,Call of Duty,ACCION,599,1,Transferencia,muy alta,promoción,INT-1081,usuario_tmp
+VJ-00162,2026-06-08,sucursal centro ,ciudad de mexico,Centro,NINTENDO,Minecraft,Aventura,1199,1,TARJETA,,,INT-9690,usuario_tmp
+VJ-00353,2026-04-24,sucursal centro ,CIUDAD DE MÉXICO,norte , XBOX ,Zelda,estrategia ,0,2,TARJETA,baja,sin comentario,INT-9559,capturista1
+VJ-00036,2026-05-16,sucursal norte,monterrey , centro , playstation ,Halo,Accion,,4,TARJETA,,sin comentario,INT-2165,admin
+VJ-00347,2026-02-14,Sucursal Norte,CIUDAD DE MÉXICO, centro ,NINTENDO,Zelda,ACCION,0,1,Transferencia,alta ,cliente frecuente,INT-4361,capturista2
+VJ-00187,2026-02-12,sucursal centro ,monterrey ,Centro,NINTENDO,Zelda, aventura ,999,1,TARJETA,Alta,promoción,INT-8667,usuario_tmp
+VJ-00174,2026-04-01,Sucursal Sur,monterrey ,Centro,NINTENDO,Call of Duty,Acción,1499,2, transferencia ,baja,revisar captura,INT-9353,capturista2
+VJ-00186,2026-05-17,SUCURSAL CENTRO,ciudad de mexico,occidente, XBOX ,Spider-Man,Estrategia,999,2,Tarjeta,,,INT-3798,admin
+VJ-00121,2026-06-27,Sucursal Norte,GUADALAJARA, centro ,NINTENDO,Fortnite,Deportes,1199,1,Transferencia,Muy Alta,,INT-6079,usuario_tmp
+VJ-00223,2026-03-28,sucursal centro ,monterrey ,Occidente,PlayStation,Mario Kart,ACCION,0,1,Efectivo,Media,sin comentario,INT-5647,admin
+VJ-00558,2026-04-06,sucursal norte,CIUDAD DE MÉXICO,Centro, nintendo ,Zelda,Accion,799,3,Efectivo,MEDIA,cliente frecuente,INT-5038,usuario_tmp
+VJ-00105,2026-05-02,sucursal norte,CIUDAD DE MÉXICO,occidente,NINTENDO,God of War, aventura ,,4,Transferencia,baja,sin comentario,INT-2943,capturista2
+VJ-00614,2026-04-11,Sucursal Norte,ciudad de mexico,occidente,Xbox,God of War,Estrategia,1499,1,,Muy Alta,sin comentario,INT-2566,admin
+VJ-00227,2026-05-20,,GUADALAJARA, centro ,xbox,Zelda,ACCION,1199,3,efectivo ,muy alta,cliente frecuente,INT-7948,capturista1
+VJ-00324,2026-05-10,sucursal centro ,CDMX,Norte, playstation ,Spider-Man,Accion,1499,4,efectivo ,Media,,INT-3034,admin
+VJ-00164,2026-01-30,sucursal norte,GUADALAJARA,CENTRO,NINTENDO,Pokemon,DEPORTES,1199,, transferencia ,alta ,revisar captura,INT-6662,admin
+VJ-00199,2026-03-29,SUCURSAL CENTRO,ciudad de mexico,norte ,NINTENDO,Spider-Man,Estrategia,0,3,,alta ,cliente frecuente,INT-1969,capturista1
+VJ-00100,2026-06-07,SUCURSAL CENTRO,GUADALAJARA,Norte,PLAYSTATION,God of War,Deportes,1799,2, transferencia ,alta ,promoción,INT-5576,usuario_tmp
+VJ-00048,2026-06-06,Sucursal Norte,Guadalajara,norte , nintendo ,Fortnite,DEPORTES,1499,3,,,revisar captura,INT-6967,capturista1
+VJ-00095,2026-01-18,Sucursal Sur,ciudad de mexico,norte , pc ,Zelda, aventura ,599,3,Transferencia,alta ,promoción,INT-4621,usuario_tmp
+VJ-00382,2026-02-19,SUCURSAL CENTRO,monterrey ,occidente,NINTENDO,Minecraft,Acción,1799,2,Tarjeta,alta ,,INT-9797,capturista1
+VJ-00083,2026-01-04,Sucursal Norte,GUADALAJARA, centro ,NINTENDO,Mario Kart,ACCION,1799,1,,muy alta,sin comentario,INT-5520,usuario_tmp
+VJ-00243,2026-06-29,Sucursal Sur,GUADALAJARA,occidente,PlayStation,Minecraft,Aventura,1499,3,Tarjeta,muy alta,promoción,INT-3977,capturista1
+VJ-00356,2026-06-15,Sucursal Sur,monterrey ,Norte,Xbox,Pokemon,DEPORTES,999,2,,Media,,INT-9634,capturista2
+VJ-00057,2026-01-27,Sucursal Norte,CDMX,norte ,xbox,God of War,Aventura,799,4,Efectivo,MEDIA,revisar captura,INT-3703,usuario_tmp
+VJ-00082,2026-06-12,Sucursal Sur,ciudad de mexico, centro , nintendo ,Halo,Aventura,799,3,,,,INT-1755,capturista2
+VJ-00026,2026-01-05,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Centro, playstation ,Call of Duty,Estrategia,1199,2,Tarjeta,MEDIA,sin comentario,INT-7832,capturista1
+VJ-00393,2026-01-28,Sucursal Centro,monterrey ,occidente,PC,Zelda,Estrategia,0,1, transferencia ,Muy Alta,sin comentario,INT-6533,capturista1
+VJ-00344,2026-01-27,Sucursal Norte,CDMX, centro ,Xbox,Minecraft,Aventura,0,1,Efectivo,Muy Alta,sin comentario,INT-6281,usuario_tmp
+VJ-00451,2026-04-28,Sucursal Sur, Ciudad de México , centro ,Nintendo,Minecraft,Accion,999,1,TARJETA,Media,sin comentario,INT-1574,capturista1
+VJ-00416,2026-03-08,SUCURSAL CENTRO, Ciudad de México , centro ,PC,Halo,Estrategia,,1,Transferencia,Muy Alta,sin comentario,INT-4322,usuario_tmp
+VJ-00612,2026-05-20,Sucursal Centro,CDMX,CENTRO, playstation ,Zelda,estrategia ,999,1,tarjeta,alta ,promoción,INT-9837,admin
+VJ-00575,2026-06-19,sucursal norte,CIUDAD DE MÉXICO,CENTRO, playstation ,Minecraft,Estrategia,999,4,Efectivo,MEDIA,,INT-4896,capturista1
+VJ-00467,2026-04-09,Sucursal Sur,CDMX,Centro,xbox,God of War,Estrategia,0,3,Efectivo,baja,revisar captura,INT-7816,capturista2
+VJ-00536,2026-02-20,Sucursal Centro,GUADALAJARA, centro ,NINTENDO,FIFA,Aventura,999,,Tarjeta,,,INT-1237,usuario_tmp
+VJ-00039,2026-02-25,Sucursal Centro,Monterrey,Centro,PlayStation,FIFA,estrategia ,799,,tarjeta,alta ,sin comentario,INT-4580,admin
+VJ-00670,2026-05-24,SUCURSAL CENTRO,ciudad de mexico,occidente,xbox,FIFA, aventura ,0,1,tarjeta,Alta,promoción,INT-1430,admin
+VJ-00166,2026-05-31,Sucursal Centro,Guadalajara,norte , playstation ,Pokemon,ACCION,999,,Transferencia,Alta,,INT-4691,usuario_tmp
+VJ-00672,2026-02-19,Sucursal Norte,ciudad de mexico, centro ,PC,Call of Duty,Accion,1199,,efectivo ,alta ,promoción,INT-6282,admin
+VJ-00523,2026-04-05,Sucursal Centro,CIUDAD DE MÉXICO,Centro,PLAYSTATION,Minecraft,Aventura,999,3,tarjeta,Media,promoción,INT-6344,capturista2
+VJ-00211,2026-05-02,Sucursal Centro,GUADALAJARA,Centro,Nintendo,Pokemon, aventura ,,2, transferencia ,Media,,INT-6635,capturista1
+VJ-00371,2026-04-19,sucursal centro ,CIUDAD DE MÉXICO,Centro,Nintendo,Spider-Man,Aventura,,2,tarjeta,Media,revisar captura,INT-8284,usuario_tmp
+VJ-00237,2026-02-03,Sucursal Sur, Ciudad de México ,Norte,PLAYSTATION,Call of Duty,ACCION,1799,1,efectivo ,baja,promoción,INT-4767,usuario_tmp
+VJ-00313,2026-01-01,Sucursal Sur,CIUDAD DE MÉXICO,norte ,NINTENDO,Zelda,Aventura,999,1,Tarjeta,MEDIA,,INT-7657,capturista1
+VJ-00542,2026-03-10,SUCURSAL CENTRO,Monterrey,Occidente, pc ,Call of Duty,DEPORTES,,3,TARJETA,Muy Alta,revisar captura,INT-2582,admin
+VJ-00092,2026-02-08,Sucursal Sur,CDMX,Centro,xbox,Minecraft,DEPORTES,0,1,Efectivo,Muy Alta,revisar captura,INT-5658,capturista2
+VJ-00119,2026-03-10,Sucursal Norte,CIUDAD DE MÉXICO, centro , pc ,Halo,DEPORTES,,3,,baja,sin comentario,INT-2508,admin
+VJ-00270,2026-03-10,Sucursal Sur,GUADALAJARA,Occidente,PC,Zelda,Estrategia,999,3,efectivo ,Alta,,INT-3860,admin
+VJ-00093,2026-01-12,SUCURSAL CENTRO,Guadalajara,Centro,Xbox,Fortnite,DEPORTES,599,2,Efectivo,Alta,promoción,INT-8606,admin
+VJ-00336,2026-01-30,Sucursal Centro, Ciudad de México ,norte , pc ,Mario Kart,estrategia ,1199,3,efectivo ,Media,cliente frecuente,INT-2222,capturista2
+VJ-00439,2026-05-29,SUCURSAL CENTRO,CIUDAD DE MÉXICO,Centro,PC,Minecraft,ACCION,1199,1,Efectivo,Media,promoción,INT-1533,capturista2
+VJ-00419,2026-03-24,sucursal centro ,monterrey ,norte , pc ,Zelda,Deportes,1199,1,TARJETA,muy alta,sin comentario,INT-1683,capturista2
+VJ-00625,2026-01-30,Sucursal Centro, Ciudad de México , centro , playstation ,FIFA,Aventura,999,3,tarjeta,Baja ,promoción,INT-5115,usuario_tmp
+VJ-00669,2026-03-29,sucursal centro , Ciudad de México ,Norte,xbox,Zelda,Aventura,0,1,TARJETA,muy alta,cliente frecuente,INT-1157,usuario_tmp
+VJ-00549,2026-04-18,Sucursal Centro,Guadalajara,occidente,NINTENDO,Zelda, aventura ,,2,tarjeta,Alta,,INT-4875,usuario_tmp
+VJ-00135,2026-03-13,Sucursal Norte,ciudad de mexico,norte ,Xbox,Fortnite,Estrategia,1199,2, transferencia ,Baja ,revisar captura,INT-6567,capturista2
+VJ-00267,2026-05-06,Sucursal Sur,Monterrey,Norte,PLAYSTATION,Mario Kart,Aventura,1499,3,Transferencia,,,INT-2762,admin
+VJ-00040,2026-04-25,sucursal norte,CDMX,norte , pc ,God of War,Acción,599,,tarjeta,alta ,sin comentario,INT-5700,admin
+VJ-00309,2026-02-13,SUCURSAL CENTRO,Guadalajara,occidente,Xbox,FIFA,Deportes,1499,4,,Muy Alta,sin comentario,INT-6725,usuario_tmp
+VJ-00331,2026-06-01,sucursal centro ,monterrey ,Norte,xbox,FIFA,Estrategia,1499,,,MEDIA,sin comentario,INT-5524,admin
+VJ-00632,2026-03-23,sucursal norte,monterrey ,occidente,NINTENDO,Fortnite,Acción,,2, transferencia ,muy alta,sin comentario,INT-1129,capturista2
+VJ-00302,2026-06-02,Sucursal Norte,ciudad de mexico, centro , XBOX ,Minecraft,Acción,,3,Transferencia,,promoción,INT-7513,usuario_tmp
+VJ-00301,2026-02-14,SUCURSAL CENTRO, Ciudad de México ,Norte,Nintendo,Halo,ACCION,0,3, transferencia ,alta ,cliente frecuente,INT-6960,capturista1
+VJ-00128,2026-01-12,Sucursal Norte, Ciudad de México ,occidente,PC,Halo,estrategia ,1499,2,efectivo ,Muy Alta,sin comentario,INT-1260,capturista2
+VJ-00250,2026-04-18,Sucursal Norte, Ciudad de México ,Occidente,PlayStation,Spider-Man,Deportes,,1,tarjeta,muy alta,sin comentario,INT-5499,capturista2
+VJ-00479,2026-06-20,SUCURSAL CENTRO,Guadalajara,CENTRO,,Spider-Man,Acción,799,1,Tarjeta,Media,revisar captura,INT-1061,usuario_tmp
+VJ-00209,2026-06-24,sucursal norte,Guadalajara,Centro, playstation ,Call of Duty,Deportes,599,1,TARJETA,Media,revisar captura,INT-1987,usuario_tmp
+VJ-00592,2026-06-16,Sucursal Centro,ciudad de mexico,norte , XBOX ,Call of Duty,Estrategia,999,1, transferencia ,Media,promoción,INT-7747,capturista1
+VJ-00281,2026-03-23,SUCURSAL CENTRO,monterrey ,norte , playstation ,Pokemon,Deportes,,,efectivo ,,,INT-2434,capturista2
+VJ-00013,2026-03-12,SUCURSAL CENTRO,Monterrey,norte ,PlayStation,Call of Duty,Acción,799,3,tarjeta,,cliente frecuente,INT-6160,usuario_tmp
+VJ-00214,2026-01-17,SUCURSAL CENTRO,Guadalajara,Centro, nintendo ,Pokemon,Estrategia,0,1,Efectivo,,revisar captura,INT-5680,capturista1
+VJ-00436,2026-01-06,Sucursal Norte,Monterrey,Norte,Xbox,FIFA,Accion,1499,1, transferencia ,,,INT-4687,usuario_tmp
+VJ-00514,2026-01-02,Sucursal Norte,ciudad de mexico, centro ,PC,Zelda,ACCION,,1,,MEDIA,,INT-7326,capturista2
